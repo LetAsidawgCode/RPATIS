@@ -1,0 +1,13 @@
+# Enhanced Tax Revenue Assessment and Collection System Through the Lens of the Municipal Treasurers and Assessors
+
+**Category:** [[Related Study local C2]]
+
+**Norberto Arrocena Chinilla and Glenne Berja Lagura. 2025. Enhanced Tax Revenue Assessment and Collection System Through the Lens of the Municipal Treasurers and Assessors. International Journal for Multidisciplinary Research 7, 4 (July–August 2025), 1–42. https://doi.org/10.36948/ijfmr.2025.v07i04.51726**
+
+- **Summary:** Semi-structured qualitative interviews with fifteen municipal assessors and treasurers across eight local government units in Davao del Norte by Chinilla and Lagura (2025) revealed that while computerized tax software generates declarations within minutes, assessment transfers suffer chronic two-to-three-day approval delays due to persistent communication gaps between assessor and treasurer departments.
+ 
+- **Relevance:** This empirical study provides the most direct organizational precedent for the inter-office workflow architecture evaluated in the proposed system's comparative assessment across Pasacao, Canaman, Magarao, and San Fernando. Documenting identical operational divides between the Municipal Assessor's Office (MASSO) and Municipal Treasurer's Office (MTO), Chinilla and Lagura’s qualitative findings directly inform the browser-based assessment evaluation screens and event-triggered routing queues engineered into the Assessment Request Routing Module. Departmental communication gaps breed processing latency. In Davao del Norte, manual data migration of over 9,000 legacy records caused severe tax computation discrepancies and operational downtime. Although Chinilla and Lagura diagnose acute inter-office friction, their study evaluates an existing enterprise software deployment (ETRACS); they offer no lightweight relational architectures or automated tracking queues to eliminate multi-day transfer delays. The proposed system directly overcomes this operational barrier by deploying an integrated web platform that bridges assessor evaluations and treasurer collection records in real time, eliminating inter-office communication gaps and automating assessment status tracking.
+
+- **Source Reference(s):**
+  - _Chapter IV: Major Themes and Operational Delays (pp. 14–16):_ Documents that routine tax declarations take minutes while property ownership transfers require two to three days, showing that communication divides between MASSO and MTO generate persistent data discrepancies.
+  - _Chapter IV: System Limitations and Data Migration (pp. 23–25):_ Details that manual-to-digital migration across 9,000 property ledgers spanned two years, producing chronic ledger compatibility errors, tax calculation discrepancies, and system downtime.

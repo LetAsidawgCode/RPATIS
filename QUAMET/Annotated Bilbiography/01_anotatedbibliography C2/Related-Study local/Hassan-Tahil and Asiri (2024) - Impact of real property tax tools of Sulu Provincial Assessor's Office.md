@@ -1,0 +1,13 @@
+# Impact of real property tax tools of Sulu Provincial Assessor’s Office: employees’ perspectives
+
+**Category:** [[Related Study local C2]]
+
+**Normalynne J. Hassan-Tahil and Masnona S. Asiri. 2024. Impact of real property tax tools of Sulu Provincial Assessor’s Office: employees’ perspectives. Social Psychology and Human Experience 1, 1 (April 2024), 1–14. https://doi.org/10.62596/8newjy87**
+
+- **Summary:** Across nineteen local government units in Sulu Province, an empirical survey of one hundred municipal personnel by Hassan-Tahil and Asiri (2024) demonstrated strong administrative endorsement for computerized assessment tools (mean = 4.53) and tax mapping (mean = 4.61), confirming a statistically significant correlation ($r = 0.641$, $p < 0.001$) between software adoption and appraisal accuracy.
+ 
+- **Relevance:** This empirical study provides localized user acceptability evidence for the presentation and evaluation interfaces within the proposed system's comparative evaluation across Pasacao, Canaman, Magarao, and San Fernando. Demonstrating that municipal personnel strongly favor digital interfaces to eradicate duplicate records, Hassan-Tahil and Asiri’s metrics directly guide the browser-based assessment evaluation screens and automated routing queues built into the Assessment Request Routing Module. Manual appraisal generates chronic record duplication. In paper-reliant municipal assessor offices, staff frequently issue overlapping tax declarations due to unindexed physical archives and missing parcel identifiers. While Hassan-Tahil and Asiri confirm employee eagerness to adopt digital assessment platforms, their research focuses exclusively on internal assessor tools; they do not examine inter-office document routing or electronic reconciliation with the municipal treasury. The proposed system directly overcomes this operational boundary by developing an integrated web platform that links computerized assessor appraisal screens directly with treasury payment validation views, preventing duplicate parcel issuances while automating inter-office workflow routing.
+
+- **Source Reference(s):**
+  - _Section 2 & 5: Operational Background & Survey Results (pp. 2, 6–7):_ Details baseline manual issues including duplicate parcel records and unindexed cards, while empirical survey findings show near-unanimous employee agreement on the benefits of computerization ($M = 4.53, SD = 0.401$) and tax mapping ($M = 4.61, SD = 0.393$).
+  - _Table 3: Correlation Analysis (p. 10):_ Reports a significant positive Pearson correlation ($r = 0.641, p < 0.001$) between electronic computerization and schedule of market value accuracy, confirming that software adoption eliminates manual valuation errors.

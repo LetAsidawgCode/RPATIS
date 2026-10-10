@@ -1,0 +1,13 @@
+# Effect of Property Tax Administration on Local Government Revenue: A Case of Rwanda Revenue Authority in Nyarugenge District, Kigali
+
+**Category:** [[Related Study international C2]]
+
+**Vedaste Mungwarakarama and Victoire Muhayimana. 2025. Effect of property tax administration on local government revenue: A case of Rwanda revenue authority in Nyarugenge district, Kigali. African Journal of Empirical Research 6, 3 (September 2025), 1077–1093. https://doi.org/10.51867/ajernet.6.3.83**
+
+- **Summary:** Using multiple regression modeling on survey data from 398 property owners representing 103,985 parcels in Nyarugenge District, Rwanda, Mungwarakarama and Muhayimana (2025) established that administrative workflows account for 89.3% of municipal revenue variance ($R^2 = 0.893$, $p < 0.001$), with payment processing ($B = 0.410$) and parcel registration ($B = 0.166$) serving as the primary determinants.
+ 
+- **Relevance:** This empirical investigation provides the statistical foundation for the Tax Payment Synchronization Module within the proposed system's comparative evaluation across Pasacao, Canaman, Magarao, and San Fernando. Demonstrating that synchronized registration and payment tracking explain 89.3% of municipal revenue performance, these econometric findings directly justify the automated foreign-key mapping and event-triggered ledger synchronization routines engineered into the Tax Payment Synchronization Module. Administrative delays directly undermine treasury collections. When valuation updates fail to sync promptly with collection windows, municipal treasuries suffer significant uncollected tax balances. Although Mungwarakarama and Muhayimana establish the statistical power of payment processing, their study operates strictly as an econometric perception survey; they deploy no working software pipelines, database triggers, or transactional reconciliation algorithms. The proposed system directly translates these empirical findings into an operational intervention by engineering an integrated web platform that synchronizes property assessment cards directly with treasury payment ledgers in real time.
+
+- **Source Reference(s):**
+  - _Section 3: Methodology (p. 1079):_ Surveys 398 respondents selected via Yamane formula from a target population of 103,985 registered parcels, testing tax character, parcel registration, payment processing, and administrative enforcement.
+  - _Section 4.4, Tables 8–11: Multiple Regression Model (pp. 1089–1091):_ Reports $R = 0.945$, $R^2 = 0.893$, $F = 748.968$ ($p < 0.001$), identifying tax payment processing ($B = 0.410, t = 9.818$) and parcel registration ($B = 0.166, t = 4.951$) as statistically dominant predictors of municipal revenue.

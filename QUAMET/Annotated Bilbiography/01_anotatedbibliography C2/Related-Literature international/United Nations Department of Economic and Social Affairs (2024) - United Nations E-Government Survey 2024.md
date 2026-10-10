@@ -1,0 +1,13 @@
+# United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development
+
+**Category:** [[Related Literature international C2]]
+
+**United Nations Department of Economic and Social Affairs. 2024. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development. United Nations, New York, NY. https://desapublications.un.org/publications/united-nations-e-government-survey-2024**
+
+- **Summary:** Across 193 UN member states evaluated under the 95-indicator Local Online Services Index (LOSI), the United Nations Department of Economic and Social Affairs (2024) demonstrated that disconnected back-office databases, unintegrated departmental software, and paper dependencies consistently throttle subnational municipal service delivery.
+ 
+- **Relevance:** This global e-governance benchmark provides the taxonomic foundation and comparative criteria for the proposed system's Needs Assessment & Comparative Evaluation Module. Drawing upon the LOSI multidimensional framework, the proposed system establishes browser-based evaluation screens and event-triggered routing queues within the Assessment Request Routing and Document Tracking Module. Subnational digitisation lags behind national rhetoric. While national portals proliferate, municipal departments in rural provinces remain isolated, forcing administrative personnel to physically courier paper records across office floors. Although UNDESA quantifies municipal digital deficits across international cities, its methodology operates strictly at a macro-comparative level; it measures neither day-to-day document reconciliation minutes nor relational database bottlenecks between municipal assessor and treasurer offices in Philippine local governments. The proposed system directly overcomes this empirical and architectural gap by conducting a localized needs assessment across Pasacao, Canaman, Magarao, and San Fernando and deploying a unified web platform that automates document tracking queues and synchronizes inter-office records in real time.
+
+- **Source Reference(s):**
+  - _Chapter 3: Assessment of Local E-Government and the Local Online Services Index (pp. 95–118):_ Measures municipal e-governance across 95 specific indicators, confirming that local government units suffer from profound data fragmentation and lagging back-office integration.
+  - _Chapter 5: Digital Government Infrastructure and Interoperability (pp. 145–162):_ Identifies cross-departmental data synchronization and standardized digital transaction trails as non-negotiable requirements for sustainable local public administration.

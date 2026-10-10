@@ -1,0 +1,13 @@
+# Challenges in Property Tax Assessment and Rating Practices: Evidence from Valuation Firms in Johor, Malaysia
+
+**Category:** [[Related Study international C2]]
+
+**Muhammad Alif Firdaus Moksin, Siti Zaleha Daud, and Fitriyah Razali. 2026. Challenges in Property Tax Assessment and Rating Practices: Evidence from Valuation Firms in Johor, Malaysia. International Journal of Research and Innovation in Social Science 10, 6 (June 2026), 2285–2293. https://doi.org/10.47772/IJRISS.2026.100600168**
+
+- **Summary:** Through thematic content analysis of semi-structured interviews with seven valuation practitioners across Johor, Malaysia, Moksin et al. (2026) established the Operational Valuation Dynamics framework, revealing that incomplete property archives (100%), technological limitations (85.7%), and lack of inter-agency data sharing consistently paralyze municipal assessment workflows.
+
+- **Relevance:** This empirical study validates the operational problem domain investigated in the proposed system's Needs Assessment & Comparative Evaluation Module across Pasacao, Canaman, Magarao, and San Fernando. Demonstrating that administrative friction stems from fragmented records rather than valuation formulas alone, the findings directly justify the browser-based evaluation screens and event-triggered routing queues engineered into the Assessment Request Routing Module. Incomplete archives cripple assessment timelines. In rural Philippine municipalities like Canaman, municipal assessors contend with physical parcel cards dating back to 1949 and spend days assembling paper dossiers for provincial review. Although Moksin et al. rigorously categorize operational frictions across municipal rating practices, their research remains strictly qualitative; they construct neither a working software prototype nor a centralized relational schema to automate inter-office workflows. The proposed system directly resolves this operational limitation by deploying an integrated web platform that automates document tracking, standardizes inter-departmental assessment handoffs, and connects appraisal records to treasury collection files in real time.
+
+- **Source Reference(s):**
+  - _Section 3, Table 2 & Figure 1 (pp. 2290–2291):_ Reports frequency rankings showing inadequate property data cited by 100% of participants (7/7), technological limitations by 85.7% (6/7), and procedural discrepancies by 57.1% (4/7).
+  - _Section 4 & Section 5 (pp. 2291–2292):_ Introduces the Operational Valuation Dynamics framework, documenting that reliance on manual data collection and disconnected inter-agency communication severely delays municipal rating rolls.

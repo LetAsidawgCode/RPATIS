@@ -1,0 +1,13 @@
+# Republic Act No. 10173: Data Privacy Act of 2012 and Its Implementing Rules and Regulations
+
+**Category:** [[Related Literature local C2]]
+
+**Republic of the Philippines. 2012. Republic Act No. 10173: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector (Data Privacy Act of 2012). Official Gazette of the Republic of the Philippines, Manila. https://www.officialgazette.gov.ph/2012/08/15/republic-act-no-10173/**
+
+- **Summary:** Approved on August 15, 2012, Republic Act No. 10173 mandates organizational, physical, and technical safeguards across Philippine government instrumentalities to secure sensitive citizen information against unauthorized processing, data breaches, and unmonitored disclosure.
+
+- **Relevance:** This foundational privacy law establishes the mandatory data security compliance baseline evaluated in the proposed system's comparative assessment across Pasacao, Canaman, Magarao, and San Fernando. Handling sensitive property titles, owner tax identification numbers, and assessed valuations directly binds the proposed system to statutory data protection thresholds. These legal constraints directly shape the asynchronous transaction audit logging, field-level data encryption, and role-based access control (RBAC) pipelines embedded within the Administrative Workflow Panel. Municipal records remain dangerously exposed. Physical assessment binders dating back to 1949 sit openly on counter desks in manual municipal halls, creating continuous risks of data leakage and identity theft. Although RA 10173 prescribes penal liabilities for data negligence under Section 25, the law exists as a statutory mandate rather than an implementation guide; it provides neither technical API specifications nor database schemas to protect municipal transactions. The proposed system directly bridges this compliance gap by substituting vulnerable paper ledgers with an encrypted relational database, automated transaction logging, and role-based access control (RBAC) that limits sensitive parcel viewing strictly to authorized municipal officers.
+
+- **Source Reference(s):**
+  - _Section 20: Security of Personal Information (pp. 8–10):_ Obligates government entities processing sensitive personal data to implement technical safeguards, access control systems, and automated encryption to prevent unauthorized access.
+  - _Section 22 & 25: Accountability and Penalties for Unauthorized Processing (pp. 11–13):_ Designates institutional accountability for data custodians and penalizes unlawful access to government databases with imprisonment up to three years and fines exceeding one million pesos.

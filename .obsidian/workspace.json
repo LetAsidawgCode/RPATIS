@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "9cf790ea15eed82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d72068f92cc529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2f129a389f3c186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_anotatedbibliography C2/Related-Study international/Wadesango et al. (2024) - The Role of Information Technology in Enhancing Property Tax Administration in Decentralised Local Government.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wadesango et al. (2024) - The Role of Information Technology in Enhancing Property Tax Administration in Decentralised Local Government"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3cd79a181f59ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75ce4ab949b7341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a26cba3b7c9e5dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df98125675f07a15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b035dbcece9c56ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7d7a155ff3752ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "db149b9eaa8aecd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af4501c52d91c36c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_anotatedbibliography C2/Related-Study local/Mabalay (2023) - Strengthening tax administration system.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b6335683f6b968f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_anotatedbibliography C2/Related-Study local/Mabalay (2023) - Strengthening tax administration system.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "30d62481cb09f326",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2fbf252b07b3b90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b41abc719c628419",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_anotatedbibliography C2/Related-Study local/Mabalay (2023) - Strengthening tax administration system.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d2f129a389f3c186",
+  "lastOpenFiles": [
+    "01_anotatedbibliography C2/Related-Study international/Sunirah et al. (2026) - Evaluating the Effectiveness of a Land and Building Tax Information System in Improving Property Tax Collection Evidence from Madiun City, Indonesia.md",
+    "01_anotatedbibliography C2/Related-Study international/Wangai (2023) - Effect of ICT Usage in the Administration of Property Taxes - A Case Study of Musanze City, Rwanda.md",
+    "01_anotatedbibliography C2/Related-Study local/Reyes (2026) - Assessing Local Revenue Code Implementation.md",
+    "01_anotatedbibliography C2/Related-Study local/Ternida and Azuelo (2025) - Optimizing Internal Revenue Generation for Enhanced Public Service Delivery in the 5th Class Municipalities in Camarines Norte.md",
+    "01_anotatedbibliography C2/Related-Literature local/Anti-Red Tape Authority (2022) - Memorandum Circular No. 2022-02 Zero Backlog Program.md",
+    "01_anotatedbibliography C2/Related-System international/City of Cape Town (2023) - General Valuation Roll and Property Rates Portal.md",
+    "01_anotatedbibliography C2/Related-Study international/Wadesango et al. (2024) - The Role of Information Technology in Enhancing Property Tax Administration in Decentralised Local Government.md",
+    "01_anotatedbibliography C2/Related-Study international/Senawi and Osmadi (2024) - Property Tax Reassessment Among Local Authorities.md",
+    "01_anotatedbibliography C2/Related-Study international/Dzagah et al. (2025) - Financial Accountability, Trust, and Property Tax Compliance Experiences from Sub-Saharan Africa.md",
+    "01_anotatedbibliography C2/Related-Study international/Moksin et al. (2026) - Challenges in Property Tax Assessment and Rating Practices Evidence from Valuation Firms in Johor, Malaysia.md",
+    "01_anotatedbibliography C2/Related-Study international/Mungwarakarama and Muhayimana (2025) - Effect of Property Tax Administration on Local Government Revenue A Case of Rwanda Revenue Authority in Nyarugenge District, Kigali.md",
+    "01_anotatedbibliography C2/Related-Study international/Chaputula and Chingamtolo (2026) - The Role of Information in Property Tax Administration.md",
+    "01_anotatedbibliography C2/Related-Study local/Hassan-Tahil and Asiri (2024) - Impact of real property tax tools of Sulu Provincial Assessor's Office.md",
+    "01_anotatedbibliography C2/Related-Study local/Fuentes and Salapa (2023) - Real Property Tax Collection in Sta. Josefa, Agusan Del Sur, Philippines.md",
+    "01_anotatedbibliography C2/Related-Study local/Damong (2026) - Revenue generation, collection efficiency, and fiscal sustainability.md",
+    "01_anotatedbibliography C2/Related-Study local/Convocar et al. (2026) - A Descriptive Study of E-Collection Systems and Municipal Revenue Efficiency.md",
+    "01_anotatedbibliography C2/Related-Study local/Chinilla and Lagura (2025) - Enhanced Tax Revenue Assessment and Collection System Through the Lens of the Municipal Treasurers and Assessors.md",
+    "01_anotatedbibliography C2/Related-Literature international/United Nations Department of Economic and Social Affairs (2024) - United Nations E-Government Survey 2024.md",
+    "01_anotatedbibliography C2/Related-Literature international/United Nations (2023) - The Sustainable Development Goals Report 2023 Special Edition.md",
+    "01_anotatedbibliography C2/Related-Literature international/Schenker and Prichard (2024) - Key Elements of IT System Design for Property Taxation.md",
+    "01_anotatedbibliography C2/Related-Literature international/Organisation for Economic Co-operation and Development (2024) - Tax Administration 2024.md",
+    "01_anotatedbibliography C2/Related-Literature international/Okunogbe and Santoro (2023) - The Promise and Limitations of Information Technology for Tax Mobilization.md",
+    "01_anotatedbibliography C2/Related-Literature international/Knebelmann (2022) - Digitalisation of Property Taxation in Developing Countries.md",
+    "01_anotatedbibliography C2/Related-Literature international/Junquera-Varela and Lucas-Mas (2024) - Revenue Administration Handbook.md",
+    "01_anotatedbibliography C2/Related-Literature international/ISO (2025) - ISO 19152-4 Geographic Information — Land Administration Domain Model (LADM) — Part 4 Valuation Information.md",
+    "01_anotatedbibliography C2/Related-Literature local/Republic Act No. 12001 - Real Property Valuation and Assessment Reform Act.md",
+    "00_anotatedbibliography/Related-Study local/Fuentes and Salapa (2023) - Real Property Tax Collection in Sta. Josefa, Agusan Del Sur, Philippines",
+    "GRP 23_CONCEPT PROPOSAL FINAL PLS.pdf"
+  ]
+}

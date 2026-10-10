@@ -1,0 +1,2893 @@
+=== PDF PAGE 72 (Manual Page 61) ===
+ 
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT 
+This research template is a comprehensive guide for University of Nueva Caceres students and professionals 
+engaged in the research paper writing process. This format provides guidance and support throughout the 
+research paper writing journey. This format also equips you with the skills and strategies to navigate the research 
+process effectively. Offering a clear roadmap to high-quality research, this guide breaks down key concepts and 
+provides step-by-step instructions.  
+To ensure that your thesis or dissertation meets rigorous academic standards, this guide outlines the 
+recommended structure and formatting by incorporating key elements from the Publication Manual of the 
+American Psychological Association (APA), 7th Edition. In addition to adhering to APA 7th Edition guidelines, this 
+template integrates best practices and insights from various other reputable scholarly sources, providing a 
+comprehensive framework to support your research's clear, consistent, and professional presentation. 
+Laying The Foundation 
+Before writing, decide how you will structure your ideas. Some use outlines, while others write first and organize 
+later. Regardless of your method, scientific writing demands a well-defined structure. Consider the information 
+each section of your paper will contain. If you do not typically use outlines, list each part's key points. For 
+collaborative work, discuss and agree on the content of each section.  
+ 
+Writing Your Research 
+● Express your ideas in grammatically correct, complete sentences that are easy to understand.  
+● Aim for English to avoid confusion.  
+● Strive for clear and concise writing. Keep it brief and straight to the point.  
+● Avoid unnecessary jargon or fluff. Focus on getting your findings and conclusions across efficiently.  
+● Prioritize presenting your research clearly, not flowery language.  
+● Scientific terms have specific meanings. Hence, choose your words carefully to ensure accuracy. 
+● If you struggle to write clearly, it might indicate a gap in your understanding of the topic.  
+ 
+Style Considerations 
+● Write simply, say plenty. Focus on delivering your message concisely and directly. Avoid unnecessary 
+words and ornamentation.  
+● Use an active voice. This can significantly shorten sentences and improve readability. 
+● Technical language allows you to express complex ideas efficiently. This applies to approved acronyms 
+and abbreviations as well. 
+61 
+
+=== PDF PAGE 73 (Manual Page 62) ===
+ 
+Some Things to Avoid 
+● You do not have to try to impress people by using words most people have never heard of. 
+● Do not use colloquial speech, slang, or “childish” words or phrases. 
+● Do not use contractions: for example, “don’t” must be “do not,” and “isn’t” must be “is not,” etc.  
+ 
+Abbreviations in Scientific Writing 
+Do not use abbreviations in the text except for units of measure. Always abbreviate these when using them with 
+data (2 mm; 10 min.). Except for temperature units (F, C, K), never abbreviate units of measure when using them 
+in a non-data context (e.g., "we measured length in millimeters"; "time was recorded in minutes"; "temperature 
+was measured in F (or C)"; "100 years have passed since Mendel did...").  
+ 
+Use of Past Tense 
+Research papers narrate the story of a completed investigation. Therefore, consistently use the past tense 
+throughout your writing, including the introduction, when describing your research activities, the questions you 
+posed initially (hypotheses), and the anticipated results (expectations). Similarly, use the past tense when 
+mentioning the work of others you cite. 
+ 
+First vs. Third Person 
+Scientific writing typically uses a third-person point of view. This means that when you write your research paper, 
+avoid using pronouns like “I,” “we,” “you,” and “us.” The third person promotes a more objective tone, distancing 
+the writer's personal opinions and biases from the research findings. It shifts the focus to the research itself, the 
+methods used, and the results obtained. Lastly, it maintains a consistent and clear voice throughout the paper.  
+ 
+How to Write the Third Person 
+● Pronouns: Avoid using "I," "we," "you," "me," "us," and "your." Instead, use pronouns like "the 
+researcher," "the authors," "this study," or the name of a specific researcher. 
+● Voice: Use the passive voice sparingly. The active voice can be more concise and easier to understand 
+(e.g., "The experiment was conducted..." vs. "Researchers conducted the experiment..."). However, the 
+passive voice can be appropriate in some situations, such as when emphasizing the action itself rather 
+than the actor (e.g., "Data was collected from 100 participants"). 
+● Focus: The writing should focus on the research itself, not the researcher(s). 
+● Tips 
+o As you write, read your sentences aloud to see if they sound natural in the third person. 
+o Pay close attention to the verb tense (typically past tense for completed research). 
+62 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 74 (Manual Page 63) ===
+ 
+o Consult or ask your instructor for guidance if you are unsure about a specific sentence. 
+o Avoid personal opinions or biases. Focus on presenting the research and its findings. 
+o Remember, using the third person effectively contributes to a professional and well-written 
+research paper. 
+ 
+Table 6. Examples of Rephrasing Sentences in the Third Person 
+Original Third Person 
+In this study, we investigated the effects of X on Y. This study investigated the effects of X on Y. 
+The results support our hypothesis. The results support the hypothesis presented in this 
+study. 
+We encountered some challenges during the 
+experiment. 
+Challenges were encountered during the 
+experimentation process. 
+ 
+Use Active Verbs 
+Active voice is a powerful tool for making your research paper clear, concise, and engaging. By incorporating 
+active verbs strategically, you can enhance your research paper's clarity, conciseness, and overall impact. The 
+following emphasizes the practical application of active verbs in your paper.   
+● Active voice sentences highlight the doer of the action.  Instead of the passive voice construction where 
+the subject is acted upon (e.g., "The experiment was conducted by the researchers"), active voice places 
+the researchers at the forefront (e.g., "The researchers conducted the experiment"). 
+● Replace weak verbs like "is," "was," "are," and "were" with more decisive action verbs that precisely 
+describe what happened. 
+Examples: 
+Weak: The research was analyzed. 
+Strong: The researchers analyzed the data. (Active voice) 
+Stronger: Statistical software analyzed the data. (Active voice with a specific agent) 
+● Highlight Findings: Use active voice to emphasize your research findings. 
+Passive: It was found that… 
+Active: The study found that… (Active voice) 
+Active (Stronger): The analysis revealed that… (Highlights the specific method used) 
+● Emphasize Importance: Active voice can showcase the significance of your research. 
+Passive: The results suggest that… 
+Active: The study suggests that… (Active voice) 
+Active (Stronger): These findings suggest the importance of… (Highlights the implication) 
+63 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 75 (Manual Page 64) ===
+ 
+● Tips 
+● Balance is Key: While active voice is preferred, do not overuse it. The passive voice can be 
+appropriate in certain situations, like describing established methods or well-known facts. 
+● Clarity Matters: Ensure your sentences remain straightforward and easy to understand, even 
+when using an active voice. 
+● Vary Sentence Structure: Mix up sentence length and structure to maintain reader engagement. 
+ 
+References 
+● Research papers rely heavily on citing the work of others. This means summarizing their findings 
+or information in your own words and referencing the source. 
+● Give credit where credit is due. Any ideas or information that are not initially yours need to be 
+supported by a citation within the text of your paper. 
+● Focus on paraphrasing, not quoting. Quoting other sources directly or using footnotes in scientific 
+writing is generally not common. Instead, rephrase the author's ideas or findings in your own words and 
+cite the source accordingly. 
+● In our university, we follow the APA style when citing references. You can find the guidelines for APA 
+citations at the end of this section.   
+ 
+Thesis/Dissertation Format 
+The American Psychological Association (APA) style is a widely recognized framework for organizing and 
+presenting scholarly work in the academic world, especially within research-intensive institutions. The APA 
+guidelines, structure, and principles inform our approach, offering a reference point for clarity, consistency, and 
+professionalism. This manual incorporates elements of APA style to support effective communication while 
+adapting the format to suit our specific needs and objectives better. 
+The APA style is valued not only for enhancing the readability of research papers but also for fostering effective 
+communication among scholars and practitioners. Its emphasis on structured title pages, headings, in-text 
+citations, references, and overall document organization reflects a commitment to maintaining the integrity and 
+credibility of the research process. By drawing inspiration from these guidelines, we aim to ensure that our work 
+remains accessible and comprehensible to the academic community, supporting the dissemination of knowledge 
+and advancing scholarly discourse. 
+ 
+General Formatting 
+● Paper Size. Use standard 8.5 x 11-inch (Letter) paper size for your document. 
+● Font Size and Style 
+○ The text should be in Arial, 11-point font. 
+64 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 76 (Manual Page 65) ===
+ 
+○ An APA Style paper may contain other fonts or font sizes under the following circumstances: 
+■ Within figure images, use a sans serif font (Calibri, Arial, Lucida Sans Unicode) with a type size 
+between 8 and 14 points. 
+■ When presenting computer code, use a monospace font, such as 10-point Lucida Console or 
+10-point Courier New. 
+● Special Characters 
+○ Special characters include accented letters, diacritical marks, Greek letters, mathematical symbols, 
+and other specialized signs. 
+○ To ensure accuracy and consistency, type special characters using your word-processing software's 
+built-in special character functions or through plug-ins such as MathType. 
+○ If a required character is unavailable through these methods, it should be inserted as a high-quality 
+image to preserve its appearance and clarity. 
+● Margins. Set margins to 1 inch (2.54 cm) on the paper's top, bottom, and right sides and 1.5 inches on 
+the left side for the manuscript's binding. 
+● Line Spacing. Double-space the entire paper, including the title page, abstract, text, headings, block 
+quotations, table and figure notes, references, and appendices, with the following exceptions: 
+○ Table body and figure image: The table body (cells) and words within the image part of a figure 
+may be single-spaced, one-and-a-half-spaced, or double-spaced, depending on what format 
+creates the most effective presentation of the data.  If the text appears on the same page as a 
+table or figure, insert a double-spaced blank line between the text and the table or figure.  
+○ Displayed equations: It is permissible to apply triple- or quadruple spacing in exceptional 
+circumstances, such as before and after a displayed equation. 
+● Paragraph Alignment 
+○ Use full justification. 
+○ Do not manually divide words at the end of a line, and do not use the hyphenation function to 
+break words at the ends of lines.  
+○ Do not manually insert line breaks into long DOIs or URLs; however, breaks in DOIs or URLs 
+applied automatically by a word processing program are permissible. 
+● Paragraph Indentation 
+○ Indent the first line of each paragraph by 0.5 inches. Use the tab key or the automatic 
+paragraph-formatting function of your word-processing program for consistency.  
+○ The remaining lines of the paragraph should be justified. 
+○ Exceptions to these paragraph indentation requirements are as follows: 
+65 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 77 (Manual Page 66) ===
+ 
+■ Section labels should be left-aligned and bold. 
+■ The entirety of a block quotation should be indented from the left margin 0.5 in. If the 
+block quotation spans more than one paragraph, the first line of the second and 
+subsequent paragraphs of the block quotation should be indented another 0.5 in., such 
+that those first lines are indented 1 in.  
+■ Level 1 headings (titles) should be centered (and in bold), and Level 2 and 3 headings 
+should be left-aligned (and in bold or bold italic, respectively. 
+■ Table and figure numbers, titles, and notes should be flush left. 
+■ Reference list entries should have a hanging indent of 0.5 in.  
+■ Appendix labels and titles should be centered. 
+● Pagination 
+○ Include page numbers in the top right corner of each page; exceptions are chapter title pages, 
+where they should not be visible but still retain the continued numbering. 
+ 
+Heading Format 
+There are five possible levels of headings in APA Style, and all topics of equal importance should have the same 
+heading level.  The number of heading levels needed for a paper depends on length and complexity; three is 
+average.  
+● If only one heading level is needed, use Level 1; if two levels are required, use Levels 1 and 2; if three 
+levels are needed, use Levels 1, 2, and 3; and so forth. 
+● Use only the number of headings necessary to differentiate distinct sections in your paper; short student 
+papers may not require any headings.  
+● Do not label headings with numbers or letters. 
+Table 7. Heading Format 
+Level Format 
+1 CENTERED, BOLD, UPPERCASE HEADING 
+      The text begins as a new paragraph. 
+2 Flush Left, Bold, Title Case Heading 
+      The text starts as a new paragraph. 
+3 Flush Left, Bold Italic, Title Case Heading 
+      The text begins as a new paragraph. 
+4         Indented, Bold, Title Case Heading, Ending With a Period.  
+The text begins on the same line and continues as a regular paragraph. 
+66 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 78 (Manual Page 67) ===
+ 
+5     Indented, Bold Italic, Title Case Heading, Ending With a Period.  
+The text begins on the same line and continues as a regular paragraph. 
+ 
+Below is an illustration demonstrating the use of headings in the full-text manuscript and journal.  
+ 
+Using these heading levels appropriately allows you to organize your content clearly and logically, making it easier 
+for readers to navigate your research paper.  
+Table Format  
+● Table Number and Title 
+○ Number each table (bold case) consecutively using Arabic numerals (e.g., Table 1, Table 2, etc.).  
+○ Title the table in italics and place it below the table number. Capitalize major words (Title Case). 
+● Headings 
+○ Use concise and descriptive column and row headings.  
+○ Capitalize the first letter of each significant word in column headings. 
+● Body 
+○ Use a consistent format for presenting data within the table.  
+67 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 79 (Manual Page 68) ===
+ 
+○ Align numerical data to the right and textual data to the left.  
+○ Use a single horizontal line at the top and bottom of the table and additional horizontal lines to 
+separate headings from the body. 
+○ Avoid vertical lines. 
+● Table Notes 
+○ Include any relevant notes below the table. Notes are left-aligned and can be general, specific, or 
+probability notes. “Note” should be italicized and followed by a period. 
+For detailed guidelines on formatting tables in APA style, refer to the Publication Manual of the American 
+Psychological Association, 7th edition, Sections 7.8 to 7.21. 
+Below is an illustration demonstrating the use of tables in the full-text manuscript and journal.  
+ 
+Figure Format  
+● Figure Number and Title 
+○ Number each figure (bold case) consecutively using Arabic numerals (e.g., Figure 1, Figure 2, 
+etc.). 
+○ Place the figure number above the figure, aligned to the left margin. 
+○ Title the figure below the figure number in italicized title case (capitalize major words). 
+○ Use letter suffixes (e.g., Figure 3a, Figure 3b) only when figures are closely related and logically 
+grouped. Avoid suffixes for unrelated additions. 
+68 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 80 (Manual Page 69) ===
+ 
+● Image Quality 
+○ Ensure all figures are clear, sharp, and of high resolution: minimum 300 dpi for photographic 
+images and 600 dpi for line art or black-and-white illustrations. 
+○ To maintain image quality, use preferred file formats such as TIFF, PNG, or EPS. Avoid 
+compressed formats like JPEG, which may degrade clarity. 
+○ Crop images tightly to the relevant content to eliminate unnecessary white space and optimize 
+figure size. 
+○ Avoid pixelated, blurry, or low-resolution images that reduce readability or detail. 
+● Labels and Legends 
+○ Include clear, descriptive labels for the figure's axes, elements, and legends. 
+○ Use a consistent font style and size throughout the figure, preferably matching the manuscript 
+font. 
+○ Font size should be no smaller than 8 points at final display size. 
+○ Capitalize the first letter of each significant word in labels and legends. 
+○ Axis labels should include the quantity measured, followed by units in parentheses (e.g., “Time 
+(ms)”, “Height (cm)”). Use units that simplify the label (e.g., nanometers instead of meters for 
+minimal distances). 
+○ Clearly define all symbols, lines, colors, abbreviations, error bars, scale bars, and other figure 
+components in the legend or caption. 
+● Figure Notes 
+○ Provide a concise, informative legend below the figure title that fully explains the figure so it can 
+stand alone without referring back to the text. 
+○ Include explanations of abbreviations and any necessary clarifications. 
+○ Use complete sentences or phrases as needed; do not hesitate to use more extended captions to 
+avoid confusion. 
+○ If the figure is reproduced or adapted from another source, include a proper citation below the 
+figure legend, respecting copyright and permissions. 
+● Formatting and Placement 
+○ Figures should be mentioned in the text in the order they appear, using their figure number (e.g., 
+“As shown in Figure 2…”). 
+○ Align figures flush left with the left margin. 
+69 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 81 (Manual Page 70) ===
+ 
+○ Separate figures clearly from the text using line breaks, borders, or spacing (e.g., at least two 
+double-spaced lines). 
+○ The figure number, title, and page orientation must match the figure’s orientation (e.g., 
+landscape figures should have landscape-oriented captions and page numbers). 
+○ Figures should fit on a single page. If a figure is too large, place it in an appendix with 
+appropriate referencing. 
+○ Use the same font style throughout the manuscript, but figure captions may be single-spaced and 
+slightly smaller in font size than the main text. 
+● Ethical and Legal Considerations 
+○ Obtain informed consent when using photographs of human subjects. 
+○ Ensure all figures comply with copyright laws; provide permissions and citations for third-party 
+materials. 
+For detailed guidelines on formatting figures in APA style, refer to the Publication Manual of the American 
+Psychological Association, 7th edition, Sections 7.22 to 7.35. 
+Below is an illustration demonstrating the use of figures in both the full-text manuscript and the journal.  
+ 
+ 
+In-Text Citation  
+● Author-Date Citation. Use the author's last name and the year of publication for the source. 
+○ Example: (Smith, 2020) 
+70 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 82 (Manual Page 71) ===
+ 
+● Multiple Authors 
+○ For two authors, use both last names separated by an ampersand (&). 
+■ Example: (Smith & Jones, 2021) 
+○ For three or more authors, use the first author's last name followed by "et al." and the year. 
+■ Example: (Smith et al., 2019) 
+● Direct Quotations. Include the page number(s) or other specific location, if available, when direct 
+quotations are lifted from sources. 
+○ Example: (Smith, 2020, p. 25) or (Smith, 2020, pp. 25-26) 
+● No Author. If the work does not have an author, use the first few words of the title in quotation marks for 
+articles or chapter titles and italics for book or report titles. 
+○ Example: ("Study Finds," 2020) or (The Psychology of Learning, 2020) 
+● Multiple Works by the Same Author. When citing multiple works by the same author in the same year, 
+distinguish them by adding a lowercase letter after the year. 
+○ Example: (Smith, 2020a) and (Smith, 2020b) 
+● Secondary Sources. Name the original source in your sentence when citing a source mentioned in another 
+source, and include the secondary source in the in-text citation. 
+○ Example: (as cited in Johnson, 2018) 
+○ Only the secondary source (Johnson, 2018) is included in the reference list. 
+● Group Author. When citing a group or organization as the author, use the group's full name in the first 
+citation. You can use abbreviations in subsequent citations. 
+○ Example: (American Psychological Association [APA], 2020) and (APA, 2020) 
+● Personal Communication. When citing personal communication, include the communicator's initials, last 
+name, and exact date as much as possible. 
+○ Example: (J. Smith, personal communication, January 15, 2021) 
+For detailed information on in-text citations, refer to the Publication Manual of the American Psychological 
+Association, 7th edition, Sections 8.10 to 8.36. 
+ 
+Hard Binding & Distribution Of Copies 
+To maintain a professional and unified presentation of research outputs, each department requires that 
+hardbound copies of theses or dissertations use the official department colors. This practice preserves the 
+academic unit’s identity and fosters a sense of pride and belonging among students and faculty. Proper hard 
+71 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 83 (Manual Page 72) ===
+ 
+binding and distribution ensure that research works are durable, easily identifiable, and accessible for reference 
+within the institution. 
+Table 8. Hardbound Color per Department 
+DEPARTMENT NAME HARDBOUND COLOR 
+(Department/Program Color) Sample Color 
+COLLEGE OF ENGINEERING & ARCHITECTURE 
+AR: Gray with maroon strip  
+CE: Gray with Green strip   
+CpE: Gray with Blue  strip   
+ECE: Gray with Red  strip   
+EE: Gray with Yellow  strip   
+ME: Gray with Orange  strip   
+CRIMINAL JUSTICE EDUCATION  Brown  
+SCHOOL OF BUSINESS & ACCOUNTANCY 
+Undergraduate: Green  
+Masteral: Red  
+SCHOOL OF COMPUTER AND INFORMATION 
+SCIENCES 
+Undergraduate: Orange  
+Masteral: Red  
+SCHOOL OF NURSING AND ALLIED HEALTH 
+SCIENCES White  
+SCHOOL OF SOCIAL AND NATURAL SCIENCES 
+Undergraduate: Maroon  
+Masteral: Red  
+Doctoral: Gray  
+SCHOOL OF TEACHER EDUCATION  
+Undergraduate: Sky Blue  
+Masteral: Red  
+Doctoral: Gray  
+Note: The text on the hardbound cover displays the work's title and follows the same formatting as the title 
+page (refer to the Thesis/Dissertation Format Section under Title Page). The only differences between the title 
+page and the hardbound cover format are the font color on the hardbound cover (all text on the cover is 
+embossed in gold) and the title's word spacing on the hardbound's spine. 
+ 
+Furnishing of Theses and Dissertation Copies 
+For the furnishing of these copies, students must submit the following: 
+● 1 hardbound copy for the library (in department colors) 
+● 1 softcopy of the paper (Thesis and IMRAD Journal format) and the research poster for the department 
+and the University Research Center 
+72 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 84 (Manual Page 73) ===
+ 
+Thesis Hardbound Format 
+ 
+Parts of the Thesis/Dissertation Manuscript 
+The following parts show the general table of contents that should be found in the thesis manuscript: 
+1) Title Page  
+2) Approval Sheet (for reference, see Appendix R) 
+3) Thesis/Dissertation Certification (for reference, see Appendix S) 
+4) Acknowledgment 
+5) Abstract 
+6) Table of Contents 
+73 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 85 (Manual Page 74) ===
+ 
+7) List of Tables 
+8) List of Figures 
+9) Chapter 1: Introduction 
+This chapter should contain the following: 
+a) Background of the Study 
+b) Research Objectives/Questions 
+c) Scope and Delimitation 
+d) Theoretical Framework 
+e) Conceptual Framework 
+f) Assumption/s 
+g) Hypothesis/Hypotheses (For Quantitative or Mixed-Method Research only) 
+h) Definition of Terms (both Conceptual and Operational) 
+i) Notes 
+10) Chapter 2: Review of Related Literature and Studies 
+This chapter should contain no fewer than 30 to 50 Scopus-indexed related literature sources for 
+undergraduate theses and at least 100 for master’s theses and doctoral dissertations. 
+11) Chapter 3: Research Methodology 
+a) Research Design 
+b) Methods and Procedures (This section includes a discussion of the Data Gathering Tools/Instruments, 
+Procedures, and Techniques.) 
+c) Respondents' Profile / Unit of Study (This section discusses the primary entities under study—whether 
+individuals, groups, or organizations—that constitute the unit of analysis, and describes the 
+characteristics of the respondents and the research locale.) 
+d) Ethical Considerations 
+e) Data Analysis Techniques 
+f) Notes 
+12) Chapter 4: Results and Discussion 
+a) This chapter discusses the study findings for each research problem using the PAIL-R Method (Present, 
+Analyze, Interpret, Link, Recommend). 
+74 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 86 (Manual Page 75) ===
+ 
+b) Notes 
+13) Chapter 5: Summary of Findings, Conclusions, and Recommendations 
+a) Research Objective 1 
+   1) Findings 
+   2) Conclusion 
+   3) Recommendations 
+b) Research Objective 2 
+   1) Findings 
+   2) Conclusion 
+   3) Recommendations 
+c) Research Objective 3 
+   1) Findings 
+   2) Conclusion 
+   3) Recommendations 
+ … 
+14) Bibliography 
+The bibliography lists all the references used in the study, arranged alphabetically following the APA Style. 
+15) Appendices 
+The appendices include supplementary materials necessary for the study.  
+ 
+1. Title Page 
+A title page is required for all APA-style papers. Students should include the following elements on the title page: 
+● Title of the paper, 
+● Name of each author of the paper (the byline for determining the order of authorship), 
+● Department and degree 
+● Date, written in the month and year format (e.g., December 2024) 
+ 
+75 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 87 (Manual Page 76) ===
+ 
+1.1 Writing a Good Title 
+The title should summarize the main idea of the research. It should be a concise statement of the main topic and 
+should identify the variables. A good title should: 
+● Clearly convey the research topic and potentially spark the reader’s interest. 
+● Short and focused, ideally under 15 words. 
+● Include key terms relevant to the research to improve online searchability. 
+● Avoid filler words as they add clutter without value. 
+● Spell out all terms for better understanding and accurate indexing in databases. 
+● Include the scientific name in italics and parentheses (e.g., Rat [Rattus norvegicus]) if animal names are 
+used. 
+ 
+Table 9. Effective and Ineffective Paper Titles 
+Effective title Ineffective title Rationale  
+Effect of Depression on the 
+Decision to Join a Clinical Trial 
+A Study of the Effect of 
+Depression on the Decision to 
+Join a Clinical Trial 
+More direct: Unnecessary words have 
+been cut. 
+Why and When Hierarchy 
+Impacts Effectiveness: A 
+Meta-Analytic Integration 
+Hierarchy and Team 
+Effectiveness 
+More precisely: The relationship between 
+variables has been clarified; the type of 
+research (meta-analysis) has been 
+specified. 
+Closing Your Eyes to Follow Your 
+Heart: Avoiding Information to 
+Protect a Strong Intuitive 
+Preference 
+Closing Your Eyes to Follow 
+Your Heart 
+More informative: A creative title has 
+been balanced with a substantive 
+subtitle.  
+ 
+How to Format the Title  
+● UpperCase: All the significant words in the title should be capitalized (e.g., “THE IMPACT OF SOCIAL 
+MEDIA”). 
+● Bold and Centered: The title should be bolded and placed in the center of the page. 
+● Spacing: The title goes a few lines down from the top margin. If the author note (information about the 
+authors) is long, adjust the spacing between the title and the margin to accommodate it. 
+● Long Titles: If the title is lengthy, it can be split into two parts (main title and subtitle) with double 
+spacing between them. 
+ 
+1.2 Title Format 
+● Font Style: Use Arial for all text. 
+76 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 88 (Manual Page 77) ===
+ 
+● Font Size: 
+○ Title: 14 pt, Bold 
+○ Names and other text: 12 pt, Regular 
+● Alignment: Center-align all text on the title page. 
+● Spacing: Double Spaced 
+1.3 Sample Title Page 
+ 
+2. Abstract 
+Think of an abstract as a mini billboard for your research. It should be concise yet informative, grabbing readers' 
+attention and convincing them to delve deeper into your paper. Since many people decide to read your work 
+based on the abstract alone, it is essential to pack it with key details and relevant keywords. This section will 
+77 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 89 (Manual Page 78) ===
+ 
+guide you in crafting a strong abstract and tell you what information to include depending on your paper type. 
+There are also specific rules for formatting and length that should be followed. 
+ 
+2.1 Qualities of a Good Abstract 
+● Accuracy. Double-check that your abstract reflects the paper's content and purpose. Do not add 
+information not mentioned in the main text. If your work builds on or replicates prior research, cite it 
+using the author-date format. 
+● Neutrality. Report the facts; do not judge or comment on the findings in the paper. 
+● Clarity. Use clear and direct language. Opt for verbs instead of nouns (e.g., "investigated" vs. "an 
+investigation of") and active voice instead of passive voice (e.g., "we present results" vs. "results are 
+presented"). Use the present tense for ongoing conclusions or results and the past tense for specific 
+manipulations or measurements. Statistical or mathematical details should follow formatting guidelines as 
+stated in this manual. 
+● Conciseness. Keep it short and focus on the most critical information, especially in the first sentence. 
+Prioritize key points and avoid repeating the title. Aim for just 4-5 crucial concepts, findings, or 
+implications. Include the specific words your target audience might use when searching for research like 
+yours. 
+2.2. Content 
+Research can utilize quantitative, qualitative, and mixed methods approaches. The Abstract should describe the 
+following elements: 
+● Problem: Briefly state the research question or issue you investigated (ideally in one sentence). 
+● Methods: For quantitative studies, mention the main hypotheses or theories tested, and for qualitative 
+studies, describe the methodological approach and rationale for choosing it.  
+● Participants: Briefly describe the people or data sources involved (e.g., species for animal studies). More 
+details will be in the main paper. 
+● Study Design: Explain the research design (e.g., experiment, observation) and how you analyzed the data 
+(e.g., statistics, interviews). 
+● Sample size: Mention the number of participants (quantitative) or describe the amount of data 
+(qualitative). 
+● Materials: Briefly mention any key tools or measurements used. 
+● Secondary data analysis: State if you used existing data from another source. 
+● Findings: For quantitative, include the main results, effect sizes (how significant the effect was), and 
+confidence intervals (how reliable the results are) if possible. For qualitative, explain the main discoveries 
+concerning the context of your study. 
+78 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 90 (Manual Page 79) ===
+ 
+● Conclusions: Briefly summarize your conclusions, the meaning of your findings, or how they could be 
+applied. 
+2.3 Format 
+● Abstracts typically are limited to a word count of 250 to 300. 
+● Place the abstract on its own page after the title page (i.e., page ii).  
+● Write the section label “Abstract” in bold title case, centered at the top of the page, and place the 
+abstract below the label. 
+● Abstracts in paragraph format are written as a single paragraph without indentation of the first line, 
+double-spaced, and justified.  
+2.4 Keywords 
+Keywords are like labels for your research. They can be single words, phrases, or even acronyms that capture the 
+essence of your paper. Databases use these keywords to categorize your work, making it easier for people to find 
+it when searching online. Provide three to five keywords describing the content.  
+Format 
+● Write “Keywords:” in italics, one line below the abstract. 
+● Indent it like a regular paragraph (half-inch indent). 
+● Use lowercase letters (except for proper nouns), separate keywords with commas, in no specific order, 
+and no punctuation after the last keyword. 
+● If the keywords are too long for one line, the second line should NOT be indented.  
+ 
+3. Introduction 
+The introduction, the first chapter in a manuscript, sets the stage for your research, giving context and direction 
+to your work. The introduction has the following subheadings: Background of the Study,  Research Objectives, 
+Scope and Delimitation, Theoretical Framework, Conceptual Framework, Assumptions, Hypothesis, and Definition 
+of Terms. Each subtopic is explained in the succeeding pages.  
+The introduction starts on a new page with the manuscript title centered at the top, written in bold, and 
+double-spaced. 
+ 
+3.1  Background of the Study 
+Function. The background of the study serves as the opening of your research paper, laying the groundwork for 
+your audience. Here, you will accomplish key tasks: 
+79 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 91 (Manual Page 80) ===
+ 
+● Provide context: Briefly discuss relevant data or past research (with citations) to establish the current 
+understanding of the problem you are investigating. This helps readers grasp the significance of your 
+work.  
+● Connect the real-world issues: Emphasize the importance of addressing practical problems by highlighting 
+the need to clarify conflicting results from past studies and expand on existing theories. Stress the 
+relevance of solving pressing social issues, health problems, or other challenges, including those specific 
+to the local community. If your research involves a debated topic, present all perspectives fairly and 
+objectively, avoiding personal bias or attacks. Grounding your study in real-world and local community 
+issues demonstrates the significance of your research and shows its potential to contribute meaningful 
+solutions that benefit society directly. 
+● Identify the gap: Discuss conflicting findings from past studies or areas where existing theories need 
+further exploration. This highlights the need for your research.  
+● Frame the research problem: Clearly describe the specific issue or challenge your study addresses, 
+providing a focused context that guides the investigation and helps readers understand the purpose and 
+scope of your research. 
+Articulate Study Goals. To write the introduction section of your research paper, focus on the part where you 
+explain your goals and the method you used. Start by clearly stating what you are trying to achieve with your 
+research. Explain why you are doing this study and what questions you hope to answer. Next, connect your goals 
+to the methods you used. Explain why the specific techniques you chose were the best way to answer your 
+research questions.  
+● Quantitative Research. If using numbers and statistics (quantitative research), mention your primary and 
+secondary sources. Explain how these hypotheses came from previous research. You can also mention 
+any exploratory questions you have (ideas you want to investigate but do not have firm predictions 
+about). 
+● Qualitative Research. If you are using text analysis or interviews (qualitative research), the introduction 
+might include examples or stories to illustrate your topic. Explain your overall research goals and how you 
+approached the inquiry (your philosophical perspective on the research). There are different approaches, 
+like developing theories, understanding social issues, or examining how people communicate. 
+● Mixed Methods Research. If you are using a combination of numbers and text analysis (mixed methods), 
+explain the goals of each part of your study and why you decided to combine them.  
+In essence, the background of your study should answer these essential questions: 
+● What is the topic of your research? 
+● What led you to your study? Why is this problem worth studying? What are the potential impacts? 
+● What was previously known about this topic? Are there earlier reports you are building on or differing 
+from?  
+● How will your research add to the existing knowledge?  
+● What are the potential implications of your research, both in theory and practical application? 
+80 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 92 (Manual Page 81) ===
+ 
+A well-written introduction should answer these questions concisely (within a few pages, 3 to 4 pages) and 
+provide the reader with a clear understanding of your research.  
+ 
+Writing Style. For optimal clarity, write in an active voice as much as possible. Limit first-person pronouns and 
+emphasize clear, concise communication. The primary focus should be on active voice for a clear, 
+easy-to-understand style. 
+ 
+Structure. Think of your introduction as an upside-down pyramid. The widest part at the top represents general 
+information, gradually narrowing down to your specific research question. 
+How to structure the background of your study: 
+1) Start Global: Begin with general background information about your topic, making it accessible to a 
+broad audience within your field. Start with a global perspective to set the stage and highlight the topic's 
+significance on a wider scale. 
+2) Provide National Context: As you move down the “pyramid,” gradually introduce more specific details 
+and relevant past research, citing essential sources. Incorporate the national context to show how the 
+topic relates to your country.  
+3) Sharpen the Focus: Next, work toward the local context to demonstrate its relevance in your specific 
+region or community, highlighting any relevant information and observations that illustrate the problem 
+locally. 
+4) Significance: Narrow down your specific research question or hypothesis. Explain why this topic is 
+essential by describing the potential impact of your research on the most critical stakeholders and 
+contributions to the field. 
+5) Rationale: Discuss the relevance and timeliness of your study by connecting it back to the problem 
+introduced and how it addresses current issues or challenges within the field. Justify the need for your 
+research by highlighting any gaps in the existing knowledge that your study aims to fill. 
+A helpful tip: Write your thesis statement (the specific purpose) and then work backward. By pinpointing your 
+research question, you can determine the relevant scientific context and the level of general information needed 
+at the beginning of your introduction. This approach ensures a clear, focused introduction that effectively leads 
+your reader to your research question.  
+ 
+3.2  Research Objectives/Questions 
+Research objectives define the specific goals and intentions of your study. They provide a clear direction and 
+focus, guiding you to effectively address your research questions. Well-articulated objectives help delineate the 
+scope of your study, making it easier to design an appropriate methodology and conduct meaningful data 
+analysis. By clearly stating your objectives, you communicate the purpose and significance of your research to 
+your audience—whether they are academic peers, instructors, or reviewers—enhancing the clarity and impact of 
+your work. 
+81 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 93 (Manual Page 82) ===
+ 
+How you frame your study—whether through research questions or objectives—often depends on the nature of 
+your research approach. Qualitative studies typically emphasize research questions that guide an 
+exploratory and interpretive investigation. In contrast, quantitative studies usually focus on clearly defined 
+research objectives that specify measurable goals. For mixed methods research, the choice depends on 
+which approach predominates: if the qualitative component is dominant, research questions are generally 
+preferred; if the quantitative component leads, then objectives are more appropriate. Sometimes, research 
+questions and objectives are used together, with clear distinctions about which apply to each part of the study. 
+This careful alignment ensures that your research remains focused, coherent, and methodologically sound. 
+ 
+Considerations for Crafting Research Objectives  
+When crafting research objectives, it is essential to follow specific guidelines to ensure clarity, focus, and 
+relevance. Adhering to these principles enhances the quality of your study and facilitates effective communication 
+of your goals and intentions to your audience. 
+● Clarity and Specificity: Research objectives should be clear and specific. They should precisely state what 
+the researcher aims to achieve. Avoid vague or broad statements. 
+● Alignment with Research Questions: Ensure that your research objectives align with your main research 
+objective or hypotheses. Each objective should directly address a specific aspect of your research goal. 
+● Measurable Outcomes: Objectives should be measurable, meaning they should specify the criteria for 
+success. This allows you to assess whether the objectives have been achieved. 
+● Feasibility: Consider the feasibility of your objectives. They should be realistic and achievable within the 
+scope of your study, considering time, resources, and other constraints. 
+● Relevance: Ensure that your objectives are relevant to your research topic and contribute to the overall 
+purpose of your study. They should address significant aspects of the research problem. 
+● SMART Criteria: Research objectives should adhere to the SMART criteria—Specific, Measurable, 
+Achievable, Relevant, and Time-bound. This ensures that your objectives are clear, focused, and 
+attainable within a specific timeframe. By making your objectives SMART, you set well-defined and 
+realistic goals, providing a structured and goal-oriented direction for your research. This approach helps 
+you create clear and attainable targets that effectively guide your study. 
+● Use of Action Verbs: Use clear and concise action verbs to describe your objectives. Examples include "to 
+investigate," "to analyze," "to determine," "to evaluate," and "to compare." 
+● Number of Objectives: Limit the number of objectives to a manageable number. Typically, 3-5 objectives 
+are sufficient for most research studies. 
+ 
+Structure. Start from the general statement of your research objective, and then outline its specific goals. 
+● General Objective: Begin by articulating the overarching purpose or goal of your study. 
+○ Example: “The purpose of this study is to [determine/explore/identify/etc]. 
+82 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 94 (Manual Page 83) ===
+ 
+○ Example: “The purpose of this study is to explore the influence of digital marketing on consumer 
+purchasing decisions.” 
+● Specific Objectives: After stating your general objective, start a numbered list below presenting the 
+specific, smaller goals derived from the main objective. 
+○ Example: Specifically, it aims to…” 
+1. [Research objective 1] 
+2. [Research objective 1) 
+3. [Research objective 1] 
+○ Example: Specifically, it aims to…” 
+1. To identify the types of marketing strategies most frequently encountered by 
+customers. 
+2. To determine customers' most common purchasing decisions in response to 
+marketing exposure. 
+3. To determine if a significant relationship exists between marketing strategies and 
+customer purchasing decisions. 
+ 
+Considerations for Crafting Research Questions 
+In qualitative research, the focus is on research questions rather than objectives or hypotheses. Unlike objectives, 
+which specify concrete goals, or hypotheses, which predict relationships or outcomes, qualitative research 
+questions guide an exploratory inquiry into a central phenomenon or concept. They enable participants to 
+understand complex, contextual, and varied perspectives. Below are some key considerations suggested by 
+Creswell and Creswell (2018): 
+● Avoid Objectives and Hypotheses: Qualitative studies should not use research objectives (specific goals) 
+or hypotheses (predictions). Instead, focus on open-ended research questions that explore the 
+phenomenon. 
+● Question Starters: Begin questions with “What” or “How.” Avoid “Why” because it implies cause-effect 
+explanations, which are less suitable for qualitative inquiry. 
+● Single Phenomenon or Dimension: Focus each research question on a single phenomenon or a specific 
+dimension/aspect of that phenomenon. This approach allows for in-depth exploration of each part while 
+maintaining clarity and focus. 
+● Exploratory Verbs: Use nondirectional, open-ended verbs such as explore, describe, discover, seek to 
+understand, reflect, or report to frame your questions. 
+● Avoid Quantitative Terms: Do not use terms like effect, influence, impact, determine, cause, or relate, 
+which imply measurement or causality. 
+83 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 95 (Manual Page 84) ===
+ 
+● No Premature Theory Reference: Do not embed references to existing theories or literature in the 
+questions unless your qualitative strategy specifically requires it. 
+● Participant and Context Specification: Clearly identify the participants and research context, if relevant, to 
+define the scope of your inquiry. 
+ 
+3.3  Scope and Delimitation 
+Function. The scope and delimitations section provides a clear understanding of the boundaries within which the 
+research study is conducted. It defines what is included in the study (scope) and what is excluded (delimitations), 
+helping manage readers’ expectations and ensuring the study remains focused and manageable. 
+Scope. The scope should clearly outline the following: 
+● Research Objectives: Describe the primary objectives and goals of the study. 
+● Research Questions: Present the specific research questions the study aims to answer. 
+● Population and Sample: Define the population and sample of the study. Include details such as the 
+number of participants, demographic characteristics, and selection criteria. 
+● Geographic Location: Specify the location where the study is conducted. 
+● Time Frame: Indicate the period during which the study takes place. 
+● Variables: Identify the key variables being studied and their relationships. 
+● Methodology: Outline the research methodology and data collection techniques used. 
+ 
+Delimitations. The delimitations section should address the following: 
+● Boundaries of the Study: Clearly define what is excluded from the study, such as specific variables, 
+populations, or geographic locations that are outside the scope. 
+● Justification: Provide a rationale for these exclusions. Explain why certain aspects are not included and 
+how this helps maintain the focus and manageability of the study. 
+● Limitations in Scope: Discuss any limitations related to the scope that could impact the study's findings or 
+generalizability. 
+● Constraints: Mention any limitations or restrictions that may have influenced the study design and 
+implementation. 
+Structure. When defining the scope and delimitations of your study, it is essential to follow specific guidelines to 
+ensure clarity, focus, and relevance. Adhering to these principles not only enhances the quality of your study but 
+also facilitates effective communication of your research boundaries to your audience. 
+● Clarity and Conciseness: Write the scope and delimitations sections clearly and concisely. Avoid 
+unnecessary jargon and ensure that the information is easily understandable. 
+84 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 96 (Manual Page 85) ===
+ 
+● Consistency: Ensure that the scope and delimitations align with other sections of the research paper, such 
+as the introduction, literature review, and methodology. 
+● Transparency: Be transparent about the decisions made regarding the scope and delimitations. This helps 
+readers understand the context of the study and its limitations. 
+● Be Specific and Precise: When defining the scope and delimitations of your study, avoid vague or broad 
+statements. Clearly articulate the boundaries of your research to ensure that readers understand precisely 
+what is included and excluded. Being specific and precise helps to provide a clear context for your study 
+and prevents any misunderstandings about the extent of your research. 
+For example, instead of saying, "This study will examine the impact of technology on education," you can 
+say, "This study will examine the impact of mobile learning applications on the academic performance of 
+high school students in urban areas over the course of one academic year." 
+By being specific, you set clear expectations and provide a focused framework for your research. 
+ 
+3.4  Theoretical Framework 
+The theoretical framework is the backbone of your research. It provides a lens through which you analyze your 
+findings and contributes to the overall significance of your study.  
+ 
+Developing a Theoretical Framework 
+● Conduct a thorough literature review to identify relevant theories and research on your topic. 
+● Choose a theory that offers a clear and well-defined set of concepts applicable to your research 
+questions. Consider the strengths, limitations, and potential for your research to contribute to the chosen 
+theory. 
+● There is no “one-size-fits-all approach. The specific framework depends on your research topic and field 
+of study.  
+● Ensure that there is one theory per research objective to maintain clarity and focus in addressing each 
+objective thoroughly. 
+● Create a visual representation of the theoretical framework using a diagram or flowchart depicting how 
+each theory influences or guides your current study. This can help describe the relationships between 
+concepts with arrows or connecting lines. 
+● Prepare a short description or summary of the chosen theory, including its citation.  
+● Ensure that your illustration is clear, concise, and easy to understand for your readers.  
+ 
+Structure. When outlining the theoretical framework for your research paper, it is essential to follow a structured 
+set of guidelines to ensure that the framework is clearly stated, rationalized, and aligned with your research 
+objectives. The following points provide a comprehensive framework: 
+85 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 97 (Manual Page 86) ===
+ 
+● Identify Key Concepts and Explain Relationships: Identify the central concepts within your chosen 
+theoretical framework. Clearly explain how these concepts interact and influence each other in the 
+context of your research. How do they interact and influence each other in the context of your research? 
+● Highlight any propositions or hypotheses derived from the framework that your study aims to explore or 
+test. 
+● Define Theories: For each theory used in the framework, define its key principles, principal contributors, 
+and strengths.  
+● Align with Objectives: After defining a theory, follow up its definition by discussing how it aligns with your 
+research objective. This helps contextualize the theory within your study. Do this for each theory in the 
+framework. 
+● Properly Cite Sources: Ensure that all theories and sources used in your framework are properly cited to 
+give credit to original authors and maintain academic integrity. Use a consistent citation style throughout 
+your work. 
+ 
+The Use of Theory 
+In quantitative research, researchers often test hypotheses stemming from theories. In qualitative research, the 
+researcher may generate a theory as the final outcome of a study and place it at the end of a thesis, such as in 
+grounded theory. In other qualitative studies, it comes at the beginning and provides a lens that shapes what is 
+looked at and the questions asked, such as in ethnography or participatory social justice research. Mixed methods 
+research may contain a theoretical framework within which both quantitative and qualitative data are collected.  
+ 
+Writing a Theoretical Perspective 
+● Look in the discipline-based literature for a theory. If the unit of analysis for variables is an individual, 
+look in the psychology literature; to study groups or organizations, look in the sociological literature. If 
+the project examines individuals and groups, consider the social psychology literature. Of course, theories 
+from other disciplines may be helpful, too (e.g., to study an economic issue, the theory may be found in 
+economics). 
+● Examine also prior studies that address the topic or a closely related topic. What theories did the authors 
+use? Limit the number of theories and try to identify one overarching theory that explains the central 
+hypothesis or major research question.  
+● Ask the rainbow question that bridges the independent and dependent variables: What explains why the 
+independent variable(s) would influence the dependent variables? 
+● Script out the theory section. Follow these lead sentences: “The theory that will be used in this study is 
+_____ (name the theory). It was developed by _____ (identify the origin, source, or developer of the 
+theory), and it was used to study _____ (identify the topics where one finds the theory being applied). 
+This theory/theories indicate/s that _____ (identify the propositions or hypotheses in the theory). As 
+applied to this present study, this theory holds that it is expected that the independent variable(s) _____ 
+(state independent variables) influence or explain the dependent variable(s) _____ (state dependent 
+variables) because _____ (provide a rationale based on the logic of the theory).” 
+86 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 98 (Manual Page 87) ===
+ 
+Sample Theoretical Framework 
+ 
+ 
+3.5  Conceptual Framework 
+The conceptual framework is a researcher-developed blueprint that outlines the key concepts or variables in a 
+study and shows their presumed relationships. It guides the research process by organizing ideas, clarifying 
+assumptions, and focusing the investigation on specific factors relevant to the research problem (Ravitch & 
+Riggan, 2016). 
+Typically based on a review of existing literature, the conceptual framework is tailored to the study’s context and 
+often presented visually or narratively. It helps define the scope of the research, guides methodology and data 
+analysis, and strengthens the coherence and validity of the study by clearly mapping expected relationships 
+among variables (Scribbr, 2023). 
+3.5.1 Commonly Used Conceptual Frameworks 
+The Input-Process-Output (IPO) Model. This framework emphasizes the flow of information, materials, or 
+activities within a system. It is widely used in fields such as engineering, computer science, and project 
+management. (Adobe Business, 2023; Management Consulted, 2024). 
+Input. This represents the raw materials, data, or information that enter the system. It can be tangible 
+(e.g., materials for production) or intangible (e.g., user input in a software program).  
+Process. This describes the activities or steps that transform the input into an output. It involves the 
+methods, tools, and procedures used to achieve the desired outcome.  
+Output. This is the final result of the process acting on the inputs. It represents the end product or 
+outcome of the system. Outputs can be data, results, products, behaviors, or any element produced by the 
+process.  
+87 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 99 (Manual Page 88) ===
+ 
+The IPO model is best used in quantitative and mixed-methods research that focuses on systems analysis, 
+process evaluation, and workflow optimization. When using this model, it is important to clearly define the inputs, 
+processes, and outputs. Considering feedback loops can enhance understanding in complex systems, and using 
+visual diagrams helps improve clarity. 
+Example of the Input-Process-Output (IPO) Model 
+ 
+Input. Crop characteristics could include factors like plant variety, planting density, or initial plant health. 
+This also emphasizes the types of fertilizer being tested (e.g., organic, synthetic). 
+Process. Applied fertilizer represents the act of adding the chosen fertilizer to the crops. This also 
+acknowledges that existing soil conditions (nutrient levels, moisture) can influence the effectiveness of 
+the fertilizer. The timing of fertilizer application can affect its impact on crop growth. 
+Output. Crop growth refers to the overall growth and development of the crops throughout the season. 
+Meanwhile, crop yield represents the final harvest amount (fruits, vegetables, etc.), which is the primary 
+outcome variable. 
+The Independent and Dependent Variable Flowchart (DV/IV Flowchart). This framework focuses on the 
+relationships between variables within your research. It uses a flowchart format to visually depict how 
+independent variables (cause) influence dependent variables (effect). 
+Independent Variable (IV). This represents the presumed cause or factor that you will manipulate or 
+introduce changes to in your study. The IV is what you think will influence the dependent variable.  
+Dependent Variable (DV). This represents the outcome or effect you are measuring in response to the 
+changes in the independent variable. The DV is what you expect to change as a result of the IV.  
+Structure of the Flowchart. The flowchart starts with the independent variable. Arrows connect the IV to the 
+dependent variable, indicating the hypothesized influence. Other elements that may be included: 
+88 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 100 (Manual Page 89) ===
+ 
+Moderating Variables. These variables are external factors that can influence the strength or direction of 
+the relationship between the IV and DV. They can be represented as branches or additional boxes within 
+the flowchart. 
+Control Variables. These are extraneous variables that you try to control or hold constant to ensure their 
+influence is minimized and does not cloud the relationship between the IV and DV.  
+Depending on your research question, the flowchart could include more complex relationships between variables 
+or additional moderating factors that influence the relationship between the IV and DV. 
+This framework is most suitable for experimental, quasi-experimental, and correlational quantitative research 
+designs that test hypotheses about cause-and-effect relationships. It is helpful to include mediating and 
+moderating variables to explain complex relationships and to control for extraneous variables. Clear arrows should 
+be used to indicate the direction of influence between variables. 
+Example of Independent and Dependent Variable Flowchart (DV/IV Flowchart) 
+ 
+Independent Variable. Implementing a new study skills workshop. This is the factor being manipulated in 
+the research. 
+Dependent Variable. Student exam scores are the outcome variable being measured to see if the 
+workshop has an effect.  
+Mediating Variables. The flowchart includes two potential mediating variables: improved study habits and 
+increased student motivation. These are factors that could explain how the workshop (IV) might influence 
+exam scores (DV). The research might explore if the workshop leads to better study habits and increased 
+motivation, which then contribute to higher exam scores.  
+Control Variables. The research design should also consider controlling for extraneous variables that 
+influence exam scores, such as students' prior knowledge or course difficulty. These would not be 
+explicitly shown in the flowchart but would be addressed in the research methodology. 
+ 
+89 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 101 (Manual Page 90) ===
+ 
+Systems Theory Framework. This framework views the research problem as part of an interconnected system 
+where components interact dynamically. It is useful for understanding complex phenomena involving multiple 
+interrelated parts, such as organizational behavior or ecological studies. The framework emphasizes feedback 
+loops, inputs, outputs, and the environment surrounding the system, helping to analyze how changes in one part 
+affect the whole system (Adams et al., 2014; Patton, 2007).. 
+Systems theory works well in qualitative, mixed-methods, and systems-oriented research that explores complex, 
+multi-component phenomena such as organizational behavior or ecology. When applying this framework, 
+researchers should map out all system components and their interactions, consider external environmental 
+influences, and use feedback loops to illustrate dynamic changes. 
+Example of Systems Theory Framework 
+ 
+Source: Patton & McMahon, 1999 
+ 
+Logic Model. Widely used in program evaluation and social sciences, the logic model maps out the sequence 
+from resources and activities to outputs, outcomes, and impacts (W.K. Kellogg Foundation, 2004). It includes:  
+Inputs: Resources invested (e.g., funding, staff). 
+Activities: Actions or interventions implemented. 
+Outputs: Direct products or services delivered. 
+Outcomes: Short- and medium-term effects. 
+Impact: Long-term changes or benefits. 
+The logic model is ideal for program evaluation, intervention studies, and applied social research. It is essential to 
+clearly distinguish between outputs (immediate products) and outcomes (short- and medium-term effects). 
+Engaging stakeholders in the development of the model can improve its relevance and accuracy. 
+90 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 102 (Manual Page 91) ===
+ 
+Example of Logic Model 
+ 
+Source: MEASURE Evaluation (2013), Frameworks for malaria monitoring, evaluation, and surveillance (Module 
+5), University of North Carolina at Chapel Hill. Available at 
+https://www.measureevaluation.org/resources/training/surveillance-monitoring-and-evaluation-of-malaria-progra
+ms/module-5-frameworks/at_download/file 
+ 
+ 
+Grounded Theory Framework. Common in qualitative research, this framework is developed inductively from 
+data rather than imposed beforehand. It involves iterative data collection and analysis to build a theory grounded 
+in participants’ experiences. It focuses on identifying core categories and their relationships, making it useful for 
+exploratory studies where existing theories are insufficient (Charmaz, 2014). 
+Grounded theory is best suited for qualitative exploratory research where existing theories are insufficient or 
+absent. Researchers should remain open to emerging categories, use the constant comparison method 
+throughout data analysis, and avoid forcing data into preconceived categories. 
+ 
+ 
+91 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 103 (Manual Page 92) ===
+ 
+Example of Grounded Theory Framework 
+ 
+Source: Choi, Y. J., Choi, H. B., & O’Donnell, M. (2018). Disaster reintegration model: a qualitative analysis on 
+developing a Korean disaster mental health support model. International Journal of Environmental Research and 
+Public Health, 15(2), 362. 
+ 
+Ecological Framework. Used in health, education, and social sciences, the ecological framework examines 
+multiple levels of influence on behavior or outcomes, from individual to societal levels. It considers individual, 
+interpersonal, organizational, community, and policy factors, highlighting the complex interplay between these 
+levels (CDC, 2024; Bronfenbrenner, 1979). 
+The ecological framework is most effective in public health, education, and social sciences when studying 
+multi-level determinants of behavior or outcomes. Researchers should address interactions across different levels, 
+consider policy and environmental contexts, and use multi-level data collection methods to capture the complexity 
+of influences. 
+Example of Ecological Framework 
+ 
+Adapted from “‘You need a support. When you don’t have that … chocolate looks real good’: Barriers to and 
+facilitators of behavioural changes among participants of a Healthy Living Program” by H. A. Russell, C. Rufus, C. 
+T. Fogarty, K. Fiscella, and J. Carroll, 2013, Family Practice, 30(4), p. 453. 
+https://doi.org/10.1093/fampra/cmt009. Copyright 2013 by Oxford University Press. Reprinted with permission. 
+92 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 104 (Manual Page 93) ===
+ 
+Theory of Change. This detailed framework explains how and why a desired change is expected to happen in a 
+particular context. It maps causal pathways linking activities to outcomes and is often used in development 
+studies and program planning to clarify assumptions and measure progress toward goals (Anderson, 2005). 
+Theory of Change is particularly useful in development studies, program planning, and evaluation research. It is 
+important to clearly state assumptions, involve stakeholders in mapping the change pathways, and treat the 
+theory as a living document that guides both implementation and evaluation. 
+Example of Theory of Change 
+ 
+Source: Adapted from "Theory of Change vs. Logical Framework – Know the Difference," TolaData, January 27, 
+2021, https://www.toladata.com/blog/theory-of-change-vs-logical-framework/. 
+ 
+Analytical Framework. An analytical framework guides data collection, organization, and interpretation, 
+ensuring systematic and rigorous analysis aligned with the research objectives. It integrates relevant theories, 
+models, and methods to provide a structured approach to examining data, whether qualitative or quantitative 
+(UNHCR, 2004; Pacheco-Vega, 2018).  
+Analytical frameworks help researchers define clear indicators and variables, maintain consistency throughout 
+data analysis, and adapt the framework as new insights emerge during the research process. This flexibility is 
+essential for deepening understanding and ensuring that findings accurately reflect the data. 
+ 
+ 
+ 
+ 
+93 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 105 (Manual Page 94) ===
+ 
+Example of Analytical Framework 
+ 
+Source: Adapted from “Power and agenda-setting in Tanzanian health policy: An analysis of stakeholder 
+perspectives” by K. Buse, N. Mays, and G. Walt, 2015, Health Policy and Planning, 30(5), p. 566-578. 
+https://doi.org/10.1093/heapol/czu036 
+ 
+Concept Mapping. Concept mapping is a visual tool that represents relationships among ideas, concepts, or 
+variables, facilitating the organization and synthesis of knowledge (Novak & Cañas, 2008). It is especially useful in 
+exploratory research, literature reviews, and theory development, where clarifying complex relationships and 
+hierarchies is critical. 
+Effective concept mapping involves creating hierarchical structures that show connections between broader and 
+more specific concepts, engaging participants or stakeholders to enrich the maps with diverse perspectives, and 
+continuously updating the maps as new information or understanding develops. This iterative process supports 
+clearer communication and deeper insight into the research topic. 
+Example of Concept Mapping 
+ 
+Source: Adapted from "How To Make Conceptual Framework (With Examples and Templates)" by Jewel Kyle 
+Fabula, FilipiKnow, 2023. Available at https://filipiknow.net/conceptual-framework-example/ 
+ 
+94 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 106 (Manual Page 95) ===
+ 
+Crafting a Strong Conceptual Framework 
+● Your conceptual framework is built upon your research questions. It usually depicts the variables you 
+intend to study and how they might influence each other.  
+● From your research questions, identify the key concepts and factors you will be investigating. These 
+variables can be independent (Cause), dependent (effect), or moderating (influencing the cause-effect 
+relationship). 
+● Create a visual representation using a flowchart or diagram. Arrows can show cause-and-effect 
+relationships.  
+○ As mentioned previously, only actual experiments can illustrate genuine cause-and-effect 
+relationships. In cases where we want to test for correlation between variables, we can borrow 
+the general framework of the model, provided that the arrows are updated to show the 
+relationship going both ways instead of one (which implies a causal relationship) 
+● Ensure your conceptual framework reflects your research questions, methodology, and data analysis plan. 
+It should guide your entire research process.  
+● Keep it concise and focused. Do not overwhelm your reader with unnecessary complexity. 
+● Maintain consistency in terminology throughout your thesis. 
+ 
+Structure.  When outlining the conceptual framework for your research paper, it is essential to follow a structured 
+set of guidelines to ensure that the framework is clearly stated, rationalized, and aligned with your research 
+objectives. The following points provide a comprehensive framework:  
+1) Provide an Overview of the Research Process: Begin by describing an overview of your research process 
+and identifying the key components depicted in the conceptual framework. This sets the context for 
+understanding the entire framework. 
+2) Define Each Variable and Its Parameters: For each variable, provide a concise definition and explain its 
+parameters. This includes specifying how each variable will be measured or operationalized in the study. 
+3) Explain Interconnections Among Variables: Describe how each variable connects and relates to others 
+within the framework. This involves explaining the theoretical relationships between variables, such as 
+cause-and-effect relationships or moderating effects. 
+ 
+3.6  Assumptions 
+Function. The purpose of the assumptions section is to outline the underlying beliefs and conditions that are 
+accepted as true without proof for the purposes of the research study. These assumptions are necessary for 
+the study to proceed and are typically based on theoretical foundations, prior research, or logical reasoning. 
+Structure.  When outlining the assumptions for your research paper, it is essential to follow a structured set of 
+guidelines to ensure that the assumptions are clearly stated, justified, and aligned with your research objectives. 
+95 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 107 (Manual Page 96) ===
+ 
+The following points provide a comprehensive framework for articulating and presenting your research 
+assumptions: 
+● Identify the Appropriate Assumptions for the Objectives: Begin by identifying what assumptions are 
+present among the research objectives. 
+○ For Descriptive/Exploratory Objectives: Focus on foundational assumptions that ensure data 
+validity (e.g., "We assume the survey sample represents the population"). 
+○ For Correlational Objectives: Prioritize hypotheses (e.g., " A positive correlation between X and 
+Y"). Read the following section on Hypothesis for more information. 
+● Clearly State Assumptions: Clearly articulate the assumptions that underpin your research. These should 
+be stated explicitly to provide transparency and context for your study.  
+○ Example: 
+■ Objective: “To identify the degree of loneliness among UNC freshmen.” 
+■ Assumption: “Loneliness is a measurable, subjective experience that can be captured 
+through self-reported responses.” 
+● Align with Research Objectives: Ensure that the assumptions align with your research objectives and 
+methodology. They should support the overall framework of your study. 
+● Consistency: Maintain consistency in your assumptions throughout the research paper. Ensure that they 
+are reflected in your research design, data collection, and analysis. 
+ 
+3.7  Hypothesis 
+Function. The purpose of the hypothesis section is to present the specific, testable predictions that the study 
+aims to examine. Hypotheses are formulated based on theoretical foundations, prior research, or logical 
+reasoning and serve as a guide for the research design and data analysis. 
+Structure. When formulating hypotheses for your research paper, following a set of guidelines is essential to 
+ensure clarity, testability, and alignment with your research objectives. The following guidelines provide a 
+framework for writing effective hypotheses: 
+● State Hypotheses Clearly: Clearly articulate each hypothesis concisely and precisely. Use straightforward 
+language to ensure that the predictions are easily understandable. 
+● Formulate Testable Hypotheses: Ensure that each hypothesis is testable and measurable. This means that 
+you should be able to collect data and perform statistical analyses to support or refute the hypothesis. 
+● Align with Research Questions and Objectives: Hypotheses should align with the research questions and 
+objectives of the study. They should provide specific predictions that address the main research 
+questions. 
+● Specify Direction (if applicable): If your hypothesis predicts a specific direction of the relationship 
+between variables (e.g., positive or negative correlation), specify this direction. 
+96 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 108 (Manual Page 97) ===
+ 
+● Null and Alternative Hypotheses: Formulate both the null hypothesis (H0) and the alternative hypothesis 
+(H1 or Ha). The null hypothesis represents the default position that there is no effect or relationship, while 
+the alternative hypothesis represents the prediction of an effect or relationship. 
+ 
+3.8  Definition of Terms 
+The definition section in the research allows you to be specific about how terms are used in your study. In our 
+University format, this is placed in Chapter 1 after the Conceptual Framework, where your variables/constructs 
+have been presented.  Defining terms adds precision to a scientific study (Creswell & Creswell, 2018). Terms 
+should be defined conceptually and operationally.  
+A conceptual definition would describe what a variable is, while an operational definition would describe how 
+the variable would be measured in the study. The conceptual definition can be taken from all reference works 
+such as journals, conference papers, newsletters, reports, magazines, seminars, newspapers, dissertations, 
+theses, and/or textbooks. The operational definition explains and delimits your research, giving a concise, detailed 
+definition of a variable. 
+The operational definition specifies the exact meaning of a variable within the context of a study. As the 
+researcher, you develop this definition based on how the variable will be used and measured in your research. 
+This process is known as the operationalization of a concept or variable. Operationalization involves clearly 
+defining how a concept will be measured through specific procedures or actions that make abstract ideas practical 
+and testable  (Leggett, 2011; Kaldunn, n.d.; Enago Academy, 2025). According to Kerlinger and Lee (2000), an 
+operational definition specifies the exact procedures used to measure or manipulate a variable, ensuring that the 
+research can be replicated and empirically tested. Similarly, Creswell (2014) emphasizes that operational 
+definitions provide clarity on how variables are measured or manipulated, forming the basis for reliable data 
+collection and analysis. 
+Example of a Conceptual Definition: 
+Anxiety. This refers to a state of concern or painful uneasiness about a future or uncertain event. 
+Example of a Conceptual & Operational Definition: 
+Anxiety. This refers to a state of concern or painful uneasiness about a future or uncertain event (Craske & 
+Barlow, 2014). This study will be measured using Form Y of the State-Trait Anxiety Inventory (STAI) (Spielberger, 
+Gorsuch, Lushene, Vagg, & Jacobs, 1983). The levels are quantified as low anxiety, moderate anxiety, and high 
+anxiety. 
+Low Anxiety. This pertains to a low predisposition to anxiety and a tendency to be calm. In the STAI, 
+scores ranging from 20 to 37 are indicative of low levels of anxiety. 
+Moderate Anxiety. Individuals with moderate anxiety levels might experience some baseline anxiety, but 
+can cope with stressful situations effectively. In the STAI, scores ranging from 38 -44 are indicative of 
+moderate levels of anxiety. 
+High Anxiety. This pertains to a high tendency to experience anxiety and may worry excessively. In the 
+STAI, scores ranging from 45 - 80 are indicative of high levels of anxiety. 
+97 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 109 (Manual Page 98) ===
+ 
+Given the example above, you can find both the conceptual and operational definitions. The conceptual 
+definitions did not tell the readers how to produce different levels or values of the variables (e.g., anxiety). The 
+conceptual definition alone does not specify how variables will be measured or quantified. This critical information 
+is provided by the operational definition. When defining variables operationally, you must clearly describe the 
+exact procedures followed in the study. This includes detailing the specific behaviors or responses that will be 
+observed or recorded, as well as explaining how these responses will be scored or quantified to ensure 
+consistency and replicability. 
+ 
+Guidelines: 
+● Identify all the key variables in your study. 
+● The definition of variables should include both conceptual and operational definitions. 
+● Provide the conceptual definition by citing a reference explaining the concept. The conceptual definitions 
+should clarify the general meaning and nature of your variable and act as the foundation for 
+understanding. 
+● The operational definitions are written in specific language rather than abstract, conceptual definitions. 
+The operational definition should describe the particular tools, instruments, measurements, or procedures 
+you will use to collect data on the variable.  
+● Make sure that your operational definition aligns with your conceptual definition. 
+● Consider including references in your conceptual definition.  
+ 
+4. The Review of Related Literature and Studies 
+The backbone of your thesis is a well-written literature review. The literature review is a systematic search and 
+analysis of existing documents related to your research topic. These documents can be articles, books, reports, 
+and other scholarly sources.  
+The literature review is essential in research because it helps you understand what research has already been 
+done on your topic and prevents you from repeating someone else’s work. It determines what has already been 
+done that relates to your topic and provides the rationale for your research hypothesis. It gives indications of 
+what to do to help you justify the significance of your study. It enables you to refine your research questions and 
+provides a way for novice researchers to convince the reviewers of the proposal that they are knowledgeable 
+about the related research and the “intellectual traditions” that support the proposed study. It also lets you 
+discover research strategies and specific data collection approaches that have or have not been productive in 
+investigations of topics similar to yours. Finally, the literature review provides a framework for establishing the 
+importance of the study as well as a benchmark for comparing the results with other findings.  
+A literature review is not just summarizing past research. It is about demonstrating how your research fits into 
+the bigger picture, why it is important, and how it builds upon what has already been done. 
+ 
+98 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 110 (Manual Page 99) ===
+ 
+4.1  Purpose of the Literature Review 
+● Informs the reader about research closely related to your own study. 
+● Connect your study to the broader conversation happening within your field. This means identifying gaps 
+in past research and expanding upon existing studies. 
+● Helps you establish the importance of your study and provides a benchmark for comparing your results to 
+others. 
+● Provides a framework for incorporating relevant scholarly works into your own research.  
+ 
+4.2  How Literature Review Might be  Different in Approaches 
+In Qualitative Research, the literature review is typically exploratory and contextual in nature. There may 
+be an angle or aspect of the problem where not much might be written about, or a portion of the 
+population is understudied. The researcher seeks to identify gaps and underexplored angles to guide 
+participant interviews or observations.  
+In Quantitative Research, the literature review is more substantial in grounding the research questions or 
+hypotheses. The researcher uses the literature deductively as a framework for the research questions or 
+hypotheses, as well as a reference to justify the methods to be applied. This approach ensures that the 
+study is grounded in existing theories and research findings. 
+In Mixed Methods Research, the research combines quantitative and qualitative evidence to address 
+complex, multifaceted questions, offering a holistic understanding by integrating the strengths of both 
+paradigms. It is ideal for studies requiring generalizability (via quantitative data) and contextual depth 
+(via qualitative insights).  
+ 
+4.3  General Tips 
+● Quality over quantity. Do not try to include everything you find. Include high-quality, directly relevant 
+studies rather than everything you find. A concise and well-organized review is better than a long one 
+with loosely related studies. Prioritize peer-reviewed articles and avoid predatory journals.  
+● Well-researched topics. Stick to your specific question. Focus only on studies directly related to your 
+specific question. There will be plenty of relevant materials available, so you do not need to go off on 
+tangents. Be guided by your research objectives or variables. 
+● Build your Bibliography. Use a literature matrix to organize sources systematically. Include columns for 
+citation, title, author, link, and label or use (e.g., "Theory," "Methodology," "Gap"). This ensures you can 
+track relevance and avoid redundancy. 
+● New or under-researched topics. Cast a wider net and include studies that connect to your topic. You will 
+need more background information to build a foundation for your research and develop a strong 
+hypothesis.  
+ 
+99 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 111 (Manual Page 100) ===
+ 
+4.4  Guidelines 
+● Relevance of Literature: Ensure that the literature included in the review is relevant to your research 
+problem. Preferably, include literature published within the last five years to ensure that your review is 
+up-to-date and reflects the latest research developments. Literature published within the last 10 years is 
+acceptable but not ideal.  
+○ If you include literature older than 10 years, provide a justification for its use or reference a more 
+recent article that cited the older literature. 
+● Progressive Focus: Start with a broad overview of the literature and gradually narrow it down to the 
+specific issue you will investigate. This approach helps to set the context for your study and shows how 
+your research fits within the broader field. 
+● Efficient Summarization: The literature review should be concise and provide a summary of major studies 
+on the research problem. Focus on what you want to highlight (key findings, research methods, or major 
+conclusions) when summarizing the literature. Efficient summarization helps to convey the most 
+important aspects of the reviewed studies without overwhelming the reader. 
+● Length Consideration: The length of the literature review may vary, but typically ranges from 20 to 60 
+pages, depending on the depth and scope of the review. 
+● Avoid Predatory Journals: Avoid using papers published in predatory journals or those not in accredited 
+journals. Ensure that all sources are credible and meet academic standards. 
+● Number of Citations: In order to build a comprehensive and in-depth review of literature, integrate 
+multiple citations in one paragraph to discuss a certain subtopic under the section. Avoid overloading by 
+using parenthetical citations as needed. 
+4.5  Structure 
+● Section/Headings Alignment with Objectives: Align the section headings of your literature review with 
+your research objectives. This ensures that each section supports and addresses the objectives of your 
+study. 
+○ Example: 
+■ Research Objective 1: “To determine the most common types of stress levels among 
+working students of UNC." 
+■ RRL section 1: “Types of Stress among Working Students” 
+● Group & Discuss Related Studies: Under each section, organize the literature related to the section topic. 
+Discuss the related subtopics over the course of a few paragraphs (five to six paragraphs) to thoroughly 
+cover the relevant literature. This helps to create a coherent structure and allows readers to follow the 
+connections between different works easily. 
+● Analyzing Previous Works: It is not enough to merely summarize previous studies. Weigh each study and 
+compare them by their contributions, findings, methodology, recommendations, or more. Focus on the 
+key area you wish to elaborate on. 
+100 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 112 (Manual Page 101) ===
+ 
+● Effective Use of Verbs: Reporting verbs help describe and analyze sources in academic writing. Choose 
+verbs based on your intent: 
+○ To show aim/purpose: investigate, examine, look at 
+○ To show results: shows, suggests, reveals 
+○ To show opinion/claim: states, argues, believes 
+● Gap Analysis: Before the end of each section, conduct a gap analysis to identify areas wherein the 
+previously discussed studies are lacking or where further investigation is needed. Highlight these gaps to 
+justify the need for your study and to show how your research will contribute to the field. 
+ 
+5. The Research Methodology 
+Research methodology is a systematic and structured approach to understanding and solving problems through 
+scientific investigation. Its purpose is to provide a clear and organized framework that guides researchers in 
+collecting, analyzing, and interpreting data. Here are some key purposes of research methodology: 
+● Define the Problem: It helps clearly define the research problem or question, ensuring the study has a 
+specific focus. 
+● Plan the Study: It provides a blueprint for conducting the research, detailing the steps and procedures to 
+be followed. 
+● Data Collection: It outlines the methods and techniques for gathering data, ensuring that the information 
+collected is relevant and reliable. 
+● Data Analysis: It specifies the tools and techniques for analyzing the collected data, allowing researchers 
+to draw meaningful conclusions. 
+● Ensure Validity and Reliability: It ensures that the research is conducted in a rigorous and systematic 
+manner, enhancing the credibility and trustworthiness of the results. 
+● Replication and Verification: It allows other researchers to replicate the study and verify the findings, 
+contributing to the body of scientific knowledge. 
+ 
+5.1  Research Design 
+The following are the most commonly used designs in the different approaches: 
+Quantitative Approach 
+● Experimental Designs. These designs aim to establish cause-and-effect relationships. Researchers 
+manipulate an independent variable and measure its impact on a dependent variable. They often involve 
+control groups that do not receive the manipulation for comparison (e.g., testing a new fertilizer on one 
+group of plants and comparing it to a control group).  
+101 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 113 (Manual Page 102) ===
+ 
+○ Common experimental between-group designs include Posttest-Only Control Group Design, 
+Pretest-Posttest Control Group Design, and Solomon Four-Group Design.  
+○ Within-Subjects Designs include Crossover Designs and Latin Square Designs. 
+● Quasi-Experimental Designs. Similar to experiments but lacking random assignment to groups, 
+Researchers observe naturally occurring groups or preexisting conditions (e.g., comparing the academic 
+performance of students who live in different neighborhoods).  
+● Correlational Research Designs. These designs investigate relationships between variables without 
+establishing cause and effect. They measure two or more variables and analyze the strength and 
+direction of the correlation (e.g., studying the correlation between sleep duration and academic 
+performance).  
+● Survey and Epidemiological Research Designs. These are both tools for gathering information about 
+populations, but they serve different purposes and have distinct characteristics. The survey research 
+design is a systematic collection of data from a population or sample through questionnaires. They are 
+primarily used for understanding attitudes, opinions, behaviors, and experiences. It is also used to gather 
+descriptive information about a population. Types of surveys include cross-sectional surveys and 
+longitudinal surveys. Epidemiology is the study of patterns, causes, and effects of health and diseases in 
+populations. Epidemiological research designs use surveys extensively but go beyond them by focusing 
+on identifying risk factors for disease and investigating outbreaks of disease.  
+● Ex-Post Facto Designs. This is also referred to as “after-the-fact” designs, which involve investigating 
+relationships between variables that already exist or have already occurred. These designs analyze 
+existing data or groups to understand potential cause-and-effect relationships. In these designs, 
+researchers do not manipulate variables. Instead, they identify groups with pre-existing characteristics or 
+experiences (independent variable, e.g., being male and female) and compare them to an outcome 
+variable (dependent variable).  
+Qualitative Approach 
+● Phenomenological Research Design. This explores the lived experiences and how individuals perceive a 
+particular phenomenon. In this design, in-depth interviews are the primary method of data collection, 
+allowing participants to describe their experiences in detail. Researchers analyze the interview data to 
+identify common themes and patterns that capture the essence of the lived experience.  
+● Ethnography. In this research design, the researcher immerses themself in a culture or community over 
+an extended period to understand their values, beliefs, and practices. Researchers use a combination of 
+methods, such as observations, interviews, document analysis, and participation in activities. They 
+analyze the data collected to develop a detailed description of the culture or community, including its 
+social dynamics, power structures, and unspoken rules.  
+● Grounded Theory. This design aims to develop a theory based on data collected from the field rather than 
+starting with a pre-existing hypothesis. The researcher often uses interviews and observations, but can 
+also include document analysis and other methods. In analyzing the data gathered, the researcher 
+follows an iterative process of collecting data, analyzing it for emerging themes, and refining their theory 
+based on new insights.  
+102 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 114 (Manual Page 103) ===
+ 
+● Case Studies. This explores a single case (individual, group, event, or community) in depth. The data are 
+collected through a variety of methods such as interviews, observations, document analysis, and artifacts. 
+In this design, the researcher analyzes the data to develop a rich understanding of the case and its 
+context. Case studies can be used to illustrate broader themes or generate new research questions.  
+Mixed-Methods Approach 
+The mixed-methods approach combines the collection, analysis, and interpretation of qualitative and quantitative 
+data. These are often used in studies that require an understanding of not only “what” is observed but also “why” 
+the observed behavior occurred.  
+● Sequential Explanatory Strategy. The purpose of this design is to use qualitative results to assist in 
+explaining and interpreting the findings of primary quantitative data. This is characterized by the 
+collection and analysis of quantitative data, followed by the collection and analysis of qualitative data. 
+The priority is typically given to the quantitative data, and the two methods are integrated during the 
+interpretation phase of the study. 
+● Sequential Exploratory Strategy. The purpose of this design is to use quantitative data and results to 
+assist in the interpretation of qualitative findings. This design is useful for exploring relationships when 
+study variables are not known, refining and testing an emerging theory, developing new psychological 
+tests or instruments based on the initial qualitative analysis, and generalizing qualitative findings to a 
+specific population. The design is characterized by an initial phase of qualitative data collection and 
+analysis, followed by a phase of quantitative data collection and analysis. The priority is given to the 
+qualitative aspect of the study. The findings of these two phases are then integrated during the 
+interpretation phase. 
+● Concurrent Triangulation. This is said to be the most familiar among the different models of mixed 
+methods. This is selected as the model when the researcher uses two different methods in an attempt to 
+confirm, cross-validate, or corroborate findings within a single study. In this case, the quantitative and 
+qualitative data collection is concurrent, happening in one phase of the research study. The priority would 
+be equal between the two methods. Quantitative and qualitative data are collected and analyzed at the 
+same time, and integration usually occurs at the data interpretation stage.  
+ 
+Guidelines for Writing the Research Design Section 
+● Briefly explain the purpose of the research design section and how it connects to your research 
+questions. 
+● Specify whether you are using a quantitative, qualitative, or mixed-methods approach. Then, mention the 
+specific design within one of these approaches (e.g., case study, survey).  
+● Justify how it aligns with your research question and the type of data you need to collect.  
+● If experimental manipulations or interventions were used in the study, describe their specific content. 
+Include details of the interventions or manipulations intended for each study condition, including control 
+groups (if any), and describe how and when interventions or experimental manipulations were 
+administered.  
+● Tailor the research design section to your specific research question and chosen methodology. 
+103 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 115 (Manual Page 104) ===
+ 
+● Ensure consistency between your research design and the methods you actually use in your study. 
+ 
+Writing Style 
+● Write in a clear and concise manner, avoiding jargon or overly technical terms. Explain complex concepts 
+in a way understandable to a broad academic audience.  
+● Ensure a logical flow between sections in the methodology chapter, guiding the readers through your 
+research design choices and procedures. 
+● Justify all your design decisions by explaining how they contribute to addressing your research question 
+and achieving your research goals. 
+● Cite relevant literature to support your methodological choices and demonstrate your understanding of 
+research design principles in your field.  
+ 
+5.2  Methods and Procedures 
+This section should provide a clear, detailed, and organized account of how the study was conducted to allow 
+others to understand, evaluate, and replicate the research. This section must include a thorough explanation of 
+the data collection techniques, tools, and instruments used. Researchers should explain the rationale behind the 
+chosen methods and how these methods align with the study’s objectives. It is important to describe the 
+procedures in a logical and chronological order, beginning with participant or unit selection (including sampling 
+methods and criteria), followed by the specific steps taken during data collection, and concluding with data 
+management and analysis strategies. Ethical considerations, such as informed consent and confidentiality 
+measures, should also be addressed. Where appropriate, dividing the section into subheadings (e.g., Participants, 
+Materials, Procedures) can help organize complex information and improve clarity. Ultimately, this section should 
+tell the story of how the research was conducted with enough detail to ensure transparency, rigor, and 
+reproducibility. 
+ 
+5.2.1  Data Gathering Tools 
+When conducting research, selecting appropriate data-gathering tools is essential to ensure accurate, reliable, 
+and relevant data collection. The choice of tools greatly depends on the nature of the research questions, the 
+study design, and the type of data needed. Effective data-gathering tools facilitate the systematic collection of 
+information, which is crucial for analyzing and interpreting research findings. 
+Guidelines 
+● Briefly introduce this section and its purpose within your research design. 
+● Describe your data collection methods by explaining the specific methods you used to gather data for 
+your research (e.g., written questionnaires, interviews, observations). This could include: 
+○ Surveys. Describe the survey instrument (questionnaire) you developed or used. Mention the 
+types of questions (e.g., multiple choice, checklist, scaled-type, open-ended). Include the full 
+description of the instrument, including the number of items.  
+104 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 116 (Manual Page 105) ===
+ 
+○ Interviews. Explain the interview format (structured, semi-structured, unstructured) and how you 
+developed the interview guide.  
+○ Observations. Describe the type of observation (participant, non-participant), the observation 
+setting, and the data collection protocol (e.g., field notes, audio recordings). 
+○ Existing Data. If existing data sources (e.g., government databases, company archives), explain 
+how you identified and accessed the data.  
+● Briefly explain why you chose these specific methods and how they align with your research question and 
+overall research approach (quantitative, qualitative, mixed-methods). 
+● If you developed a survey instrument or interview guide, describe the process: 
+○ Conducted a comprehensive literature review to inform the development of questions, ensuring 
+they are grounded in existing theories and relevant research. 
+○ Performed pilot testing with a representative sample to gather feedback on clarity, relevance, and 
+comprehensiveness, followed by necessary revisions to improve the instrument. 
+○ Implemented measures to establish the reliability and validity of the instrument, including 
+assessing internal consistency (e.g., Cronbach’s alpha) and consulting experts to confirm content 
+validity. 
+● If standardized tests were used, pay attention to the psychometric properties of the measurement in the 
+context of contemporary testing standards. Include the description of the instrumentation used in the 
+study, including standardized assessments and other protocols, in sufficient detail.  
+● Describe the pilot testing of the materials on populations who were not included in the actual 
+data-gathering procedure.  
+● When an instrument is translated into a language other than the language in which it was developed, 
+describe the specific method of translation (e.g., back-translation, in which a text is translated into 
+another language and then back into the first language to ensure that it is equivalent enough that results 
+can be compared). 
+● For qualitative designs, provide interrater reliabilities for subjectively scored measures and ratings.  
+Measurement Scale 
+In survey questionnaires, Likert-type scales are commonly used to measure observations and attitudes. 
+Likert-type scales typically contain four, five, or seven response categories, each with its own advantages and 
+considerations. The choice of scale depends on the research objectives and the nature of the data being 
+collected. The following provides a comparison of these scales based on the literature review conducted by Rahi 
+(2017): 
+● 4-Point Scale: This scale forces respondents to make a clear choice by eliminating the neutral option. It is 
+useful when the researcher wants to avoid indecision and obtain definitive responses. However, it may 
+also lead to frustration if respondents feel forced into a particular stance. 
+Pros: Encourages clear decisions and reduces ambivalence. 
+105 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 117 (Manual Page 106) ===
+ 
+Cons: This may lead to respondent frustration and potential bias from forced choices. 
+● 5-Point Scale: This scale is comprehensible to respondents and enables them to express their views 
+effectively. It includes a neutral option, allowing for more balanced responses. 
+Pros: Easy to understand, provides a neutral option for balanced responses. 
+Cons: May not capture subtle differences in opinions. 
+● 7-Point Scale: Reliability is often optimized with a 7-point Likert scale. It provides a greater range of 
+options, which can capture more nuanced differences in attitudes and opinions. This scale is particularly 
+suited to electronic surveys. 
+Pros: Captures nuanced differences and better correlations with statistical tests. 
+Cons: It may be more complex for respondents to navigate. 
+General Considerations: 
+The key point is that the number of scale points can impact the accuracy and reliability of the data. According to 
+the literature, Likert scales with fewer than five points or more than seven points can lead to less accurate data. 
+This does not mean that a 4-point scale is entirely inappropriate, but it does have its limitations. It’s important to 
+consider the research objectives and the specific context of your study when selecting the scale. 
+● A 4-point Likert scale is best used in specific situations where it is important to force a choice and avoid a 
+neutral response. 
+● For research focusing on individuals' behavior, a 5- to 7-point Likert scale is generally recommended as it 
+strikes a balance between providing sufficient response options and maintaining accuracy. The 7-point 
+scale has been shown to offer better correlations with statistical tests, while the 5-point scale is easier for 
+respondents to understand and use. 
+ 
+5.2.2  Data Gathering Procedure 
+The data-gathering procedure is a critical component of research methodology, providing a clear and systematic 
+approach to collecting data that ensures accuracy, reliability, and validity. 
+Purpose. The primary purpose of the data-gathering procedure is to establish a structured process for collecting 
+data that aligns with the research objectives and questions. It ensures that data is collected in a consistent and 
+unbiased manner, facilitating the accurate analysis and interpretation of results. The data-gathering procedure 
+also aims to: 
+● By following a systematic approach, researchers can ensure that the data collected is valid and accurately 
+represents the phenomena being studied. 
+● A well-defined procedure enhances the reliability of the data, allowing for replication of the study and 
+verification of results by other researchers. 
+● Structured data-gathering procedures help minimize potential biases that could affect the data, ensuring 
+that the findings are credible and trustworthy. 
+106 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 118 (Manual Page 107) ===
+ 
+● Detailed documentation of the data-gathering procedure promotes transparency, allowing others to 
+understand and evaluate the research process. 
+Making a Data Gathering Procedure 
+● Choose the data-gathering tools that are suitable for the research design and questions. These tools may 
+include surveys, interviews, observations, experiments, and document analysis. Ensure that the tools are 
+validated and reliable for collecting the desired data. 
+● Outline a detailed plan for data collection, specifying the steps, timeline, and resources required. Identify 
+the target population and sampling methods to ensure a representative sample. 
+● Conduct pilot testing of the data-gathering tools and procedures to identify and address any potential 
+issues or biases. Make necessary adjustments based on feedback from the pilot test. 
+● Follow the data collection plan systematically, ensuring consistency in the implementation of 
+data-gathering procedures. Document the data collection process, including the dates, locations, and 
+conditions under which data was collected. 
+● Obtain informed consent from all participants, ensuring they are fully aware of the study's purpose, 
+procedures, risks, and benefits. Provide participants with the opportunity to ask questions and withdraw 
+from the study at any time. 
+● Adhere to ethical guidelines, ensuring confidentiality and privacy of participants' information. Address any 
+potential risks or discomforts associated with the data collection process. 
+● Implement a secure system for managing and storing data to protect its integrity and confidentiality. 
+Ensure that data is organized and stored in a manner that facilitates easy retrieval and analysis. 
+● Document all aspects of the data-gathering procedure in detail, including any challenges or deviations 
+from the original plan. Report the data collection methods and procedures transparently in the research 
+study, providing sufficient information for replication. 
+Guidelines 
+● Briefly introduce this section and its purpose within your research design. 
+● Start by describing how you ensured the tools (e.g., surveys, interviews, focus group discussions) aligned 
+with the research objectives. Explain how the literature review and expert validation were done to ensure 
+validity and reliability, and how the tools were finalized to capture the required data effectively. 
+● Describe how participants were gathered for the data-gathering procedure, explaining how the tools were 
+administered until the data for the predetermined sample size was collected.  
+ 
+5.3  Respondents' Profile or Unit of Study 
+The "Respondents Profile or Unit of Study" section should clearly define the population or entities under 
+investigation, outline the sampling method used, and provide detailed demographic or contextual information. It 
+should also include a discussion of the research locale, highlighting features relevant to the study's aims and 
+107 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 119 (Manual Page 108) ===
+ 
+justifying the choice of setting. This section ensures that readers can assess the appropriateness of the sample 
+and the generalizability of the results. 
+The terms "respondent," "participant," and "subject" are used differently based on the research context. 
+Respondents: In quantitative research, "respondent" is often used to refer to individuals who provide data 
+by answering surveys or questionnaires. This term emphasizes their role in responding to data collection 
+instruments. 
+Participants: In qualitative research, "participant" is preferred, highlighting the active and interactive role 
+individuals play in providing insights, such as through interviews or focus groups. The term is also used in 
+experimental studies involving humans to denote their active involvement. 
+Subjects: For experiments not involving humans, such as those with animals or inanimate objects, the 
+term "subject" is typically used to describe the entities being studied. This also applies more broadly to 
+any "unit of study" that is not a direct human data provider. In some cases, the unit of study might be 
+specific events, processes, or phenomena that are observed and analyzed. 
+ 
+5.3.1  Population and Sample 
+Population refers to the entire set of individuals or items that one aims to study, sharing common characteristics 
+defined by the researcher's criteria. Conversely, sampling is the process of selecting a representative subset from 
+this population to analyze and draw conclusions. This method allows researchers to measure the characteristics, 
+beliefs, and attitudes of people effectively (Rahi, 2017). By focusing on a sample, researchers can make informed 
+inferences about the larger population, facilitating a more manageable and efficient investigation. 
+The population is composed of two groups: 
+● Target Population. The entire group of people or objects wherein the researcher wishes to generalize the 
+study findings (e.g., all low birth weight infants; all pregnant teens). 
+● Accessible Population: the portion of the population wherein the researcher has practical access to the 
+population; this could be a subset of the target population (e.g., all low birth weight infants in Naga City; 
+all pregnant teens in the province of Camarines Sur).  
+The sample is representative of the entire population. The sample must be of sufficient size to warrant statistical 
+analysis. A sample is usually gathered from where they are accessible from the target population.  
+Sampling refers to the statistical procedure that is concerned with the selection of a subset of individuals; it helps 
+us to make statistical inferences about the population.  
+The sampling frame lists all the elements or units in the population from which the sample will be selected. 
+ 
+5.3.2  Sampling Techniques 
+Sampling techniques take two forms: probability and non-probability sampling.  
+Probability Sampling: It is a sampling approach in which each unit has an equal probability of being selected. The 
+most commonly used in research include the following:  
+108 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 120 (Manual Page 109) ===
+ 
+● Simple Random Sampling (SRS). This is the purest form of probability sampling.  It is the most 
+fundamental probability sampling technique. It is a sampling process in which each unit of the population 
+has an equal probability of inclusion in the sample. In this method, the researcher develops a numeric list 
+of the members of the accessible population and, by using a computer program, generates random 
+numbers until the required number of samples is reached. Manual selection can also be done through 
+lottery sampling or table random sampling. This type of probability sampling is highly observed in 
+experimental research. 
+Steps: 
+1. Prepare the sampling frame—a complete list of the accessible population. 
+2. Assign an exclusive numeric code for each of the sampling units in the list. 
+3. Calculate the required sample size based on the study’s objectives and statistical considerations. 
+4. Select the sample units using random methods, such as computer-generated random numbers, 
+lottery sampling, or random number tables.  
+● Systematic Random Sampling. This technique is a more organized or methodical variant of the SRS. A 
+probability sampling technique is used where the initial sampling point is selected at random, and then 
+the cases are selected at regular intervals.  
+Steps: 
+1. Prepare the sampling frame. 
+2. Compute the required sample size. 
+3. Calculate the sampling interval, K=N/n. 
+4. Determine the first unit to be sampled by randomly drawing a number from 1 to k.  
+5. Include in the sample every kth unit counted from the random start.  
+● Cluster Sampling. The technique wherein the population is divided into non-overlapping clusters (similar 
+groups with a comparable number of members), which serve as the sampling units.  
+Steps: 
+1. Prepare the sampling frame. 
+2. Cluster the population into homogeneous groups with a comparable number of members. 
+3. Compute the required sample size.  
+4. Perform in the population where the sampling units are the clusters. 
+5. Include the elements in the selected cluster(s) in the sample.  
+● Multi-Stage/Level Sampling. Multi-stage sampling or Multi-stage cluster sampling involves a sequence of 
+stages.  
+General Schema: The population is divided into a set of primary sampling units (PSU), which can be 
+subdivided into secondary sampling units (SSU) and further into tertiary sampling units (TSU), down until 
+109 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 121 (Manual Page 110) ===
+ 
+the desired sampling unit level is reached. It usually combines the basic sampling methods. This is 
+considered a complicated sampling process that requires a more complicated method of data analysis.  
+● Stratified Random Sampling. It is a process of sampling in which each subgroup, called a stratum, is 
+given an equal chance to be selected randomly. It gives equal proportional representation to each 
+stratum. This is a variant of SRS wherein the population is first divided into non-overlapping strata 
+(groups or classes made up of similar units, e.g., students in different year levels) before SRS is carried 
+out in each stratum. This guarantees that each stratum is represented.  
+Steps: 
+1) Categorize population units into one unit. 
+2) Compute the required sample. 
+3) Calculate the sample in each stratum by computing its percent share (Example as shown in 
+the illustration). 
+Computing for Stratified Sampling 
+Supposed from the given example, the 2300 students are distributed to different strata or classes: first 
+year = 675; second year = 596; third year = 598; and fourth year = 431. How are we going to distribute 
+341 samples to the different strata proportionately? The number and distribution of the student 
+population are shown in the table below.   
+ 
+Non-Probability Sampling: Non-probability sampling is the sampling approach in which the chance or probability 
+of each unit being selected is not known or confirmed. The most commonly used non-probability sampling 
+methods include the following: 
+● Convenience Sampling. Convenience sampling defines a process of data collection from the population 
+that is close at hand and easily accessible to researchers. Convenience sampling allows the researcher to 
+complete interviews or get responses in a cost-effective way; however, it may be criticized for selection 
+bias because of the difference in the target population.  
+● Snowball Sampling. In the snowball sampling technique, the researcher makes initial contact with a small 
+group of people who are relevant to the research topic and then uses them as referrals to contact others. 
+110 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 122 (Manual Page 111) ===
+ 
+● Quota Sampling. It defines the strata of the population and sets a quota for samples from each stratum. 
+The findings from this type of sampling technique cannot be generalized because the element is not 
+selected by using a probability sampling method. 
+● Judgment or Purposive Sampling. Defines a process where researchers use their own judgment to select 
+a group of people who know about the problem. Judgmental sampling is also purposive sampling because 
+it involves a particular purpose. This type of sampling technique is convenient and cost-effective.    
+ 
+5.3.3  Determining the Sample Size 
+Sample size determination is the technique of selecting the number of observations to include in a sample. The 
+sample size is an important feature of any study or investigation, and the aim is to make inferences about the 
+population from a sample.  
+Sample Size Calculation Tools. There are various formulas and online calculators available to determine the 
+appropriate sample size. Some popular options include: 
+● Cochran’s Formula. This is a common formula used for estimating sample size for proportions, especially 
+when the population size is unknown or very large. 
+● Slovin’s Formula. This is another option for estimating sample size for proportions, which is particularly 
+useful for smaller populations. This is one of the most commonly used formulas for sample size 
+determination (especially in the Philippines. This is known for its simplicity. However, with little 
+documentation on its proper application, Slovin’s Formula has become the most misused formula. While 
+there is nothing theoretically wrong with this formula, it must be remembered that just like any other 
+formula, there are conditions for its valid application.  
+● Online Sample Size Calculators. Many websites offer user-friendly calculators where you can input your 
+desired confidence level, margin of error, and expected effect size to get a recommended sample size.  
+ 
+5.3.4  Sampling in Quantitative Research 
+Table 10. Guidelines for determining the respondents for quantitative research. 
+Research Design Reference Number of Respondents 
+Multiple Regression Analysis Schikorski & 
+Stevens 
+15 cases per variable (thus, if there are 10 variables 
+multiplied by 15, this will yield 150 sample size) 
+Confirmatory Factor 
+Analysis 
+Joreskog & 
+Sorbom 10 observations per parameter to perform CFA 
+Factor Analysis 
+Tabachnick & 
+Fidell 300 valid responses 
+Hair 5 times greater (minimum) or 10 times greater (maximum) 
+than the items that will be analyzed 
+Structural Equation 
+Modelling 
+Hair Minimum sample size of 200 
+Comrey & Lee A sample size of 50 is very poor, 100 is poor, 200 is 
+reasonable, 300 is good, 500 is very good, & 1000 is brilliant. 
+ 
+111 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 123 (Manual Page 112) ===
+ 
+5.3.5  Sampling in Qualitative Research 
+Sample Size. Unlike quantitative research, which uses statistical formulas, qualitative research lacks a single 
+“magic number” for sample size. This has been a longstanding challenge for researchers. Qualitative research 
+prioritizes a deep understanding of a phenomenon, not broad generalizations. The sample size is just one factor, 
+and a smaller, well-chosen group can yield richer data.  
+Several aspects influence sample size decisions, including:  
+● Data Saturation: Reaching a point where no new information emerges. 
+● Practical Limitations: Time and budget constraints. 
+● Methodology: The chosen approach (e.g., ethnography, case studies) might have different sample size 
+needs (shown in Table 10). 
+● Theoretical Framework: The lens through which the research is viewed. 
+● Researcher Expertise: Knowledge of the field helps determine an appropriate sample. 
+Qualitative research designs offer flexibility in terms of the optimal number of participants. However, the ideal 
+number of participants depends on the researcher's knowledge, research design, and chosen methodology. This 
+combination guides the selection of a sample size that yields rich insights without being impractical. Table 11 
+shows the number of participants guided by different methodological approaches to qualitative inquiry.  
+Table 11. Guidelines for determining the participants for qualitative research. 
+Qualitative Design Reference Suggested Number of Respondents 
+Ethnography Moser & Korstjens (2018) 25 – 50 interviews 
+Grounded Theory 
+Morse (2015) 30 – 50  participants 
+Morse (2000); and Moser & 
+Korstjens (2018) 20 – 30 interviews 
+Gentles et al. (2015); Morse 
+(2015) At least 25 interviews 
+Case Studies 
+Barkhuizen (2014) 1- 135 cases 
+Gentles et al. (2015) 4 – 10 cases 
+Mason (2010) 1 - 95 cases  
+Narrative Inquiry Mason (2010) 1 – 62 (life history) 
+Phenomenology 
+Gentles et al. (2015) 10 – 30 interviews 
+Morse (2000) 6 – 10 participants 
+Moser and Korstjens (2018) Fewer than 10 interviews 
+Interpretative Phenomenological 
+Analysis (IPA)  
+Smith et al. (2009); Chatfield 
+(2022); Alase (2017) 1 – 15 participants 
+Qualitative Research (General) Bertaux, 1981 as cited in Guest et 
+al. (2006, p. 61) 
+6 - 12 interviews  
+(minimum 3) 
+Action Research Mason (2010) 3 – 67  
+ 
+In essence, qualitative research sample size is a flexible decision based on achieving a deep understanding of the 
+phenomenon under study, not simply a matter of numbers. 
+112 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 124 (Manual Page 113) ===
+ 
+Selecting the Participants in Qualitative Research.  Random sampling, common in quantitative research, is less 
+useful in qualitative research. This is because qualitative researchers often do not know exactly who or what they 
+need to study at the outset (the "universe" is unknown).  Instead, researchers strategically choose participants 
+who can offer valuable insights. Qualitative research is more about understanding a situation in depth. It needs to 
+strategically choose participants who can provide rich insights, not necessarily a random selection.  
+A review of the few qualitative research publications that treat sampling issues at greater length identifies five 
+major types of nonprobability sampling techniques for qualitative research. 
+● Convenience sampling is a technique that uses an open period of recruitment that continues until a set 
+number of subjects, events, or institutions are enrolled. Here, selection is based on a first-come, 
+first-served basis. This approach is used in studies drawing on predefined populations, such as 
+participants in support groups or medical clinics. 
+● Purposive sampling is a practice where subjects are intentionally selected to represent some explicit 
+predefined traits or conditions. This is analogous to stratified samples in probability-based approaches. 
+The goal here is to provide for relatively equal numbers of different elements or people to enable 
+exploration and description of the conditions and meanings occurring within each of the study conditions. 
+The objective, however, is not to determine prevalence, incidence, or causes. 
+● Snowball sampling is a technique that makes use of participants as referral sources. Participants 
+recommend others they know who may be eligible. 
+● Quota sampling is a method for selecting a number of subjects to represent the conditions to be studied 
+rather than to represent the proportion of people in the universe. The goal of quota sampling is to ensure 
+the inclusion of people who may be underrepresented by convenience or purposeful sampling techniques. 
+● In case study samples, select a single individual, institution, or event as the total universe. A variant is 
+the key-informant approach (Spradley 1979), or intensity sampling (Patton 1990), where a subject who is 
+an expert in the topic of study serves to provide expert information on the specialized topic. 
+ 
+5.3.6 Guidelines for Writing the Respondent's Profile or Unit of Study 
+● Discuss the setting or context where the study was conducted. Describe the geographic, institutional, or 
+social environment, and explain why this locale was chosen. If multiple sites are involved, provide 
+descriptions for each. 
+● Clearly define who or what constitutes your study's population. This could be individuals, organizations, 
+texts, or other entities relevant to your research question. Specify characteristics such as demographic 
+profile, professional background, or other pertinent attributes. 
+● Describe the procedures for selecting participants, including  
+○ The sampling method, if a systematic sampling plan was implemented (e.g., random sampling, 
+stratified sampling, purposive sampling), and provide justification for the chosen method; 
+○ Explain how the sampling method supports the study’s objectives and generalizability. 
+○ The percentage of the sample that actually participated, 
+113 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 125 (Manual Page 114) ===
+ 
+○ whether self-selection occurred, either by individuals or by units such as schools or organizations, 
+and discuss the potential impact on the study 
+● Report inclusion and exclusion criteria, including any restrictions based on demographic characteristics.  
+○ Inclusion Criteria: Describe the specific characteristics that participants must have to be included 
+in the study. This might include factors such as age, gender, occupation, education level, or 
+specific behaviors or conditions. 
+○ Exclusion Criteria: Mention any characteristics that would disqualify someone from participating in 
+the study. 
+● Indicate the number of participants included in the study. Justify the sample size, often through statistical 
+power analysis or references to sample sizes used in similar prior studies. If relevant, provide a 
+breakdown by subgroups (e.g., age, gender, region). 
+● Describe how participants were recruited for the study. This might involve advertising, outreach, 
+partnerships with organizations, or other methods.  
+● Provide details about participants' activities and data collection 
+○ Provide details about what participants were asked to do as part of the study, including any 
+surveys, interviews, experiments, or other activities. 
+○ Describe the setting(s) and location(s) where data collection took place, including the dates or 
+timeframe of data gathering. 
+○ Mention any agreements and payments made to participants, if applicable. 
+● Report the participants' characteristics, such as 
+○ Major demographic characteristics (e.g., age, sex, ethnicity, socioeconomic status) and important 
+topic-specific characteristics (e.g., achievement level in studies of educational interventions). 
+○ In the case of animal research, report the genus, species, and strain number or other specific 
+identification, such as the name and location of the supplier and the stock designation. Give the 
+number of animals and the animals’ sex, age, weight, physiological condition, genetic 
+modification status, genotype, health–immune status, drug or test naïveté, and previous 
+procedures to which the animal may have been subjected. 
+● Explain how informed consent was obtained, ensuring participants were fully aware of the study’s 
+purpose, procedures, risks, and benefits, and voluntarily agreed to participate. 
+● Discuss measures taken to protect participant confidentiality and sensitive information. 
+● Address any potential risks or discomforts and how these were mitigated. 
+● In experimental designs 
+○ Report whether participants, those administering the experimental manipulations, and those 
+assessing the outcomes were aware of condition assignments. 
+114 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 126 (Manual Page 115) ===
+ 
+○ If masking took place, provide a statement regarding how it was accomplished and whether and 
+how the success of masking was evaluated. 
+ 
+5.4  Ethical Considerations 
+In any research project, considering ethical issues beforehand is essential. This means thinking about potential 
+problems that could arise and how you will handle them responsibly. Following ethical principles ensures that your 
+work is conducted responsibly and respects the rights and well-being of participants. The following are the basic 
+ethical principles: 
+● Respect for Persons. This principle provides extra protections for vulnerable populations (those who are 
+economically or educationally disadvantaged, prisoners, or pregnant women) and individuals with 
+diminished capacity (children or cognitively impaired persons) while respecting their self-determination to 
+the greatest extent possible. This further emphasizes the autonomy and well-being of research 
+participants. It means obtaining informed consent, protecting privacy and confidentiality, and respecting 
+the right to withdraw from the study. 
+● Beneficence and Non-Maleficence. This refers to each researcher’s responsibility to estimate potential 
+risks as truthfully and accurately as possible before proposing any research. This principle stresses 
+maximizing potential benefits and minimizing potential harm to participants. Researchers should ensure 
+that the potential benefits of the research outweigh the risks.  
+● Justice. The principle of justice requires that researchers select their samples fairly to ensure that some 
+people are not being manipulated. Justice means that research subjects should come from the groups 
+most likely to reap the benefits. It ensures a fair selection of participants and avoids exploitation or 
+discrimination. Researchers should strive for their research to benefit all of society, not just specific 
+groups.  
+These core principles translate into practical considerations for research, such as: 
+● Obtaining Informed Consent. Participants must have a comprehensive understanding of the research 
+purpose, procedures, potential risks and benefits, and their right to withdraw before consenting to 
+participate. Informed consent involves the participant agreeing to join the study after receiving clear and 
+thorough information about its nature. This includes a detailed explanation of the procedures, answers to 
+all questions, disclosure of potential risks and benefits, assurance that consent is given voluntarily without 
+coercion or force, and the right to withdraw at any time. Participants must be guaranteed privacy and 
+confidentiality, and researchers cannot waive their liability. The consent form should be written in clear, 
+accessible language appropriate to the participants' reading level, signed by both the participant and the 
+researcher, retained for documentation, and the information should be verbally reinforced to ensure 
+understanding.  
+● Obtaining Assent. Assent or agreement of minor children ages seven and above is usually a requirement 
+for their participation. To the extent possible, assent is also obtained from cognitively impaired subjects, 
+both adults (e.g., adults with Alzheimer’s) and children (e.g., children with autism or learning disabilities). 
+● Protecting Confidentiality. Researchers must keep participant information confidential and anonymous 
+unless explicit consent is given for disclosure. This means protecting the participants’ identities. This is 
+done by collecting data anonymously, identifying data by code numbers, reporting average or group 
+115 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 127 (Manual Page 116) ===
+ 
+scores, and disguising identifying details. Data is also treated with discretion. This is done by storing data 
+in a secure place, keeping it confidential, and using it only for purposes explained to the participants.  
+● Minimizing Risk. Researchers should take steps to minimize any physical, psychological, or social risks to 
+participants. 
+● Avoiding Deception. Researchers should be honest and transparent about their research methods and 
+goals. 
+● Right to Withdraw. Participants should have the right to withdraw from the research at any time without 
+penalty. 
+ 
+5.6  Data Analysis Tool or Technique 
+Analyses of the data and reporting of the results of those analyses are fundamental aspects of conducting 
+research. Accurate, unbiased, complete, and insightful reporting of the analytic treatment of data (be it 
+quantitative or qualitative) must be a component of all research reports. 
+Guidelines 
+● Introduce briefly the purpose of this section and how it connects to your research questions.  
+● The chosen analysis method should be appropriate for the research questions and the data collected. It 
+should be reliable even if assumptions are not perfectly met, and it should provide clear insights.  
+● Explain the overall strategy you used to analyze your data. This depends on your research approach 
+(quantitative, qualitative, mixed-methods).  
+○ In the quantitative approach, describe the statistical software you used and the specific statistical 
+tests you conducted to analyze your data in each of your research questions. This should include 
+both the descriptive (e.g., mean, standard deviations, average weighted mean, frequency, and 
+percentage) and inferential statistical analysis (e.g., t-tests, correlations, regression analysis) 
+used. Justify your choice of tests based on your research questions and data type.  
+○ In the qualitative approach, explain your data analysis approach (e.g., thematic analysis, 
+narrative analysis) by describing the process of coding your data, identifying themes, and 
+interpreting the findings. 
+○ In the mixed-methods approach, explain how you analyzed both quantitative and qualitative data 
+and how you integrated the findings from these different approaches.  
+● If you used coding for qualitative data analysis, describe your coding scheme (categories and definitions) 
+and how you ensured coding reliability (consistency). 
+● Briefly mention any data cleaning procedures you undertook to ensure data quality (e.g., handling 
+missing data and outliers). 
+● When applying inferential statistics, take seriously the statistical power considerations associated with the 
+tests of hypotheses. Such considerations relate to the likelihood of correctly rejecting the tested 
+hypotheses given a particular alpha level, effect size, and sample size. 
+116 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 128 (Manual Page 117) ===
+ 
+6. Results and Discussion 
+This chapter presents the findings of the study and offers an analysis of their significance. This section 
+communicates the outcomes of the investigation by providing a detailed account of the data collected and the 
+insights derived from it. The researcher presents the raw data and statistical analyses clearly and objectively, 
+often using tables, graphs, and charts to enhance understanding. 
+At the same time, the researcher explains what the results mean in the context of the research objectives, 
+discussing the implications of the findings, their contribution to the existing body of knowledge, and their 
+application in real-world scenarios. This section also addresses any limitations of the study and suggests 
+directions for future research. By combining the presentation of results with their interpretation, this chapter 
+provides a comprehensive understanding of the study's outcomes and their relevance to the field of research. 
+6.1  The PAIL-R Method 
+The PAIL-R method is a technique that can be helpful when crafting the presentation and discussion of the 
+results; it stands for Presentation, Analysis, Interpretation, and Recommendation, or Present, Analyze, Interpret, 
+Link, Recommend. Each component of the PAIL-R method serves a specific purpose in guiding researchers 
+through a systematic process of presenting and interpreting their findings. By following this method, researchers 
+can ensure that their discussion is thorough, insightful, and aligned with the study's objectives, ultimately 
+contributing to the clarity and impact of their research.  
+Presentation 
+● Briefly summarize the key findings from your results.  
+● You can use visuals like tables or figures to highlight important trends or patterns. 
+● Do not just repeat everything that is presented on the table or figure, but highlight the main points that 
+are crucial for the discussion. 
+● Focus on the key results that are most relevant: highest, lowest, and overall. 
+Analysis 
+● Go beyond simply presenting the findings.  
+● Analyze what they mean in relation to your research questions and hypotheses.  
+● Draw logical conclusions explaining why something might be happening based on the results. 
+● Explore possible explanations or reasons for the results. 
+● Use tentative language: "may be," "possible that," or "could be because." 
+Interpretation 
+● This is where you delve deeper into your results 
+● What are the broader implications of your findings?  
+117 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 129 (Manual Page 118) ===
+ 
+● Explain the meaning of the results, analyze patterns, trends, or relationships, and contextualize the 
+findings. 
+● Use statistical tests or participant quotes to back up your claims. 
+● Use stronger and conclusive language: “suggests that," “shows that,” "indicates that." 
+Link 
+● Establish connections between your research and the wider world.  
+● Connect your results to relevant theories and prior research.  
+● How do your results and interpretation compare to what other researchers have found? Similarities and 
+differences between your results and the work of others should be used to contextualize, confirm, and 
+clarify your conclusions.  
+● Discuss how your findings align with, challenge, or expand upon existing understanding.  
+● Do not simply reformulate and repeat points already made; each new statement should contribute to 
+your interpretation and to readers’ understanding of the problem. 
+● End the discussion with a reasoned and justifiable commentary on the importance of your findings and 
+how they contribute to your overall understanding.  
+Recommend 
+● Based on the findings and conclusions drawn, what are the specific, actionable recommendations to 
+address the problem or objective of the study? 
+● Ensure your recommendations are realistic, feasible, and directly tied to the evidence presented. 
+● Acknowledge any limitations of the study that may have affected the results or their interpretation. 
+Discuss potential sources of bias, errors, or constraints that could impact the generalizability of the 
+findings.  
+● Provide recommendations for future research to address these limitations and suggest new directions for 
+investigation. 
+ 
+6.2  Presenting Your Findings 
+Present collected data and the results of all relevant analyses clearly and systematically to provide a solid 
+foundation for the discussion that follows. Report your findings in sufficient detail to justify your conclusions, 
+including all pertinent results, regardless of whether they support your hypotheses. This includes outcomes that 
+defy expectations, small effect sizes, or statistically nonsignificant results when theory predicts otherwise. Do not 
+omit any findings to ensure transparency and research integrity. 
+For quantitative data, employ appropriate statistical techniques—including descriptive statistics, inferential 
+statistics, and relevant tests—to ensure precise and accurate analysis. Present these results clearly and 
+118 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 130 (Manual Page 119) ===
+ 
+objectively, using tables, graphs, and charts to enhance understanding. Visual aids should be straightforward, 
+well-labeled, and easily interpreted. 
+For qualitative data, use thematic or content analysis to identify key themes and insights. This entails categorizing 
+and coding qualitative data to uncover recurring patterns linked to your research questions. 
+Organize results logically, in accordance with your discipline’s conventions. Clear presentation and thoughtfully 
+designed visual aids help the audience understand the significance of your findings. Transparently present all 
+outcomes, including those not confirming your hypotheses, to demonstrate rigorous scholarship.  
+6.2.1 Tabular Presentation 
+Tabular presentation organizes data into rows and columns, facilitating easy comparison and detailed analysis, 
+especially for presenting statistics, demographics, or survey results. 
+Guidelines: 
+● Numbering: Number tables consecutively as they appear (e.g., Table 1, Table 2), with the table number in 
+bold above the title. 
+● Title: Give each table a brief, descriptive title, italicized and in title case, placed on a line immediately 
+after the table number. 
+● Headings: Include column headings and a stub heading for the leftmost column. Headings should be 
+centered and use sentence case. When needed, use column spanners or decked heads to group data. 
+● Body Formatting: Left-align the text in the leftmost column; center or left-align other cells based on 
+readability needs. The table body may be single-, one-and-a-half-, or double-spaced. 
+● Notes: Add below the table as required: 
+○ General notes for table-wide information. 
+○ Specific notes for abbreviations, symbols, or details in specific cells. 
+○ Probability notes for statistical signifiers (e.g., p-values). 
+● Design: Place entries to be compared side-by-side; use separate columns for different indices (e.g., 
+means and standard deviations). 
+● Placement: Place tables as close as possible to their first mention. Ensure each table is 
+self-explanatory—define any abbreviations or symbols. 
+● Clarity: Present the information in an easily interpretable form, and highlight patterns or comparisons 
+where relevant. 
+● Sequence results logically, such as by research question, hypothesis, or thematic group. 
+● Highlight key findings, trends, and any unexpected outcomes. 
+● Display statistical significance with p-values or appropriate symbols in tables and graphs. 
+119 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 131 (Manual Page 120) ===
+ 
+● For presentations, keep all visuals clear and uncrowded to support understanding. 
+● Discuss any limitations affecting data, methods, or findings, and outline implications or possible future 
+research directions. 
+Samples of Descriptive Tables  
+● Tabular Presentation Utilizing Frequency Count and Percentage Technique 
+ 
+ 
+● Tabular Presentation Utilizing Frequency Count and Percentage Technique in Cross-Tabulation 
+ 
+ 
+● Tabular Presentation Utilizing the Average Weighted Mean 
+ 
+120 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 132 (Manual Page 121) ===
+ 
+6.2.2 Graphical Presentation 
+Graphical presentation involves using visual representations of data, such as charts, graphs, and plots, to 
+communicate information effectively. Common types of graphical representations include bar charts, line graphs, 
+pie charts, scatter plots, and histograms. Each of these visual tools is designed to highlight different aspects of 
+the data, making it easier to understand and interpret complex information. 
+Commonly used Graphs or Charts 
+● Bar Chart: Used to compare different groups or categories. Bars represent values through their length, 
+allowing straightforward comparison across categories. Ideal for categorical data comparison. 
+● Line Graph: Ideal for illustrating trends and changes over time or continuous data. Data points are 
+connected by lines to show progression or fluctuation. For example, tracking exam scores over several 
+terms or monitoring COVID-19 case numbers over time. 
+● Pie Chart: Circular charts are divided into slices, each representing the proportion of a category relative to 
+the whole. Best used to show percentage or part-to-whole relations with a limited number of categories. 
+● Scatter Plot: Displays relationships between two continuous variables by plotting points on Cartesian 
+coordinates. Useful for detecting correlations or patterns between variables. 
+● Histogram: Similar to bar charts, but used to show the distribution of numerical data by grouping values 
+into intervals or bins. Helpful in visualizing the frequency distribution of continuous data. 
+● Box Plot (Box-and-Whisker Plot): Summarizes key distribution features like median, quartiles, and 
+outliers. Widely used for comparing data spread and identifying skewness. 
+● Area Chart: Emphasizes total and sub-component changes over time by shading the area under the line 
+graph. 
+● Heatmap: Uses color intensity to represent values in a matrix, revealing patterns, trends, or hotspots. 
+● Bubble Chart: Extends scatter plots by using bubble size to represent an additional variable, useful for 
+multivariate data. 
+● Treemap: Visualizes hierarchical data with nested rectangles showing size proportions, suitable for 
+part-to-whole relationships in large data sets. 
+● Radar Chart: Compares multiple variables across different categories on a circular grid, useful for 
+multivariate analysis like performance metrics. 
+● Funnel Chart: Illustrates progressive reduction or flow, commonly used in sales and marketing funnels to 
+track conversion rates. 
+6.2.3  Descriptive Statistics 
+Descriptive statistics are used to provide a comprehensive summary and analysis of the data collected. This 
+section aims to offer a clear understanding of the central tendencies, dispersion, and overall distribution of the 
+dataset. 
+121 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 133 (Manual Page 122) ===
+ 
+Commonly used Descriptive Statistics: 
+● Measures of Frequency 
+○ Count (Absolute Frequency): The number of times a particular value or category occurs within 
+the dataset. 
+○ Relative Frequency: The proportion or percentage of the total observations accounted for by a 
+particular value or category. This helps to understand the distribution of categorical data. 
+● Measures of Position 
+○ Percentiles: Values that divide the data into 100 equal parts, helping to understand the position 
+of a specific data point relative to the entire dataset (e.g., the 25th percentile). 
+○ Quartiles: Values dividing the data into four equal parts; the 1st quartile is the 25th percentile, 
+the 2nd quartile the median (50th percentile), and the 3rd quartile the 75th percentile. 
+○ Deciles: Dividing data into ten equal parts, useful for more detailed positional analysis. 
+● Central Tendency 
+○ Mean: The average value of the dataset, calculated by summing all values and dividing by the 
+number of observations. 
+○ Median: The middle value when the data is arranged in ascending or descending order. 
+○ Mode: The most frequently occurring value in the dataset. 
+● Dispersion 
+○ Range: The difference between the maximum and minimum values, showing the spread of the 
+data. 
+○ Variance: Measures how much the data varies around the mean. 
+○ Standard Deviation: The average distance of each data point from the mean, indicating variability. 
+○ Interquartile Range (IQR): The range within which the central 50% of the data falls (between the 
+25th and 75th percentiles). 
+○ Mean Absolute Deviation: The average of the absolute differences between each value and the 
+mean; a robust measure less affected by outliers. 
+○ Coefficient of Variation: Expresses the standard deviation as a percentage of the mean, 
+facilitating comparison across datasets. 
+○ Standard Error: Indicates the variability of a sample mean estimate relative to the population 
+mean. 
+ 
+122 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 134 (Manual Page 123) ===
+ 
+● Shape of Distribution 
+○ Skewness: Assesses the asymmetry of the data distribution (whether the data tend to lean right 
+or left). 
+○ Kurtosis: Measures the "tailedness" or peakedness of the distribution, revealing the presence of 
+outlier-prone data. 
+ 
+6.2.3  Inferential Statistics 
+Inferential statistics are used to draw conclusions about the population based on the sample data collected. The 
+aim is to go beyond mere data description and make meaningful inferences that contribute to the understanding 
+and advancement of the research field. Inferential statistics allow researchers to make data-driven decisions and 
+inferences about the population. By using these methods, researchers can validate their hypotheses, estimate 
+population parameters, and generalize their findings. The results are interpreted in the context of the research 
+objectives, providing valuable insights into the studied phenomena. 
+ 
+Commonly used Inferential Statistics 
+Correlation: Pearson r. One of the most commonly used formulas in stats is Pearson’s correlation coefficient 
+formula. Pearson's r is used when we want to test the relationship between two variables. However, we can only 
+use this test when our data is continuous (interval or ratio scales) and not categorical or rank scales.  
+Correlation in statistics can tell us four things: 1) the direction of the relationship, meaning whether the 
+relationship is positive or negative; 2) the strength of the relationship, whether the relationship is strong, 
+moderate, or weak; 3) the coefficient of determination (r2) which is computed only when the relationship is 
+significant; and lastly 4) scatterplot which illustrates the graphic representation of the relationship between two 
+variables (Myers and Hansen, 2012).   
+Table 12. Cohen’s Interpretation of the Strength of Relationship in Correlation 
+Relationship Positive Negative 
+High Relationship +0.50 to +1.00 -0.50 to -1.00 
+Medium / Moderate Relationship +0.30 to +0.49 -0.30 to -0.49 
+Small / Low Relationship +0.10 to +0.29 -0.10 to -0.29 
+ 
+Computing the Effect Size in a Correlational Analysis 
+For readers to appreciate the magnitude or importance of a study’s findings, it is recommended to include some 
+measure of effect size. However, it should be remembered that effect sizes are only computed when the results in 
+the inferential analysis are significant.  
+If the result is significant, you need to compute the Coefficient of Determination (R2). It represents the proportion 
+of the variance in the dependent variable that is predictable from the independent variable. In simpler terms, it 
+quantifies how well the independent variable explains the variation in the dependent variable. 
+ 
+123 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 135 (Manual Page 124) ===
+ 
+In the context of Pearson's correlation, the square of the Pearson correlation coefficient gives the R2 value. This 
+provides a clearer understanding of the strength and direction of the linear relationship between the two 
+variables. 
+The conclusion for the correlation analysis can be stated this way:  
+A Pearson correlation coefficient was calculated to assess the relationship between [Variable 1] 
+and [Variable 2]. There was a significant positive/negative correlation between [Variable 1] and 
+[Variable 2], r = [r-value], n = [sample size], p < .05. This indicates that as [Variable 1] 
+increases/decreases, [Variable 2] also increases/decreases. The strength of this relationship was 
+[weak/moderate/strong], as evidenced by the correlation coefficient. 
+The coefficient of determination (r²) was calculated to determine the proportion of variance in 
+[Variable 2] that can be explained by [Variable 1]. The r² value was [r²-value], indicating that 
+[percentage]% of the variance in [Variable 2] can be accounted for by [Variable 1]. 
+ 
+Example of correlational analysis in APA Style 
+Example 1 
+ 
+ 
+ 
+124 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 136 (Manual Page 125) ===
+ 
+Example 2 
+ 
+ 
+The t-Tests. T-tests are inferential statistics used to make inferences about the difference between two 
+measured data sets. There are three kinds of calculations for t-tests. 
+● 1-Sample t-Test in which the mean of one group is compared with the population mean. 
+● A paired or dependent t-test tests the means of one group and is measured in two different types of 
+tests (pre- and post-tests). This is also called a within-subjects/repeated-measures/dependent-sample 
+t-test. 
+● The Independent Sample t-test compares the means of two different groups. This is also called the 
+between-sample and unpaired-sample t-test. Here, the two groups may have different numbers of 
+samples. However, the difference in sample size should not be large enough, which may give inaccurate 
+results.  
+The conclusion for the Paired t-test can be stated this way:  
+A paired-sample t-test was conducted to determine the significant difference in [Dependent 
+Variable] before (M = __, SD = __) and after (M = __, SD = __) the [Intervention]. A significant 
+difference was found (t(df) = t-value, p < .05). Therefore, the [Dependent Variable] before the 
+[Intervention] was significantly different after it was conducted. The effect size was Cohen's d = 
+__, which indicates a [small/medium/large] effect size. This means that __% of the variance in 
+the [Dependent Variable] can be accounted for by the [Intervention]. 
+Note: Include the mean (M) and standard deviation (SD) when reporting the results.  
+ 
+125 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 137 (Manual Page 126) ===
+ 
+Independent t-Tests. The Independent t-test is used when we want to compare the means of two independent 
+samples or groups. Examples of independent samples or groups are gender (male and female) or, in experiments, 
+between control and experimental groups. 
+Stating the finding if not significant: 
+There is no significant difference between the stress test of Treatment x Group and Treatment y 
+Group after the stress management was conducted. 
+The conclusion for the Independent t-test can be stated this way:  
+An independent-sample t-test was conducted to compare [Dependent Variable] scores between 
+[Group 1] and [Group 2]. There was a significant difference in the scores for [Group 1] (M = __, 
+SD = __) and [Group 2] (M = __, SD = __); t(df) = t-value, p < .05. Therefore, [Group 1] and 
+[Group 2] were significantly different in terms of [Dependent Variable]. The effect size was 
+Cohen's d = __, indicating a [small/medium/large] effect size. This means that __% of the 
+variance in [Dependent Variable] can be attributed to the difference between [Group 1] and 
+[Group 2]. 
+Calculating the Effect Size When the t-Test Computation Is Significant  
+The effect size is a standardized measure and an objective evaluation of the size of the effect. It is computed 
+when statistical significance is found. This means that the effect size is calculated after we reject the null 
+hypothesis in the logic of hypothesis testing.  
+When we compute, for example, the difference between the means of two groups, the result would only tell us 
+the statistically significant difference, but not the size or the degree of the mean differences. Calculating the 
+effect size allows us to measure the magnitude (how big or small the effect is) of mean differences. The APA 
+recommends it for all statistical reports. 
+              
+ 
+The effect size is interpreted using the ranges of Cohen and Sawilowsky.  
+Table 13. Effect Size Interpretation 
+Effect Size Ranges Reference 
+Very Small Effect 0.01 — 0.19 Sawilowsky, 2009 
+Small 0.20 — 0.49 Cohen, 1988 
+Medium 0.50 – 0.79 Cohen, 1988 
+Large 0.80 – 1.19 Cohen, 1988 
+Very Large 1.20 -- Sawilowsky, 2009 
+Huge 2.00 Sawilowsky, 2009 
+ 
+126 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 138 (Manual Page 127) ===
+ 
+The approximate or estimated variance is also calculated using the formula below: 
+ 
+Examples of t-test results in APA Style 
+Example 1: 
+ 
+Example 2: 
+ 
+127 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 139 (Manual Page 128) ===
+ 
+The Analysis of Variance (ANOVA). T-tests and z-tests are used to test differences between a pair of samples. 
+These statistical tools are applied one pair at a time. The Analysis of Variance, or ANOVA, is a simultaneous test 
+that takes samples of more than two groups at a single time. Analysis of Variance was developed by R.A. Fisher, 
+which denotes the F-test in ANOVA.  
+When deciding between a t-test and ANOVA for your research, it's important to consider the number of groups 
+you are comparing. Use a t-test when comparing the means of two groups, ensuring your data meets normality 
+and homogeneity of variance assumptions. For three or more groups, ANOVA is appropriate, as it can assess 
+differences among multiple groups or examine interactions between multiple factors. Both methods require 
+normally distributed data with similar variances, but ANOVA is especially useful for more complex analyses 
+involving multiple independent variables. 
+If the result is significant, compute the effect size using the formula below:  
+ 
+Post Hoc Tests in ANOVA 
+Post hoc tests are conducted after an ANOVA if the ANOVA indicates a statistically significant difference among 
+the group means. While ANOVA tells you that there is a significant difference among groups, it does not indicate 
+which groups are different. Post hoc tests address this by making pairwise comparisons between group means. 
+Common Post-Hoc Tests 
+● Tukey's HSD (Honestly Significant Difference) is suitable for comparing all possible pairs of means 
+while maintaining the overall Type I error rate. It is commonly used when sample sizes are equal.  
+● Bonferroni Correction adjusts the significance level to account for the number of comparisons being 
+made, offering a conservative approach that reduces the risk of Type I errors.  
+● Scheffé's Test is flexible and can be used for unequal sample sizes, making it suitable for complex 
+comparisons beyond just pairwise comparisons.  
+● Dunnett's Test compares each group's mean to a control group's mean, making it useful when one 
+group serves as a standard or control against which all other groups are compared. 
+The conclusion for ANOVA analysis can be stated this way:  
+The statistical test used to test the hypothesis that there is a significant difference in [Dependent 
+Variable] according to [Independent Variable] was the One-Way Analysis of Variance (ANOVA), 
+tested at the 0.05 level of significance. The results indicate a significant difference according to 
+[Independent Variable], F (df1, df2) = F-value, p < .05. The effect size shows (η² = effect size) 
+that [percentage]% of the variance in [Dependent Variable] can be explained by [Independent 
+Variable]. 
+Post hoc comparisons were conducted using Tukey's HSD test to determine which specific groups 
+differed significantly. The results indicated that [Group 1] (M = __, SD = __) was significantly 
+128 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 140 (Manual Page 129) ===
+ 
+different from [Group 2] (M = __, SD = __) and [Group 3] (M = __, SD = __). However, [Group 
+2] did not significantly differ from [Group 3]. 
+ 
+Example of ANOVA results in APA Style 
+ 
+Example 1:  
+ 
+Example 2:  
+ 
+129 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 141 (Manual Page 130) ===
+ 
+Chi-Square Test Of Association. The Chi-Square Test of Association is a non-parametric statistical test used to 
+determine whether there is a significant association between two categorical variables. It compares the observed 
+frequencies of occurrences in each category to the expected frequencies, assuming no association between the 
+variables. This test is useful when dealing with nominal data and is often applied in fields such as social sciences, 
+epidemiology, and marketing to assess relationships between categorical variables. 
+The effect size in a chi-squared test of Association can be measured using Cramér's V or Phi (Φ) coefficient. 
+These effect size measures provide an indication of the strength of the association between the variables. 
+● Cramér's V: Suitable for larger contingency tables (more than 2x2). It ranges from 0 to 1, where 0 
+indicates no association and values closer to 1 indicate a strong association. 
+● Phi (Φ) Coefficient: Used for 2x2 contingency tables. It ranges from -1 to 1, where values closer to -1 or 
+1 indicate a strong association and values near 0 indicate a weak association. 
+The effect size is interpreted using Cohen's ranges.  
+ 
+Table 14. Effect Size Interpretation 
+Phi and Cramer’s V Interpretation Reference 
+>0.25 Very strong 
+Cohen, J., 1988 
+>0.15 Strong 
+>0.10 Moderate 
+>0.05 Weak 
+>0 No or very weak 
+ 
+The conclusion for ANOVA analysis can be stated this way:  
+The Chi-Square Test of Association conducted in this study revealed a significant relationship 
+between [Variable 1] and [Variable 2]. The results indicated that the observed frequencies were 
+significantly different from the expected frequencies, suggesting that [Variable 1] and [Variable 2] 
+are associated. The effect size, measured using [Cramér's V/Phi (Φ)], showed a 
+[weak/moderate/strong] association with a value of [effect size]. This finding provides valuable 
+insights into the relationship between the two categorical variables and underscores the 
+importance of considering [Variable 1] when examining [Variable 2]. These results contribute to 
+the broader understanding of [subject of study] and highlight the need for further research to 
+explore the underlying mechanisms driving this association. 
+ 
+ 
+ 
+ 
+130 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 142 (Manual Page 131) ===
+ 
+Example of Chi-Square Test of Association results in APA Style 
+ 
+6.3  Analyzing the Data 
+Data analysis is a critical process in research aimed at uncovering patterns, trends, or relationships within the 
+collected data and exploring underlying reasons for the observed results. This examination involves 
+deconstructing the findings to clarify why specific outcomes occurred, using appropriately tentative language 
+(e.g., may be, could be because, possible that) to propose explanations supported by the evidence. 
+For quantitative data, analysis includes interpreting statistical results—such as correlations, rankings, means, or 
+percentages—and hypothesizing about their causes based on logical reasoning and established methodologies. 
+131 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 143 (Manual Page 132) ===
+ 
+ 
+For qualitative data, analysis involves identifying themes, subthemes, and key patterns within participants’ 
+responses to gain deeper insights into motivations or contextual factors related to the research questions. 
+This step is inherently exploratory, emphasizing logical inference and critical thinking to enrich understanding 
+prior to broader interpretation and synthesis. 
+ 
+Guidelines 
+● Identify Patterns and Relationships: Detect significant trends, correlations, or recurring themes. 
+● Suggest Explanations: Employ tentative language to hypothesize potential reasons for outcomes. 
+● Break Down Findings: Interpret quantitative results using appropriate statistical tools; analyze qualitative 
+data by coding and categorizing responses. 
+● Draw Inferences: Formulate logical explanations based on analysis of evidence. 
+● Maintain an Exploratory Focus: Concentrate on uncovering possible causes and context before making 
+broader interpretations. 
+The analysis paragraph may be written this way: 
+The data revealed a consistent trend in the responses, with 70% of participants indicating that 
+cost reduction was their primary reason for hiring online assistants. The high percentage could be 
+due to the competitive nature of global markets, where businesses face pressure to minimize 
+operational expenses to sustain profitability. Additionally, the reliance on remote work during the 
+pandemic further encouraged this strategy, as it eliminates costs associated with physical office 
+spaces.  
+ 
+ 6.4  Interpreting Results 
+Interpreting results entails providing a nuanced understanding of the study’s findings, assessing their significance, 
+and connecting them to broader contexts such as established theories, current practice, or ongoing research 
+debates. This process employs objective analysis to clarify how results contribute to existing knowledge and what 
+they imply for the field. 
+Researchers should use direct evidence—such as statistical results, thematic summaries, or participant 
+quotations—to substantiate their interpretations. Stronger language (e.g., suggests that, indicates that, shows 
+that) can convey the confidence warranted by the data, without overstatement or unwarranted generalization. 
+ 
+Guidelines 
+● Begin by relating your findings to the broader theory, practice, or knowledge base within your field, 
+highlighting their significance and relevance. 
+132 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 144 (Manual Page 133) ===
+ 
+● Frame your conclusions confidently using terms such as “suggests that,” “indicates that,” or “shows that” 
+to clearly communicate your interpretations. 
+● Support these interpretations with specific evidence from your data, including statistics, themes, or direct 
+participant responses, to justify your claims effectively. 
+● Transparently acknowledge any limitations of your study and discuss how these may influence the 
+interpretation or generalizability of your results. 
+● Maintain objectivity throughout by focusing on what the data objectively demonstrates rather than 
+personal expectations. 
+● Present your findings clearly and concisely, emphasizing key points without unnecessary elaboration. 
+The interpretation paragraph may be written this way: 
+The results earlier revealed a significant positive correlation (r = .56, p < .05) between the two 
+variables (see Table 1). This suggests that there is a meaningful relationship between the 
+variables, indicating that enhancing the presence of one may improve the occurrence of the 
+other. However, it is crucial to acknowledge that this study relied on self-reported data, which 
+may introduce bias. 
+Alternatively: 
+The findings suggest that cost reduction is a dominant factor influencing companies' decisions to 
+hire online assistants. This is evident from the data, where 70% of participants ranked financial 
+efficiency as their top priority. Such results indicate that businesses view online assistants as a 
+strategic solution for minimizing expenses while maintaining productivity. Furthermore, this trend 
+aligns with broader market dynamics, where organizations in competitive industries often adopt 
+cost-effective measures to maximize profitability. However, it is essential to consider the 
+limitations of this study, such as its reliance on self-reported data, which may introduce bias. 
+ 
+6.5  Link Findings to Previous Literature 
+Linking your findings within the current body of literature demonstrates the originality and significance of your 
+research. Comparing and contrasting findings with previous studies highlights similarities, differences, and the 
+unique contributions of your work. 
+ 
+Guidelines 
+● Begin by situating your findings within the broader context of the existing literature. Highlight the 
+relevance of your results to current theories and research. 
+● Clearly compare and contrast your results with those of previous studies. Identify similarities and 
+differences and provide potential explanations for any discrepancies. 
+● Emphasize the unique contributions of your study to the existing body of knowledge. Explain how your 
+findings advance understanding in your field. 
+133 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 145 (Manual Page 134) ===
+ 
+● Discuss the theoretical implications of your findings. Explain how your results support, challenge, or refine 
+existing theories. 
+● Address the practical implications of your findings. Discuss how your results can be applied in real-world 
+settings or inform policy and practice. 
+● Ensure that all references to previous studies and theories are correctly cited. 
+The link paragraph may be written this way: 
+The observed correlation between Variable A and Variable B contributes to the ongoing discussion 
+in the literature, particularly in the context of prior research findings. While the results align with 
+Author A’s (Year) study, which also reported a positive correlation between Variable A and 
+Variable B, they differ from Author B’s (Year) study, which found no significant relationship. 
+This study extends the existing body of research by providing evidence of a stronger correlation 
+between Variable A and Variable B in a specific context that has been underexplored. The 
+findings support the theoretical framework proposed by Author C (Year), suggesting that 
+Variable A plays a crucial role in influencing Variable B. As noted by Author D (Year), the 
+relationship between Variable A and Variable B is complex and multifaceted. 
+ 
+6.6  Recommendations 
+Developing recommendations translates research findings into actionable advice for practitioners, policymakers, 
+and other stakeholders. Recommendations should be rooted in your data, practical, and tailored to those who can 
+implement them. 
+Guidelines 
+● Ensure all recommendations are directly derived from the study’s findings to maintain relevance and 
+support from the data. 
+● Identify the intended audience for your recommendations, such as practitioners, policymakers, educators, 
+or other stakeholders. 
+● Provide practical and feasible recommendations that can be realistically implemented; avoid overly 
+ambitious or difficult-to-achieve suggestions. 
+● When multiple recommendations are offered, prioritize them based on their importance and potential 
+impact. 
+● Acknowledge potential challenges or limitations that might arise during implementation. 
+● Offer clear and actionable steps to facilitate the translation of findings into practical actions. 
+● Support your recommendations with references to relevant literature and studies to strengthen their 
+credibility. 
+● Provide detailed and specific recommendations rather than general or vague suggestions. 
+● Back each recommendation with evidence from your study and, where relevant, from existing literature. 
+134 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 146 (Manual Page 135) ===
+ 
+● Write in clear and concise language to ensure your recommendations are easily understood. 
+● Carefully review your recommendations to ensure they are relevant, practical, and clearly articulated. 
+Consider seeking feedback from peers or mentors to improve clarity and applicability. 
+The recommendations paragraph may be written this way: 
+Based on the significant positive correlation between Variable A and Variable B, it is 
+recommended that practitioners consider increasing the presence of Variable A to enhance the 
+occurrence of Variable B. Policymakers are advised to develop and implement guidelines that 
+promote the integration of Variable A in relevant programs. A feasible approach could be the 
+implementation of targeted interventions that focus on enhancing Variable A. One potential 
+challenge may be securing the necessary resources and funding, which should be addressed in 
+the planning phase. As supported by the Author (Year), such initiatives have been shown to be 
+effective in similar contexts. 
+ 
+7.  Summary of Findings, Conclusions, and Recommendations 
+This chapter consolidates the key findings, draws conclusions, and provides actionable recommendations based 
+on the study’s results. Its purpose is to present a clear and concise synthesis of the research outcomes, linking 
+them to the study’s objectives and addressing the research questions. The chapter has three main sections for 
+each research objective: Findings, Conclusions, and Recommendations, which connect back to the previous 
+chapter. 
+7.1  Format 
+● Start Each Section with a Heading. Label each section with the heading “Research Objective [Number]:” 
+and include the actual objective. Mention the parameters or dimensions of the objective, if applicable. 
+Example: 
+Research Objective 1: “To identify the primary reasons companies hire online assistants, focusing 
+on cost reduction, flexibility, and access to specialized skills.” 
+● Organize Each Objective into Sub-Sections. Each research objective will have three sub-sections: 
+○ Findings: Summarize key results related to the objective. 
+○ Conclusions: Interpret the findings and explain their significance. 
+○ Recommendations: Provide actionable suggestions and propose future research directions. 
+● Align with Dimensions or Parameters. If the objective has multiple dimensions or parameters, ensure that 
+each piece of information is aligned with the findings, conclusions, and recommendations. 
+● Use the Input-Process-Output (IPO) Model for Objectives with Outputs. For research objectives that 
+include an output, structure the sub-sections using the IPO model: 
+○ Input: Briefly describe the data or resources used. 
+135 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 147 (Manual Page 136) ===
+ 
+○ Process: Explain the methods or steps taken to analyze the data. 
+○ Output: Present the findings, conclusions, and recommendations. 
+7.2  Guidelines 
+● Begin by briefly defining the chapter’s focus and purpose, outlining the main sections that will be 
+covered. 
+● Present each research question individually, followed by a detailed presentation of its corresponding 
+findings, conclusions, and recommendations. 
+● Summarize the key results that directly address each research question. 
+● Draw reasoned conclusions based on the analyzed findings. 
+● Offer practical suggestions derived from the conclusions, acknowledge any study limitations, and highlight 
+directions for future research. 
+ 
+8.  Bibliography 
+The bibliography section provides a comprehensive list of all the sources cited and consulted during the research 
+process. It is essential to properly document these sources to give credit to the original authors, avoid plagiarism, 
+and allow readers to locate the referenced materials for further study. 
+8.1  Format 
+● Start the reference list on a new page after the text and before the appendices. 
+● Label the reference list “BIBLIOGRAPHY” capitalized, in bold, and centered.  
+● Double-space all referred list entries. 
+● Use a hanging indent for all references, meaning that the first line of each reference is flush left, and 
+subsequent lines are indented by 0.5 in.  
+● Use the paragraph-formatting function of your word-processing program to apply the hanging indent 
+automatically.  
+● Arrange references in alphabetical order by the last name of the first author. If there is no author, use the 
+title of the work for alphabetization. 
+ 
+8.2  Guidelines 
+● Author Names: Use the last name followed by initials for the first and middle names. For multiple authors, 
+use commas to separate names and an ampersand (&) before the last author's name. 
+Example: Smith, J. A., & Brown, L. T. 
+136 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 148 (Manual Page 137) ===
+ 
+● Publication Year: Place the publication year in parentheses immediately after the author's name. 
+Example: Smith, J. A. (2020). 
+● Titles: Capitalize only the first word of the title and subtitle, as well as any proper nouns. Italicize the 
+titles of books and journals. 
+Example: The study of human behavior. 
+● Multiple Works by the Same Author: List multiple works by the same author in chronological order, 
+starting with the oldest publication. For works published in the same year, add a lowercase letter (a, b, c) 
+after the year. 
+Example: Smith, J. A. (2019a)." and "Smith, J. A. (2019b). 
+● Journal Articles: Include the author, publication year, title of the article, journal title in italics, volume 
+number in italics, issue number in parentheses (if applicable), page range, and a DOI if available. 
+Example:  
+Smith, J. A. (2020). Understanding human behavior. Journal of Psychology, 45(2), 123-135. 
+https://doi.org/10.1234/abc123 
+● Books: Include the author, publication year, title of the book in italics, edition (if applicable), and the 
+publisher. 
+Example: Smith, J. A. (2018). The study of human behavior (2nd ed.). Routledge. 
+● Websites: Provide the author (if available), publication year, title of the webpage in italics, and the URL. 
+Example: Smith, J. A. (2020). Understanding human behavior. https://www.example.com 
+● Chapters in Edited Books: Include the author of the chapter, publication year, title of the chapter, editors 
+of the book, title of the book in italics, page range of the chapter, and the publisher. 
+Example:  
+Smith, J. A. (2017). The role of behavior in psychology. In P. R. Anderson & L. T. Brown (Eds.), 
+Advances in psychological research (pp. 123-145). Routledge. 
+● Conference Proceedings: Include the author, publication year, title of the paper, editors of the 
+proceedings, title of the proceedings in italics, page range, and publisher. 
+Example: 
+ Smith, J. A. (2016). Exploring human behavior. In P. R. Anderson & L. T. Brown (Eds.), 
+Proceedings of the Annual Psychology Conference (pp. 45-67). APA Press. 
+For a more detailed explanation of detailed instructions on how to format the bibliography and examples, you can 
+refer to Sections 9.01 to 9.34 and Sections 10.1 to 10.103 in the APA Manual, 7th edition. 
+137 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 149 (Manual Page 138) ===
+ 
+9.  Appendices 
+Authors sometimes have extra information that is valuable in the paper, but could disrupt the flow of their paper. 
+This information can be placed in an appendix. Use an appendix only if the information helps the readers 
+understand the research, evaluate its quality, or recreate the study itself. Remember, any appendix material needs 
+to follow ethical rules, such as giving credit for borrowed content, showing data accurately, and protecting 
+people's privacy (especially if it involves pictures or videos of them).   
+9.1  Supplementary Materials and Documentation 
+Material that should be attached to the appendix: 
+● Certificate of Authenticity (see Appendix J) 
+● Statistician Certification (see Appendix T) 
+● Research Contribution Form (see Appendix L) 
+● AI Declaration Statement (see Appendix K) 
+● Application for Research Ethics Review (see Appendix H) 
+● Informed Consent Form/Assent Form/Parental Permission for Child’s Participation in Research (see 
+Appendix E-G) 
+Other examples of material suitable for an appendix are :  
+● a list of stimulus materials (e.g., those used in psycholinguistic research),  
+● a detailed description of a complex piece of equipment and  
+● a detailed demographic description of subpopulations in the study and other detailed and/or complex 
+reporting items 
+● communication letters used during the conduct of the study 
+● Raw data sets or detailed statistical outputs that underpin the analyses presented 
+● Questionnaires, surveys, or interview transcripts are used for data collection. 
+● Supplementary tables, figures, maps, photographs, or diagrams that add context or clarity 
+● Sample calculations or formulas illustrating analytical methods 
+● Ethical approval documents, consent forms, or correspondence relevant to the study 
+9.2  Format 
+● Begin the appendix on a separate page after the bibliography. 
+● Include a cover page titled “Appendices” (centered, bold, uppercase) before listing the individual 
+appendices. This page serves as an introduction to the appendix section. 
+138 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT
+
+=== PDF PAGE 150 (Manual Page 139) ===
+ 
+● Give each appendix a label and a title.  
+● If a paper has one appendix, label it “Appendix”; if a paper has more than one appendix, label each 
+appendix with a capital letter (e.g., “Appendix A,” “Appendix B”) in the order in which it is mentioned in 
+the text. 
+● Each appendix should be mentioned (called out) at least once in the text by its label (e.g., “see Appendix 
+A”). 
+● The appendix title should describe its contents. 
+● Place the appendix label and title in bold and centered on separate lines at the top of the page on which 
+the appendix begins. Use title case (see Section _____) for the appendix label and title. 
+● An appendix can be all text, or it can mix text with tables, figures, or even both. If it's just text, you can 
+include headings and special equations to organize the information.  
+● If an appendix contains text, write the paragraphs as regular, indented paragraphs, the same as in the 
+body of the paper. 
+● If a text appendix contains tables, figures, footnotes, and/or displayed equations, give each one a 
+number preceded by the letter of the appendix in which it appears (e.g., Table A1 is the first table within 
+Appendix A or of a sole appendix that is not labeled with a letter; Equation B1 is the first equation within 
+Appendix B; Figure C2 is the second figure of Appendix C). 
+● In a sole text appendix, which is not labeled with a letter, precede all table, figure, footnote, and equation 
+numbers with the letter “A” to distinguish them from those of the main text. 
+● All tables and figures within a text appendix must be mentioned in the appendix and numbered in order 
+of mention. The tables and figures within a text appendix should be embedded within the text. 
+● If an appendix consists of a table only or a figure only, then the appendix label takes the place of the 
+table or figure number, and the appendix title takes the place of the table or figure title. Thus, if Appendix 
+B is a table-only appendix, the table is referred to as Appendix B rather than as Table B1. 
+● If Appendix C is a figure-only appendix, the figure is referred to as Appendix C rather than Figure C1. 
+● If multiple tables and/or figures (but no text) are combined into one appendix, label and title the 
+appendix, and also number and title the tables and/or figures within the appendix (e.g., Tables D1 and D2 
+are two tables in Appendix D).  
+ 
+ 
+ 
+139 
+UNIVERSITY OF NUEVA CACERES RESEARCH MANUAL | REVISED EDITION 2025
+CHAPTER 8: THE UNIVERSITY RESEARCH FORMAT

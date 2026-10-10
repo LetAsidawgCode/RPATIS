@@ -1,0 +1,13 @@
+# Effect of the State of Information Communication Technology Usage in the Administration of Property Taxes: A Case Study of Musanze City, Rwanda
+
+**Category:** [[Related Study international C2]]
+
+**Agnes Wambaire Wangai. 2023. Effect of the State of Information Communication Technology Usage in the Administration of Property Taxes in Rwanda — A Case Study of Musanze City. International Journal of Research and Innovation in Social Science 7, 11 (November 2023), 1004–1014. https://doi.org/10.47772/IJRISS.2023.701173**
+
+- **Summary:** A quantitative investigation of 92 municipal tax officers and commercial property owners in Musanze City, Rwanda by Wangai (2023) established a statistically significant correlation ($r = 0.51$, $p < 0.05$) between ICT adoption and property tax administration efficiency, demonstrating that digitizing property evaluation registers expedites payment reconciliations.
+ 
+- **Relevance:** This empirical study provides direct quantitative justification for the Tax Payment Synchronization Module within the proposed system's comparative evaluation across Pasacao, Canaman, Magarao, and San Fernando. Grounded in Wangai’s correlation metrics, the proposed system establishes automated foreign-key joins, synchronized relational tables, and event-triggered ledger reconciliation routines linking parcel appraisals directly with payment registers. Fragmented software tools limit digitization gains. In Musanze City, assessment records and revenue collection ledgers operated on disconnected applications, generating recurring synchronization bottlenecks and manual reconciliation backlogs. Although Wangai quantitatively proves that ICT expedites tax cycles, the investigation remains an observational descriptive study; it offers no software engineering design, automated database triggers, or web routing schemas to interconnect municipal departments. The proposed system directly resolves this operational limitation by deploying an integrated web architecture that automatically routes assessment requests and synchronizes property values directly with treasury collection ledgers in real time.
+
+- **Source Reference(s):**
+  - _Section 4.2: Correlation Analysis (p. 1009):_ Reports a moderate, statistically significant positive correlation ($r = 0.51$, $p < 0.05$) between ICT integration and municipal property tax administration efficiency.
+  - _Section 5: Challenges of ICT Adoption (pp. 1011–1012):_ Highlights that software silos between property valuation registries and revenue collection databases cause chronic data discrepancies and require tedious manual re-entry.

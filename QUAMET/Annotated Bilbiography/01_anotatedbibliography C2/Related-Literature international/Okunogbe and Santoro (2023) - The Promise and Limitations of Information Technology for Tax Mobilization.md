@@ -1,0 +1,13 @@
+# The Promise and Limitations of Information Technology for Tax Mobilization
+
+**Category:** [[Related Literature international C2]]
+
+**Oyebola Okunogbe and Fabrizio Santoro. 2023. The Promise and Limitations of Information Technology for Tax Mobilization. The World Bank Research Observer 38, 2 (August 2023), 295–324. https://doi.org/10.1093/wbro/lkac008**
+
+- **Summary:** Published in The World Bank Research Observer, this systematic empirical review by Okunogbe and Santoro (2023) proves that while information technology strengthens tax compliance and asset discovery, digital interventions routinely fail unless embedded within synchronized back-office workflows and supported by inter-agency data sharing.
+
+- **Relevance:** This empirical review provides the primary institutional rationale for the proposed system's needs assessment and iterative development methodology across Pasacao, Canaman, Magarao, and San Fernando. Grounded in Okunogbe and Santoro’s findings on institutional mainstreaming, the proposed system implements event-driven ledger reconciliation routines, automated foreign-key joins, and centralized relational table mappings within the Tax Payment Synchronization Module. Technology alone cannot fix administrative silos. Standalone software deployments often languish as isolated digital islands when municipal staff lack integrated channels to cross-verify valuation records against tax collections. While Okunogbe and Santoro synthesize econometric and administrative evidence from diverse developing countries, their review operates at the macro policy level; they offer no concrete software prototypes, document tracking state machines, or relational schemas specifically tailored to rural municipal assessor and treasurer workflows in the Philippines. The proposed system resolves this operational gap by engineering a tailored web platform through iterative Agile sprints, establishing continuous synchronization between assessor valuation files and treasury payment registers to ensure sustained administrative adoption.
+
+- **Source Reference(s):**
+  - _Section 3: IT for Tax Administration — Monitoring Compliance (pp. 302–307):_ Proves through comparative empirical evidence that electronic cross-matching between property registries and tax collection databases yields the highest gains in revenue integrity.
+  - _Section 4: Limitations — Institutional Mainstreaming and Technical Capacity (pp. 313–316):_ Documents that lack of inter-agency data sharing protocols, poor interface usability, and fragmented back-office workflows cause municipal staff to bypass digital tools in favor of manual paper ledgers.
