@@ -1,0 +1,426 @@
+Christian Louise Asido       ​ Module 1 : eRPT Assessment, Valuation, and Tax Declaration Engine 
+ 
+1.​ Project Overview and Stakeholder List 
+Our project group is developing an automated web platform titled as Needs Assessment for a Real Property 
+Assessment Tracking and Inter-Office Synchronization System: Resolving Disconnected Records and 
+Workflow Delays in Municipal Assessor and Treasurer Offices in Pasacao. The main goal of our study is to 
+conduct a needs assessment and comparative evaluation of local municipal workflows across Canaman, 
+Magarao, San Fernando and benchmarking with Pasacao (which uses an existing eRPT setup) to solve 
+real-world problems in local government units. Specifically, our project addresses the severe administrative 
+frictions, valuation delays, fragmented record-keeping, and  the massive operational headache of migrating 
+decades-old legacy records dating back to 1949. 
+This document covers Module 1: eRPT Assessment, Valuation, and Tax Declaration Engine. This module 
+handles property record intake, automated valuation computation, digital Tax Declaration (TD) generation, and 
+first-stage endorsement of assessment documents. The module extends the eRPT system that Pasacao 
+currently uses. It addresses three specific gaps found during field interviews: incomplete building-classification 
+data fields, missing automated valuation computation for certain property types, and no online document 
+pre-screening workflow.​
+  
+Key Stakeholders 
+ 
+Stakeholders 
+Roles and Interest 
+Municipal Assessor  
+Issues the Recommending Approval for all assessment 
+transactions before documents proceed to the Provincial 
+Assessor. Needs accurate computation and an organized 
+workflow queue. 
+Provincial Assessor's Office 
+Issues the final approval for all Tax Declarations in 
+Camarines Sur. Receives endorsed assessment documents 
+from all 35 municipal offices. 
+Municipal Assessor's Office Staff 
+Process walk-in requests daily. Requests include new Tax 
+Declarations, transfers, reclassifications, and certifications. 
+Staff need fast record lookup and automated valuation. 
+Real Property Owners and Taxpayers  
+Submit requests for new Tax Declarations, transfers, land 
+holding certifications, and other assessment documents. 
+Need fewer return trips and a clear document checklist. 
+Tax Mapper 
+Maintains tax mapping records. Updates tax maps when a 
+property revision occurs. Needs the system to reflect 
+updated property data after the Assessor's Office issues a 
+Tax Declaration. 
+ 
+Bureau of Local Government Finance (BLGF) 
+National agency under the Department of Finance that 
+oversees local government financial operations, including 
+real property tax administration and compliance standards 
+across all LGUs. 
+Capstone Team  
+Designs, builds, and evaluates the system against ISO/IEC 
+25010. 
+ 
+ 
+2.​ Information-gathering methods used and summary of findings 
+ 
+Field Interviews : The team conducted structured interviews with assessor staff and tax mappers at the 
+Canaman and Pasacao Municipal Assessor's Offices using a prepared interview guide covering office setup, 
+daily workflows, tax computation, bottlenecks, record keeping, and taxpayer experience. 
+Document Analysis : The team reviewed physical assessment forms and request forms such as the 
+Certificate of Land Holding, Certified True Copy of Tax Declaration , and Transfer of Assessment form. The 
+team also reviewed the provincial Schedule of Market Values ordinance structure as described by the 
+interviewees. 
+Comparative Observation : The team compared the manual workflow of Canaman (Excel spreadsheets and 
+paper ledgers going back to 1949) against the partially automated eRPT workflow of Pasacao. 
+Professor Consultation : The team held two consultation sessions with the Research Adviser and the 
+Capstone Professor. The sessions confirmed the research scope and identified the module's primary 
+differentiator from other GIS-based capstone groups. 
+ 
+Key Findings: 
+ 
+Canaman: 
+●​ The Canaman office has five staff members. They handle an average of three walk-in transfers per day and 15 
+transfers per month. Certifications are the most common daily transaction. 
+●​ Staff store property records on Excel spreadsheets and in physical ledger books. Some records date back to 1949. 
+Retrieving a historical record takes 30 minutes to three days, depending on the record age. 
+●​ Staff compute valuation manually using the formula prescribed under Republic Act No. 7160 (Local Government 
+Code of 1991): Area multiplied by the Unit Value from the Schedule of Market Values produces the Fair Market 
+Value. The Fair Market Value multiplied by the applicable Assessment Level percentage produces the Assessed 
+Value. The office has a basic computer system, but it has gaps. Certain building sub-components are not yet 
+encodable in the current system, which causes incomplete assessment records. 
+●​ Assessment levels follow a provincial Schedule of Market Values ordinance. The ordinance covers Residential (1st, 
+2nd, and 3rd class), Commercial, Agricultural, and Machinery property types, each with separate unit values and 
+assessment level percentages. 
+●​ The discount and penalty structure is standard. Taxpayers who pay by December of the current year receive a 20% 
+discount. Taxpayers who pay in the first quarter of the following year receive a 10% discount. Late payments incur a 
+2% penalty per month of delay. 
+●​ The Municipal Assessor's Office issues only a Recommending Approval. The Provincial Assessor's Office in Pili 
+issues the final approval. Municipal staff physically travel to the Provincial Capitol once a week, usually on Thursday 
+or Friday, to transmit new documents and retrieve approved copies. 
+●​ Before the Assessor's Office issues a complete Tax Declaration for a building, it must coordinate with the 
+Engineering Office for occupancy permits and building plans, and with the Municipal Planning and Development 
+Office for zoning certificates when a reclassification request is involved. 
+ 
+ 
+Pasacao: 
+●​ The Pasacao office uses an eRPT system. The system was installed in 2022 and updated in 2024. 
+●​ The office handles 50 to 100 certification requests per day. Document verification takes about five minutes per 
+request. Appraisal takes up to seven days for complex transactions. 
+●​ Despite using the eRPT system, staff still prepare assessments on paper first. Staff then manually encode the data 
+into the system. The system does not allow online document submission or pre-screening. This creates a 
+duplicate-effort workflow. 
+●​ The most common request types are: Tax Declaration, Certificate of Land Holding, Certified True Copy of Tax 
+Declaration, Transfer and Cancellation, Certificate of No Improvement, and Effectivity Certificate. 
+●​ After staff encode property data, the eRPT system computes the assessment level and annual tax automatically. 
+This automated computation is one of the key functions the proposed module must retain and extend. 
+●​ A known gap in the Pasacao eRPT system is that certain data fields required for accurate assessment are missing 
+from the system's encoding forms. This causes incomplete records and requires staff to work around the system. 
+●​ No public portal exists. Taxpayers cannot check document requirements or submission status online. Staff 
+confirmed that an online pre-screening function would reduce the number of return visits by taxpayers who arrive 
+with incomplete documents. 
+ 
+ 
+Professors Consultation(Sir Chin and Sir June Areb) 
+●​ June Areb confirmed that the module should extend and improve upon the eRPT system's existing functions rather 
+than replace it. He recommended building the module as a service layer that connects to the existing eRPT 
+infrastructure through an application programming interface. 
+●​ Chin directed the team to address local municipal workflow efficiency before considering provincial-level 
+bottlenecks. 
+●​ Both professors confirmed that automated Tax Declaration generation, assessment computation, and online 
+pre-screening of requirements are valid primary functions for Module 1. 
+ 
+ 
+3.​ Functional requirements (prioritized) 
+ 
+MUST HAVE 
+●​ The system must accept and store property assessment request submissions. Each submission must capture the 
+property type (Land, Building, Machinery, or Other Improvement), classification (Residential, Commercial, 
+Agricultural, or Industrial), and Property Index Number. 
+●​ The system must allow staff to search existing property records by Owner Name, Property Index Number, 
+Assessment Roll Number, Barangay, and Lot or Block Number. The system must return results in five seconds or 
+less. 
+●​ The system must compute Fair Market Value automatically. The computation must follow the formula under 
+Republic Act No. 7160, Section 198: Area multiplied by the Unit Value from the encoded Schedule of Market Values 
+equals the Fair Market Value. 
+●​ The system must compute Assessed Value automatically. The computation must follow Republic Act No. 7160, 
+Section 199: Fair Market Value multiplied by the applicable Assessment Level percentage equals the Assessed 
+Value. Assessment level percentages must match the property class as the Local Government Code and the 
+provincial Schedule of Market Values ordinance mandate. 
+●​ The system must support all standard assessment transaction types: New Assessment or Discovery, Transfer of 
+Assessment, Revision or Re-assessment, Reclassification, Cancellation, and Subdivision or Consolidation. 
+●​ The system must generate a digital Tax Declaration. The Tax Declaration must include: full property details, 
+computed Fair Market Value, computed Assessed Value, effective date, property classification, and the Municipal 
+Assessor's Recommending Approval notation. 
+●​ The system must check that all required documents are present before the request moves to the appraisal or 
+verification stage. For a Transfer of Assessment, the system requires a Deed of Absolute Sale (or equivalent 
+conveyance document). For a new building assessment, the system requires a Building Permit and a Certificate of 
+Occupancy. 
+●​ The system must allow staff to encode all building sub-components. Sub-components include: structural type, floor 
+area, year built, depreciation rate, and accessories or additional improvements. This requirement addresses the 
+encoding gap found in the Canaman field interview. 
+ 
+SHOULD HAVE 
+●​ The system should allow taxpayers or authorized representatives to submit initial assessment requirements online. 
+The system should check the document checklist and flag missing items. It should notify the taxpayer of any missing 
+documents before the taxpayer visits the office. 
+●​ The system should compute the annual Real Property Tax due automatically. The computation must follow Republic 
+Act No. 7160, Section 233: Basic Real Property Tax equals Assessed Value multiplied by the applicable tax rate (not 
+exceeding 1% for provinces). The computation must also include the Special Education Fund levy of 1% of the 
+Assessed Value, applicable discounts (20% for advance payment by December of the current year; 10% for 
+first-quarter payment of the following year), and penalties (2% per month of delay, compounded per quarter). 
+●​ The system should store the complete assessment history of each property. The history must include all prior Tax 
+Declarations, revisions, reclassifications, and recorded owners from the earliest available declaration. Staff must be 
+able to view this history in a property timeline panel. 
+●​ The system should generate a Notice of Assessment document automatically when a Tax Declaration is final. The 
+system must provide this document to the taxpayer as official notification of the new assessed value. 
+●​ The system should produce a formatted Assessment Roll entry. The system must allow staff to export this entry and 
+transmit it to the Treasurer's Office as a digital record. 
+ 
+ 
+COULD HAVE 
+●​ The system could allow staff to attach scanned supporting documents to the property record. Documents include: 
+Deed of Sale, Land Title, Building Permit, and Certificate of Occupancy. 
+●​ The system could display a taxpayer-facing document checklist page. The page must show the documents required 
+per transaction type. Account registration must not be required to view this page. 
+●​ The system could flag properties where the encoded digital record does not match the paper-based historical 
+record. The system must prompt a reconciliation workflow for flagged properties. 
+ 
+ 
+WONT HAVE 
+●​ This Module will not process online tax payments or connect to payment gateways. Those functions belong to the 
+Treasurer's Office scope (Module 2). 
+●​ The system will not include GIS or tax mapping functions. Those functions belong to a separate capstone group to 
+avoid scope conflict. 
+●​ This Module will not replace the formal physical signing process at the Provincial Capitol in Pili. That function is the 
+scope of Module 3. 
+ 
+4.​ Non-functional requirements (prioritized) 
+ 
+MUST HAVE 
+Non-Functional Requirement 
+Measurable Target 
+Performance Efficiency : The system must return property 
+record search results within an acceptable time. This applies to 
+all records, including historical data.​ 
+Search response ≤ 5 seconds for any record. 
+ 
+Functional Suitability : Assessment computations (Fair Market 
+Value, Assessed Value, and Real Property Tax due) must match 
+manual verification results at all times. 
+0% computation error rate versus manual benchmark 
+calculations during evaluation. 
+Security and Data Privacy : The system must restrict access to 
+all stored property records and owner information. Only 
+authenticated assessor staff may access or change assessment 
+records. This requirement complies with Republic Act No. 10173 
+(Data Privacy Act of 2012). 
+Role-Based Access Control enforced for all record 
+access and modification. 
+Usability : Assessor staff with minimal technical training must 
+complete a standard Tax Declaration generation without external 
+help.​
+ 
+ISO/IEC 25010 Usability score ≥ 4.0 out of 5.0 on the 
+user evaluation survey. 
+ 
+ 
+SHOULD HAVE 
+Non-Functional Requirement 
+Measurable Target 
+Reliability : The system must handle multiple simultaneous 
+users without data loss or corruption. This applies during peak 
+periods such as end-of-year payment season and transfer 
+request rushes.​
+ 
+The system remains stable under at least five concurrent 
+users. 
+ 
+Maintainability : An authorized administrator must update 
+Schedule of Market Values unit values and assessment level 
+rates without changing the source code. The province updates 
+the Schedule of Market Values ordinance periodically.​
+ 
+Admin panel allows rate updates without developer 
+intervention. 
+ 
+Processing Time Reduction : The system must reduce the 
+time to complete a new assessment or Tax Declaration 
+generation compared to the manual baseline.​
+ 
+Average Tax Declaration generation time ≤ 15 minutes 
+versus the current manual baseline of 30 minutes to 
+three days. 
+ 
+ 
+COULD HAVE 
+Non-Functional Requirement 
+Measurable Target 
+Accessibility : The taxpayer-facing pre-screening portal must 
+work on mobile browsers.​
+ 
+Responsive design functional on screen widths ≥ 360 
+pixels. 
+ 
+ 
+WONT HAVE 
+●​ This module will not include blockchain validation of Tax Declarations. The Capstone Professor noted this as a 
+possible future enhancement. It is outside the scope of this academic year. 
+ 
+5.​ Key use cases or user stories (3–5 high-priority ones) 
+ 
+New Building Assessment (Tax Declaration Generation):​
+As an Assessor's Office staff member, I want to encode a new building's complete details into the system and 
+have it compute the Fair Market Value, Assessed Value, and Real Property Tax automatically, so that I can 
+generate an accurate digital Tax Declaration within minutes instead of preparing it manually over several hours. 
+ 
+Transfer of Assessment with Online Pre-Screening: 
+As a real property owner who needs to transfer a Tax Declaration to a new owner's name, I want to check and 
+submit my documentary requirements online before visiting the Assessor's Office, so that I arrive with complete 
+documents and avoid making multiple return trips. 
+Historical Property Record Lookup: 
+As an Assessor's Office staff member, I want to search for a property's complete assessment history using the 
+owner's name or Property Index Number, so that I can verify prior assessments and retrieve records going 
+back to 1949 within seconds instead of spending 30 minutes to three days searching physical ledgers. 
+Annual Real Property Tax Computation with Discounts and Penalties:​
+As an Assessor's Office staff member, I want the system to automatically compute a property's annual Real 
+Property Tax due including any applicable discount or penalty based on the payment date so that I can give the 
+taxpayer an accurate billing breakdown on demand without performing the calculation manually. 
+ 
+6.​ Assumptions, constraints, and open issues 
+ 
+ 
+ASSUMPTIONS 
+●​ The Assessor's Office will provide the Schedule of Market Values ordinance data for encoding into the valuation 
+database. The Pasacao interview confirmed that the ordinance exists in both book and system form. 
+●​ The Municipal Assessor will participate in system evaluation and will confirm the Recommending Approval workflow 
+representation. 
+●​ The team will use mock or masked property data during development and testing to comply with Republic Act No. 
+10173. The team will use actual property data only during the supervised field evaluation phase. 
+●​ Internet connectivity at the target offices is adequate for a web-based system. 
+●​ The system covers only the assessment functions of the Assessor's Office. Real Property Tax collection and 
+payment processing remain with the Treasurer's Office (Module 2). 
+●​ During the pilot phase, the Provincial Capitol approval step remains a physical process. Module 1 generates only 
+the Recommending Approval packet for endorsement. Module 3 handles digital approval routing. 
+ 
+ 
+CONSTRAINTS 
+TYPE 
+Assessment levels and tax rates follow Republic Act No. 7160 (Local Government Code) and 
+the provincial Schedule of Market Values ordinance. The system cannot change these rates 
+without a new ordinance from the Province.​ 
+Policy 
+All municipal Assessors in Camarines Sur operate under the Provincial Assessor's authority. 
+Only the Provincial Assessor issues the final approval signature on Tax Declarations. The 
+system produces only a Recommending Approval package at the municipal level in Module 1. 
+Legal and Policy 
+ 
+The eRPT system used in the target municipalities is a locally developed and customized 
+system. This module extends it as a service layer. The team will not change the core codebase 
+of the existing eRPT system. The Capstone Professor recommended this approach to maintain 
+institutional compatibility.​
+ 
+Technical 
+The academic project timeline runs from July to December 2026. The deliverable for this phase 
+is a working prototype. The complete production system is scheduled for the following 
+academic year's capstone continuation.​
+ 
+Time 
+The Real Property Valuation and Assessment Reform Act (Republic Act No. 12001) targets full 
+implementation in 2028. Current assessment computations must follow the existing Schedule 
+of Market Values framework, not the reform act framework.​ 
+Regulatory 
+Legacy records from 1949 to approximately 2000 in Canaman exist only in physical ledger 
+books. Digitizing these records requires manual data entry by assessor staff. Historical 
+retrieval in the system is limited to records that staff encode during the pilot run.​ 
+Data 
+ 
+ 
+OPEN ISSUES 
+●​ Will the Assessor's Office provide an exported digital dataset (such as a spreadsheet or database export) of the 
+Schedule of Market Values ordinance, or must the development team manually encode the unit values and 
+classification tables from the physical ordinance book into the system database? 
+●​ The system must handle requests where the person at the counter is not the property owner. Those cases require a 
+Special Power of Attorney or a written Authorization Letter. The team must confirm the exact verification logic with 
+the Assessor's Office. 
+●​ A Transfer of Assessment requires a Certificate Authorizing Registration from the Bureau of Internal Revenue. The 
+system currently plans to accept a scanned upload only. Whether any real-time verification is feasible within the 
+project timeline is not yet decided. 
+●​ The team and the Assessor's Office must agree on how long the office will run both the existing workflow and the 
+new system at the same time. This comparison period provides data for the Paired t-test evaluation. A duration of 
+two weeks is proposed. 
+●​ The team must confirm the exact Assessment Roll format that the Treasurer's Office expects. This ensures that the 
+Module 1 export function produces a compatible file. 
+ 
+7.​ Attachment of Data Gathering Evidences 
+ 
+Sample Interview Questions 
+1.​ Can you walk us through the step-by-step process from the moment a taxpayer arrives at your service counter until 
+they receive their finished document or clearance? 
+2.​ What specific documentary requirements must property owners submit for each of the following major transactions? 
+a.​ New Tax Declaration: Requirements for newly declared land, new buildings/houses, or machinery. 
+b.​ Transfer of Ownership: Requirements when transferring a property (such as Deed of Sale, BIR tax 
+clearance, transfer tax receipt, or previous clearances). 
+c.​ Reassessment of Property: Requirements when an owner requests a value correction, property 
+reclassification, or physical inspection. 
+d.​ Issuance of Clearances: Requirements for getting a Tax Clearance, Certificate of No Property, or Certificate 
+of No Improvement. 
+3.​ How do you compute real property taxes in your office from start to finish? 
+a.​ Market Value & Assessed Value: How do you determine market value, and what assessment percentages 
+are applied based on classification (residential, agricultural, commercial)? 
+b.​ Tax Rates: What tax percentages are applied to get the annual tax due (such as the 1% basic tax and 1% 
+Special Education Fund)? 
+c.​ Discounts and Penalties: What discounts are given for prompt or advance payments, and what interest or  
+penalties are charged for late payments? 
+4.​ How do personnel search for an existing property record, tax declaration, or property identification number when a 
+client inquires at the counter? 
+5.​ On average, how long does it take to complete one full transaction from initial queuing to document release? 
+Roughly how many minutes are spent on: 
+a.​ Requirement Checking: Checking if the client's submitted papers are complete. 
+b.​ Record Search: Locating the property in physical record books, maps, or file folders. 
+c.​ Value & Tax Computation: Calculating the assessed value and tax amounts. 
+d.​ Approval & Release: Review, official signature, municipal seal, and releasing the document. 
+6.​ How often do calculation mistakes or clerical errors happen during manual tax computations, what usually causes 
+them, and how are they corrected? 
+7.​ If an online portal allowed taxpayers to check requirements, submit initial papers, and see tax estimates before 
+visiting, which tasks would this reduce or simplify for your staff? 
+ 
+ 
+ 
+ 
+ 
+Pictures of Online consultation and Interviews 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sample Documents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

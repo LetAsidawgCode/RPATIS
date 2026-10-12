@@ -1,0 +1,107 @@
+UNIVERSITY OF NUEVA CACERES
+School of Computer and Information Sciences
+Bachelor of Science in Information Technology • Naga City, Camarines Sur
+STAKEHOLDER INTERVIEW GUIDE
+Target Office: Municipal Assessor's Office — Municipality of San Fernando, Camarines Sur
+Research Project: Needs Assessment and Development of an Automated Real Property Tax Assessment and Digital Collection Framework
+for the Municipality of San Fernando: Optimizing Local Revenue Generation and Taxpayer Compliance Workflows
+Student Researchers:
+Rizalina A. Ortega  |  John Kenneth P. Calubad  |  Christian Louise O. Asido
+Interview Purpose:
+To understand your daily office workflows, requirements, manual tax computation steps, and counter
+bottlenecks to design a helpful and easy-to-use web portal for the Assessor's Office.
+Confidentiality Notice:
+All information shared will be kept strictly confidential and used solely for academic research in full compliance
+with the Data Privacy Act (Republic Act No. 10173).
+Note for the Interviewee: This interview is conducted by the student research team to gather firsthand practical insights. A printed copy is
+provided for your reference and review during our discussion.
+PART 1 — OFFICE SETUP AND STAFF ROLES
+1. How many staff members currently work in the Municipal Assessor's Office, and what are their main roles (such as Municipal
+Assessor, appraisers, tax mappers, records clerks, or counter staff)?
+2. On average, about how many property tax transactions or client requests does your office handle in a typical day, and during peak
+deadline months?
+3. What are the most common requests, certifications, or documents that property owners ask for at your counter?
+PART 2 — DAILY WORKFLOWS AND TAX COMPUTATION
+4. Can you walk us through the step-by-step process from the moment a taxpayer arrives at your service counter until they receive
+their finished document or clearance?
+5. What specific documentary requirements must property owners submit for each of the following major transactions?
+Sample Document Request: If possible, our team kindly asks for blank or sample copies of your appraisal sheet, tax declaration, notice of
+assessment, or clearance forms to help us design the digital templates.
+a. New Tax Declaration: Requirements for newly declared land, new buildings/houses, or machinery.
+•
+b. Transfer of Ownership: Requirements when transferring a property (such as Deed of Sale, BIR tax clearance, transfer tax receipt, or
+previous clearances).
+•
+c. Reassessment of Property: Requirements when an owner requests a value correction, property reclassification, or physical inspection.
+•
+d. Issuance of Clearances: Requirements for getting a Tax Clearance, Certificate of No Property, or Certificate of No Improvement.
+•
+UNC BSIT Capstone Research • Municipality of San Fernando Stakeholder Interview Guide
+Academic Year 2026–2027
+6. Once documents are submitted at the counter, how do staff verify them, and who reviews and approves the application before it is
+released?
+7. How do you compute real property taxes in your office from start to finish?
+8. Where and how are your property records and assessment rolls currently stored (such as physical logbooks, paper folders, computer
+files, or a mix of both)?
+9. How do personnel search for an existing property record, tax declaration, or property identification number when a client inquires at
+the counter?
+PART 3 — BOTTLENECKS, DELAYS, AND COMMON ERRORS
+10. On average, how long does it take to complete one full transaction from initial queuing to document release? Roughly how many
+minutes are spent on:
+11. During busy peak seasons (such as the January to March tax discount period), what are the biggest causes of long lines and delays
+in the office?
+12. How often do calculation mistakes or clerical errors happen during manual tax computations, what usually causes them, and how
+are they corrected?
+13. Which types of transactions most frequently require clients to return repeatedly (pabalik-balik) due to lacking documents or
+corrections?
+14. Which transactions require coordinating with other offices (such as the Municipal Treasurer's Office, BIR, or Registry of Deeds), and
+how is that coordination handled right now?
+a. Market Value & Assessed Value: How do you determine market value, and what assessment percentages are applied based on
+classification (residential, agricultural, commercial)?
+•
+b. Tax Rates: What tax percentages are applied to get the annual tax due (such as the 1% basic tax and 1% Special Education Fund)?
+•
+c. Discounts and Penalties: What discounts are given for prompt or advance payments, and what interest or penalties are charged for
+late payments?
+•
+a. Requirement Checking: Checking if the client's submitted papers are complete (minutes).
+•
+b. Record Search: Locating the property in physical record books, maps, or file folders (minutes).
+•
+c. Value & Tax Computation: Calculating the assessed value and tax amounts (minutes).
+•
+d. Approval & Release: Review, official signature, municipal seal, and releasing the document (minutes).
+•
+UNC BSIT Capstone Research • Municipality of San Fernando Stakeholder Interview Guide
+Academic Year 2026–2027
+PART 4 — RECORD KEEPING AND NATIONAL RULES
+15. How are important physical documents — such as property assessment sheets, tax maps, and record books — organized and
+protected against loss, wear, fire, or water damage?
+16. Does your office currently use any software program, computerized spreadsheet, or electronic database for recording or calculating
+assessments? If yes, what is it and what does it do?
+17. Are there any recent national government guidelines or new property valuation rules that your office has started preparing for or
+implementing?
+18. Where and in what format is your municipality's official Schedule of Market Values kept and referenced in your daily work (such as
+printed binders, spreadsheets, or a database)?
+PART 5 — PUBLIC SERVICE AND TAXPAYER EXPERIENCE
+19. What are the most frequent questions, complaints, or points of confusion that property owners express regarding assessments and
+clearances?
+20. Approximately how much of your staff's daily time is spent answering basic questions (such as asking for requirements or checking
+status) from walk-in clients or phone inquiries?
+21. Have property owners or taxpayers expressed interest in being able to check requirements, track their application status, or
+estimate their tax dues online from home?
+PART 6 — FEEDBACK ON THE PROPOSED ONLINE SYSTEM
+22. Has your office tried using any digital tools, online forms, or messaging channels for public services in the past? If yes, what worked
+well and what challenges came up?
+23. What concerns or challenges do you foresee if a web-based pre-assessment system is introduced (such as internet stability, staff
+computer comfort, data privacy, or daily workflow adjustments)?
+24. If an online portal allowed taxpayers to check requirements, submit initial papers, and see tax estimates before visiting, which tasks
+would this reduce or simplify for your staff?
+25. Would your office be open to testing the prototype portal with our team (such as running 15 to 20 sample assessments on the
+system alongside your manual books) to check its speed and calculation accuracy?
+26. Are there any local rules, municipal tax ordinances, or unique practices in the Municipality of San Fernando that our research team
+should know about and build into the system?
+Thank You and Commitment:
+We sincerely thank the Municipal Assessor and personnel of San Fernando for your generous time and guidance. Your practical insights will help
+us build a system that solves real daily bottlenecks and improves public service for your municipality.
+University of Nueva Caceres • School of Computer and Information Sciences • BSIT Capstone Research • Academic Year 2026–2027

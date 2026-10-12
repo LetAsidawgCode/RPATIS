@@ -1,0 +1,468 @@
+UNIVERSITY OF NUEVA CACERES
+SCHOOL OF COMPUTER AND INFORMATION SCIENCES
+INTELLIGENT SYSTEMS/ INFORMATION SYSTEMS
+SYSTEM PROPOSAL
+MIDTERM PROJECT
+A. PROJECT INFORMATION
+Proposed System Title
+Real Property Assessment Tracking and Inter-Office Synchronization System
+Researchers / Developers
+Christian Louise O. Asido, John Kenneth P. Calubad, Rizalina A. Ortega
+Program / Course / Section
+Bachelor of Science in Information Technology (BSIT)
+Client / Beneficiary / Organization
+Municipal Assessor's Office and Municipal Treasurer's Office — Canaman,
+Magarao, San Fernando, and Pasacao, Camarines Sur (with Provincial
+Assessor's Office approval review in Pili)
+Adviser / Instructor
+Jay Leandro Borela
+Date Submitted
+September 2026
+B. PROPOSAL OUTLINE
+1. PROJECT TITLE
+Provide a concise and specific title that identifies the proposed system, its main purpose, and/or its target users.
+Proposed title: Needs Assessment for a Real Property Assessment Tracking and Inter-Office Synchronization System: Resolving
+Disconnected Records and Workflow Delays in Municipal Assessor and Treasurer Offices in Pasacao
+2. PROJECT BACKGROUND / CONTEXT
+Explain the current situation or environment where the system will be used. Describe the organization, users, existing
+process, and relevant context.
+Key points to discuss:
+• Current situation or process
+• Organization/client context
+• Target users
+• Relevant observations or evidence
+Local government units in the Philippines collect real property taxes as a primary revenue source. This function requires close
+administrative coordination among municipal and provincial offices. The Municipal Assessor's Office appraises property
+values. The Municipal Treasurer's Office collects tax payments. Under Republic Act 7160, the Provincial Assessor's Office in Pili
+holds final approval authority over property assessments and transfers of ownership. In practice, paper-based approval steps
+cause long operational delays across these offices.
+The target environment includes four municipalities in Camarines Sur: Canaman, Magarao, San Fernando, and Pasacao. These
+fourth-class and lower-income municipalities operate with limited computer hardware and small technical teams. Some
+paper archives date back to 1949. Pasacao serves as the primary benchmark site. Pasacao operates a local Electronic Real
+Property Tax (eRPT) installation for internal assessor records. However, a Transfer of Assessment in Pasacao requires more
+than seven days. In Canaman and Magarao, personnel manage all records on paper. An assessment of a new building or a
+transfer of title requires 7 to 14 days because staff must physically transport paper forms to the Provincial Capitol in Pili for
+final approval.
+Target users:
+Municipal Assessor's Office personnel: Staff who encode property assessments and assemble title documents.
+Municipal Treasurer's Office personnel: Staff who review tax payments and issue financial clearances.
+Provincial Assessor's Office personnel: Officers in Pili who examine ownership documents and grant final statutory
+approvals.
+Municipal administrators and supervisors: Officers who monitor transaction queues across offices.
+The research team observed processing workflows and interviewed municipal staff during the needs assessment phase.
+Neither office has real-time visibility into transaction statuses. Documents stop in manual queues. Staff spend hours verifying
+whether a taxpayer paid property tax. These conditions match the findings of Chinilla and Lagura (2025). Their study confirms
+that paper records cause administrative delays in municipal offices. Sunirah et al. (2026) also show that isolated tax
+applications do not reduce workflow backlogs.
+3. STATEMENT OF THE PROBLEM
+Identify the specific problems, limitations, inefficiencies, or unmet needs that the proposed system will address.
+Main Problem: The lack of a shared digital platform forces municipal and provincial offices to use manual procedures.
+Consequently, assessment processing requires 7 to 14 days, and staff must manually cross-check records and physically
+transport documents to Pili for final approval.
+Specific Problems:
+1. Disconnected Departmental Databases: The Assessor's Office and the Treasurer's Office keep records in separate systems
+or paper ledgers. Staff must carry physical documents or call other offices to reconcile record discrepancies.
+2. Document Processing Latency: A Transfer of Assessment in Pasacao requires more than seven days because staff transfer
+paper documents manually. In Canaman, title transfers and building assessments take 7 to 14 days because staff transport
+paper forms to Pili for provincial approval.
+3. Manual Provincial Approval Process: The Provincial Assessor's Office in Pili holds statutory final approval for property
+assessments and ownership title changes. Currently, municipal offices rely on physical couriers to deliver paper packets to
+Pili, which causes severe transit delays.
+4. Lack of Document Tracking Visibility: Offices cannot track the location of an assessment document in the processing
+queue. Frontline staff must make phone calls or search file cabinets to answer taxpayer questions.
+5. Legacy Paper Records: Some municipalities store paper records that date back to 1949. These physical binders
+deteriorate over time. They slow down verification tasks and make record updates difficult.
+6. Manual Cross-Checking: Treasurer personnel manually compare tax payment entries against assessor rolls. This manual
+process takes many work hours and increases error rates during tax collection periods.
+4. PROPOSED SOLUTION
+Describe the proposed system and explain how it will address the identified problems. Give a clear overview of what the
+system will do.
+System overview: The proposed system is a web-based Real Property Assessment Tracking and Inter-Office Synchronization
+System. The system uses a three-tier web architecture. It provides a shared web application for municipal offices and an
+endorsement portal for the Provincial Assessor's Office in Pili.
+The platform contains three functional tiers:
+Presentation Tier: Provides role-based browser screens. These include assessor evaluation screens, treasurer validation
+views, a provincial approval portal, and a document tracking monitor.
+Application Tier: Manages business logic. This tier routes assessment documents automatically, controls user permissions
+with Role-Based Access Control (RBAC), links valuations to tax records, and manages digital provincial endorsements.
+Data Tier: Stores all records in a centralized relational database. This tier maintains property assessment data, ownership
+title attachments, transaction logs, and audit records.
+The system will operate in parallel with existing office procedures during pilot testing. This parallel run protects data integrity
+and validates software stability. In compliance with Republic Act 10173 (Data Privacy Act of 2012), developers will use masked
+dummy data during system development and testing.
+5. PROJECT OBJECTIVES
+State what the project intends to accomplish. Objectives should be specific, measurable where possible, and directly related
+to the identified problems.
+General Objective: Design, develop, and evaluate a web-based Real Property Assessment Tracking and Inter-Office
+Synchronization System that connects municipal assessor and treasurer offices, automates document routing to the provincial
+office, and reduces processing delays.
+Specific Objectives:
+1. Conduct a needs assessment across Pasacao, Canaman, Magarao, and San Fernando to measure baseline processing
+times and record system requirements.
+2. Design and develop a three-tier web platform with assessor screens, treasurer validation views, a provincial digital
+approval module, and a centralized database.
+3. Implement an inter-office web portal that provides real-time document tracking, eliminates physical courier trips to Pili,
+and removes manual cross-checking between offices.
+4. Evaluate the software under ISO/IEC 25010 standards for Functional Suitability, Performance Efficiency, Usability, Security,
+and Reliability, and measure reductions in processing time.
+6. SCOPE AND DELIMITATIONS
+Define what the proposed system will cover and what it will not cover. Clearly state the boundaries of the project.
+Scope:
+The system covers property assessment tracking, document routing, payment synchronization, provincial digital approval,
+and administrative monitoring.
+The study covers four municipalities in Camarines Sur: Pasacao, Canaman, Magarao, and San Fernando, with provincial
+endorsement review in Pili.
+Baseline data collection involves time-motion measurements of current assessment, tax collection, and provincial
+approval workflows.
+The system supports property assessment creation, Transfer of Assessment tracking, ownership title verification,
+provincial approval, and payment status updates.
+The development process uses an Agile method with two-week sprint cycles.
+The project evaluation runs from July 2026 to December 2026.
+The software runs on standard computers connected to a municipal network and allows web access for provincial
+approvers.
+Delimitations / Exclusions:
+The system does not process online payments or connect to external financial payment gateways.
+The system does not rebuild the internal enterprise database of the Provincial Capitol in Pili; it provides a web-based
+review and approval portal.
+The system excludes business permits, civil registry records, and general municipal accounting.
+Evaluation results reflect conditions in lower-class municipalities and may not apply to large urban cities.
+The project does not use live citizen property records during development and testing, in compliance with Republic Act
+10173.
+7. TARGET USERS / STAKEHOLDERS
+Identify the people or groups who will use, manage, benefit from, or be affected by the system.
+USER / STAKEHOLDER
+ROLE / NEED
+EXPECTED BENEFIT
+Assessor's Office Personnel
+Create assessment records, attach title
+documents, route files, and monitor
+transaction stages
+Eliminates paper handoffs and enables real-
+time document tracking
+USER / STAKEHOLDER
+ROLE / NEED
+EXPECTED BENEFIT
+Treasurer's Office Personnel
+Review assessment records, validate tax
+payments, and issue clearances
+Removes manual cross-checking and receives
+assessment updates automatically
+Provincial Assessor
+Personnel (Pili)
+Review submitted assessment packets,
+inspect ownership titles, and grant
+digital approvals
+Eliminates physical courier delays and provides
+digital endorsement tools
+Municipal Administrators /
+Supervisors
+Monitor inter-office queues, view audit
+logs, and inspect performance
+Provides clear visibility into assessment queues
+and transaction histories
+Property Owners and Local
+Residents
+Submit assessment requests, transfer
+property titles, and inquire about status
+Shortens waiting periods from 14 days to a few
+days and reduces office visits
+Local Government Units of
+Camarines Sur
+Meet digital governance goals under
+Republic Act 12001 and national
+masterplans
+Establishes an auditable digital workflow
+between municipal and provincial offices
+Future IT Researchers
+Study public sector data synchronization
+and multi-tier government workflows
+Provides measured baseline data and a
+reference system architecture
+8. SIGNIFICANCE / BENEFITS OF THE PROJECT
+Explain the expected benefits of the proposed system to the client, users, organization, community, or other stakeholders.
+Expected benefits:
+Assessor's Office Personnel: Staff do not need to carry physical tax forms or search old paper archives. Personnel encode
+records once and track each document automatically through the routing pipeline.
+Treasurer's Office Personnel: Real-time record synchronization removes the need to cross-check ledgers manually. The
+system validates payment records automatically.
+Provincial Assessor's Office Personnel: Officers review ownership documents and grant approvals digitally. This process
+eliminates courier trips and lost paper files.
+Property Owners and Local Residents: The system reduces processing delays for transactions like a Transfer of
+Assessment. Citizens make fewer office visits to track document status.
+Local Government Units: The software provides an auditable digital workflow. This workflow supports national e-
+governance policies under Republic Act 12001 and the Digital Government Masterplan 2023–2028.
+Future IT Researchers: The study provides measured performance data and an architectural model for inter-office
+synchronization in rural government offices.
+Academic Institutions: The project supports the Institutional Research Agenda of the University of Nueva Caceres
+regarding digital public service transformation.
+9. EXISTING SYSTEM / CURRENT PROCESS
+Describe how the task or service is currently performed. Identify existing tools, procedures, manual processes, or software
+being used.
+Current process description: In Pasacao, the Municipal Assessor's Office uses an internal eRPT software tool. This tool does
+not connect to the Treasurer's Office. When a citizen requests a Transfer of Assessment, assessor staff print paper forms. Staff
+physically deliver these forms to the Treasurer's Office. Treasurer personnel verify payment history against a separate ledger.
+The documents then return to the Assessor's Office for final encoding. This manual exchange takes more than seven days.
+In Canaman, Magarao, and San Fernando, municipal offices do not use digital tax applications. Staff process all property
+records and tax clearances on paper. To assess a new building or transfer title of ownership, personnel encode paper forms
+and send them to the Provincial Capitol in Pili. This approval process requires 7 to 14 days because physical couriers transport
+paper folders. Staff in both municipal offices cross-check assessment rolls and collection ledgers by hand.
+None of the four municipalities have a shared document tracking dashboard or automated inter-office routing to the
+provincial level. Staff rely on telephone calls and office visits to check document status. Documents sometimes stop in transit
+without notice.
+10. PROPOSED SYSTEM FEATURES AND FUNCTIONS
+List the major features and functions. Explain what each feature does and which user or problem it addresses.
+FEATURE / FUNCTION
+DESCRIPTION
+USER
+Assessment Encoding Module
+Lets assessor staff enter property data and upload ownership
+title attachments into the shared database
+Assessor Staff
+Automated Document Routing
+Engine
+Transfers assessment documents through defined review
+steps between municipal and provincial offices automatically
+Assessor Staff,
+Treasurer Staff,
+Provincial Staff
+Real-Time Document Tracking
+Monitor
+Displays current transaction status and assigned personnel on
+a shared dashboard
+All Users,
+Administrators
+Tax Payment Synchronization
+Module
+Matches treasurer payment entries with assessor property
+records automatically
+Treasurer Staff
+Treasurer Validation View
+Lets treasurer staff review incoming assessment files and
+record clearances digitally
+Treasurer Staff
+Provincial Review and Digital
+Approval Module
+Enables provincial assessor officers in Pili to review ownership
+titles, inspect valuation sheets, and grant final digital approval
+Provincial Assessor
+Personnel
+Role-Based Access Control
+(RBAC)
+Limits system access based on user role to protect citizen
+records under Republic Act 10173
+System Administrator
+Audit Trail and Transaction Log
+Records all document changes and approval actions with
+timestamps and user names for accountability
+Administrators,
+Supervisors
+Administrative Workflow Panel
+Lets supervisors monitor workflow queues, manage accounts,
+and generate activity reports
+Administrators
+11. SYSTEM REQUIREMENTS
+Identify the expected functional and non-functional requirements.
+Functional requirements: What the system must do.
+1. The system must allow assessor staff to create property assessment records and attach ownership title documents
+through a web interface.
+2. The system must route submitted assessment records to the Treasurer's Office queue automatically.
+3. The system must provide a treasurer interface to review assessment documents and record clearances.
+4. The system must route cleared assessment packets to the Provincial Assessor's Office queue in Pili for final review.
+5. The system must allow provincial assessor officers to inspect ownership documents and record final digital approvals.
+6. The system must display a real-time dashboard that shows transaction status to all participating offices.
+7. The system must match property assessment files with tax payment entries and flag mismatches.
+8. The system must restrict functions and data views based on assigned user roles.
+9. The system must record an audit log with timestamps and user identities for all document actions.
+10. The system must support a parallel run mode that works alongside current manual office workflows.
+Non-functional requirements: Performance, security, usability, reliability, compatibility, etc.
+1. Performance Efficiency: The system must load dashboard views and routing updates within three seconds on local and
+remote network connections.
+2. Usability: Staff must be able to complete routine encoding, validation, and approval tasks within five user actions.
+3. Security: The system must encrypt stored property records, use HTTPS for data transfer, and enforce session timeouts.
+4. Reliability: The system must use atomic database transactions to prevent incomplete data updates.
+5. Compatibility: The web application must function on Google Chrome, Mozilla Firefox, and Microsoft Edge without extra
+plugins.
+6. Functional Suitability: The software must perform all defined routing, matching, and approval operations without logic
+errors.
+12. TECHNOLOGY / PLATFORM
+Identify the proposed hardware, software, programming languages, frameworks, database, platforms, APIs, or other
+technologies.
+Proposed technologies:
+Hardware: Standard desktop computers in municipal offices and the Provincial Capitol, connected via local and wide area
+networks.
+Software / Tools: Standard web browsers (Google Chrome, Mozilla Firefox, Microsoft Edge) and a secure web application
+server.
+Programming / Frameworks: PHP (Laravel or CodeIgniter framework) for backend logic, with HTML5, CSS3, and JavaScript
+for user interfaces.
+Database: MySQL or MariaDB relational database for property records, payment logs, and audit data.
+Platform: Web application deployed on a municipal server with secure remote portal access for provincial approvers.
+13. PROPOSED SYSTEM ARCHITECTURE / CONCEPTUAL DESIGN
+Present a high-level model of how users, interfaces, application components, databases, external services, and other
+components interact.
+The system uses a three-tier web architecture. This design separates the user interface, business logic, and database
+operations into three distinct layers.
+TIER
+LAYER
+COMPONENTS
+Tier 1 — Presentation
+Frontend (Browser)
+Assessor Screen, Treasurer View, Provincial Approval Portal,
+Tracking Dashboard, Admin Panel
+Tier 2 — Application
+Backend (Business Logic)
+Document Routing Engine, Provincial Approval Logic, RBAC
+Module, Payment Synchronization, Audit Trail Manager
+Tier 3 — Data
+Database
+Centralized Relational Database (MySQL or MariaDB)
+storing property records, title attachments, approval logs,
+and payment entries
+Data Flow Summary:
+1. Assessor staff enters property data and attaches ownership title documents in the browser interface.
+2. The server application validates the data and writes the record to the central database.
+3. The routing engine sends the document to the Treasurer's Office queue.
+4. Treasurer staff reviews the file and marks the tax payment status.
+5. The routing engine transfers cleared packets to the Provincial Assessor's Office queue in Pili.
+6. Provincial personnel review ownership documents and grant final digital approval.
+7. The application updates the database and refreshes the tracking dashboard for all offices.
+Required Diagrams:
+a. System Architecture Diagram:
+TIER 1: PRESENTATION
+Assessor Evaluation Screen
+Treasurer Validation View
+Provincial Approval Portal
+Tracking & Admin Dashboard
+HTTP/S
+TIER 2: APPLICATION LOGIC
+Automated Routing Engine
+Payment Synchronization Logic
+Provincial Digital Approval Logic
+RBAC & Audit Trail Manager
+SQL/TCP
+TIER 3: DATABASE
+Property Assessment Records
+Ownership Title Attachments
+Tax Payment Collection Rolls
+Audit Logs & Approval Queues
+Figure 1. Three-Tier System Architecture Diagram (with Provincial Approval Tier)
+b. Systems Flowchart:
+1. Assessor
+Encodes & Attaches
+2. Treasurer
+Validates Taxes
+3. Routing Engine
+Dispatches to Pili
+4. Provincial Assessor
+Digital Title Approval
+5. Sync Engine
+Updates TD Roll
+6. Tracking
+Status Closed
+Figure 2. End-to-End Inter-Office & Provincial Assessment Systems Flowchart
+14. DEVELOPMENT METHODOLOGY
+Identify and briefly explain the development methodology or framework to be used (e.g., Agile, Scrum, Waterfall, Prototype,
+RAD). Explain why it is appropriate for the project.
+Methodology: Agile Development Model (two-week sprint cycles)
+Reason for selection: The Agile model allows the team to adapt software features based on ongoing feedback from municipal
+personnel and provincial approvers. The project begins with a field needs assessment that uncovers specific workflow
+requirements across offices. Two-week sprints let developers deliver testable software increments regularly. Municipal and
+provincial staff can test each increment, such as the routing engine, treasurer validation view, and provincial approval module,
+before the team builds subsequent features. This approach reduces design errors before pilot deployment. It also supports
+the mixed-methods research design through regular evaluation intervals.
+15. PROJECT DEVELOPMENT PLAN / TIMELINE
+Provide the major project activities, expected outputs, responsible members, and target schedule.
+ACTIVITY
+EXPECTED OUTPUT
+RESPONSIBLE
+MEMBER
+TARGET DATE
+1. Needs Assessment & Field Study
+Baseline latency metrics and documented
+workflow bottlenecks across municipal and
+provincial offices
+All Members
+July 2026
+2. Requirements Analysis & Design
+Requirements specification document and
+multi-office system design diagrams
+All Members
+August 2026
+3. Sprint 1: Database Setup &
+Backend
+Relational database schema with title
+attachments and user login system with
+RBAC
+Calubad, Asido
+Aug – Sept
+2026
+4. Sprint 2: Assessment Encoding &
+Routing
+Assessment input form with document
+uploads and automated inter-office routing
+engine
+Calubad, Asido
+September
+2026
+ACTIVITY
+EXPECTED OUTPUT
+RESPONSIBLE
+MEMBER
+TARGET DATE
+5. Sprint 3: Treasurer Validation &
+Sync
+Treasurer validation interface and
+automated payment record matching
+Asido, Calubad
+October 2026
+6. Sprint 4: Provincial Approval Portal
+Provincial digital review screen for title
+verification and endorsement logging
+Calubad,
+Ortega
+October 2026
+7. Sprint 5: Tracking Dashboard &
+Audit
+Real-time document tracking screen and
+user activity audit log across all offices
+Calubad,
+Ortega
+October – Nov
+2026
+8. Integration & Internal Testing
+Integrated software increment and internal
+test report using dummy data
+All Members
+November
+2026
+9. Pilot Deployment & Parallel Run
+Pilot installation in offices and staff training
+completion report
+All Members
+November
+2026
+10. ISO/IEC 25010 Evaluation &
+Defense
+Evaluation findings report, completed BSIT
+capstone manuscript, and defense demo
+All Members
+December 2026
+REFERENCES
+Anti-Red Tape Authority. 2022. Memorandum Circular No. 2022-02: Compliance on Automatic Approval, Zero-Contact Policy, and
+Zero Backlog Program. Republic of the Philippines.
+Norberto Arrocena Chinilla and Glenne Berja Lagura. 2025. Enhanced tax revenue assessment and collection system through the
+lens of the municipal treasurers and assessors. International Journal for Multidisciplinary Research 7, 4 (2025), 1–42. DOI:
+https://doi.org/10.36948/ijfmr.2025.v07i04.51726
+Department of Information and Communications Technology. 2023. Digital Government Masterplan (DGMP) 2023–2028. Republic of
+the Philippines.
+International Organization for Standardization. 2025. ISO 19152-4:2025: Geographic Information — Land Administration Domain
+Model (LADM) — Part 4: Valuation Information. ISO.
+Raúl Félix Junquera-Varela and Cristian Óliver Lucas-Mas (Eds.). 2024. Revenue Administration Handbook. World Bank. DOI:
+https://doi.org/10.1596/978-1-4648-2053-3
+Xaver Schenker and Wilson Prichard. 2024. Key Elements of IT System Design for Property Taxation. LoGRI Guidance Note No. 04.
+Local Government Revenue Initiative, University of Toronto.
+Nuroh Sunirah, Kridawati Sadhana, Roos Widjajani, and Ratih Nindita Kirana. 2026. Evaluating the effectiveness of a land and
+building tax information system in improving property tax collection: Evidence from Madiun City, Indonesia. International
+Journal of Management and Economics Invention 12, 7 (2026), 5844–5859. DOI: https://doi.org/10.47191/ijmei/v12i7.09
+Republic of the Philippines. 1991. Republic Act No. 7160: Local Government Code of 1991. Manila.
+Republic of the Philippines. 2012. Republic Act No. 10173: Data Privacy Act of 2012. Manila.
+Republic of the Philippines. 2024. Republic Act No. 12001: Real Property Valuation and Assessment Reform Act. Manila.

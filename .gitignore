@@ -3,8 +3,3 @@ package.json
 package-lock.json
 
 # Excluded folders and skills per instructions
-[Ee]tc/
-[Rr]equirements/
-[Tt]ranscript/
-.agents/skills/asd-ste100/
-.agents/skills/asd-ste-100/

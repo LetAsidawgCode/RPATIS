@@ -1,0 +1,463 @@
+Individual Assignment Activity: Requirements Analysis 
+Rizalina A. Ortega 
+September 15, 2026 
+3088 - Information System 
+____________________________________________________________________________ 
+ 
+Module assigned : Treasurer's Office Tax Collection and Billing Management Module 
+ 
+1. Project overview and stakeholder list 
+ 
+●​ Overview  
+○​ Our project group is developing an automated web platform titled as Needs 
+Assessment for a Real Property Assessment Tracking and Inter-Office 
+Synchronization System: Resolving Disconnected Records and Workflow 
+Delays in Municipal Assessor and Treasurer Offices in Pasacao. The main 
+goal of our study is to conduct a needs assessment and comparative evaluation 
+of local municipal workflows across Canaman, Magarao, San Fernando and 
+benchmarking with Pasacao (which uses an existing eRPT setup) to solve 
+real-world problems in local government units. Specifically, our project addresses 
+the severe administrative frictions, valuation delays, fragmented record-keeping, 
+and  the massive operational headache of migrating decades-old legacy records 
+dating back to 1949. 
+ 
+Building on this overall group project, my assigned module is the Treasurer's 
+Office Tax Collection and Billing Management Module. This module receives 
+the Assessment Roll from Module 1, generates Real Property Tax billing 
+statements, records payments, tracks delinquent accounts, and issues tax 
+clearances. The module addresses three gaps found during field interviews: the 
+Treasurer's Office receives Assessment Roll data only through manual 
+submission from the Assessor's Office, no digital billing statement is issued to 
+taxpayers before the collection window, and there is no automated system to flag 
+and track delinquent properties. 
+ 
+●​ Stakeholders and Interest / Concerns 
+○​ Municipal Treasurer (Canaman, Pasacao) 
+■​ Roles and Interest : Manages real property tax collection. Needs an 
+accurate billing ledger, automated computation of discounts and 
+penalties, and a delinquency tracking list. 
+○​ Treasurer's Office Staff and Collection Clerks 
+■​ Roles and Interest: Process walk-in payments and issue tax clearances 
+daily. Need fast taxpayer record lookup, pre-computed tax bills, and 
+payment receipt generation. 
+○​ Real Property Owners and Taxpayers 
+1 
+■​ Roles and Interest: Pay real property tax annually or in quarterly 
+installments. Need a clear billing statement showing the amount due, 
+applicable discount or penalty, and payment options. 
+○​ IT Developer and Capstone Team 
+■​ Designs, builds, and evaluates the system against ISO/IEC 25010. 
+ 
+ 
+2. Information-gathering methods used and summary of findings 
+ 
+​
+To gather these insights, our group used several information-gathering methods, 
+including field interviews with municipal personnel in Canaman and Pasacao, analysis of official 
+documents and assessment records, comparative observations between manual and eRPT 
+workflows, and consultations with our research advisers. 
+ 
+Methods Used 
+ 
+●​ Field Interviews: The team conducted structured interviews with the Assessor's Office 
+staff at Canaman and Pasacao. Those interviews revealed details about the workflow 
+connection between the Assessor's Office and the Treasurer's Office. A separate 
+interview session at the Canaman office included a Treasurer's Office staff member who 
+described the collection process. 
+●​ Document Analysis:  The team reviewed the discount and penalty schedule as 
+described by interviewees. The team also reviewed the Assessment Roll submission 
+process as described by the Canaman Assessor. 
+●​ Comparative Observation : The team compared the manual collection workflow of 
+Canaman (paper ledgers and walk-in counter payments) against the described workflow 
+of Pasacao, where the Assessor's Office uses an eRPT system that computes the 
+Assessed Value used as the basis for tax billing. 
+●​ Professor Consultations: We consulted our project to the professors for guidance on 
+our research direction. Their main advice was that our project must focus first on fixing 
+local office connections linking the local assessor and treasurer offices so they share 
+information smoothly before trying to solve complex provincial Capitol approval delays.  
+ 
+Key Findings 
+ 
+From Canaman (Manual Baseline)  
+●​ Office Coordination: The Canaman Assessor confirmed that the Assessor's Office 
+provides property records and Assessment Roll data to the Treasurer's Office, noting 
+that tax collection is handled entirely by the Treasurer.  
+●​ Discounts and Penalties: The office follows the discount and penalty structure under 
+Republic Act No. 7160: a 20% discount for advance payment by December of the 
+current tax year, a 10% discount for payment within the first quarter, and a 2% per 
+month penalty for late payments.  
+2 
+●​ Back-Year Collections: Taxpayers frequently arrive at the counter with very old 
+records to pay uncollected taxes, requiring the Treasurer's Office to manually handle 
+back-year billing and accumulated penalty computations.  
+●​ Treasury Billing & Payment Process: A Treasurer's Office staff member confirmed 
+that the office computes tax bills, collects counter payments, and issues receipts.  
+●​ Irregular Payment Patterns: Staff noted that many taxpayers only pay when they 
+need a tax clearance for transactions like property transfers or financial assistance, 
+making delinquency tracking difficult without a centralized system.  
+●​ Assessment Basis & Installments: The treasury uses the Assessed Value from the 
+Assessor's Assessment Roll for manual tax computations. Furthermore, payments can 
+be made in four equal quarterly installments as prescribed by Republic Act No. 7160, 
+Section 250 (due by March 31, June 30, September 30, and December 31).  
+ 
+From Pasacao (Partially Digitized Benchmark)  
+●​ System Integration: The Pasacao tax mapper confirmed that their eRPT system 
+automatically computes the Assessed Value and passes it to the Treasurer's Office via 
+the Assessment Roll. Both offices share data so the treasurer can track tax payments. 
+●​ Lack of Online Portals: Similar to manual offices, taxpayers in Pasacao often wait 
+until they need a clearance to pay, and there is no digital billing notification or status 
+portal available for public use, requiring physical visits to check balances.  
+From Professor and Adviser Consultations  
+●​ Scope Confirmation: The Capstone Professor confirmed that tax collection and 
+payment processing belong strictly to the Treasurer's Office scope. He validated that 
+automated billing, statement generation, and delinquency tracking are valid primary 
+functions for Module 2. 
+●​ Payment Gateways: He noted that online payment via API integration is a future 
+enhancement and is not required for this academic year. 
+●​ Data Flow: The professor confirmed that the Assessment Roll serves as the direct 
+input data source for the billing computation module. 
+●​ Systemic Gaps: The Research Adviser confirmed that the workflow disconnection 
+between the Assessor's and Treasurer's offices is a systemic problem across all 
+visited municipalities, directing the team to treat this data gap as a primary deliverable. 
+ 
+ 
+3. Functional requirements (prioritized) 
+ 
+MUST HAVE 
+●​ This module must receive and import the Assessment Roll from Module 1. The import 
+must capture, for each property: the Assessment Roll Number, Property Index 
+3 
+Number, Owner Name, Property Address, Property Classification, Assessed Value, 
+and Tax Declaration effectivity date. This module must not require manual re-entry of 
+data that Module 1 already holds. 
+●​ This module must compute the annual Real Property Tax due for each property 
+automatically. The computation must follow Republic Act No. 7160, Section 233: Basic 
+Real Property Tax equals Assessed Value multiplied by the applicable tax rate. For 
+provinces, the tax rate must not exceed 1%. The computation must also include the 
+Special Education Fund levy of 1% of the Assessed Value. 
+●​ This module must compute discounts and penalties automatically. The computation 
+must follow Republic Act No. 7160: a 20% discount applies when the taxpayer pays by 
+December 31 of the current tax year (Section 251); a 10% discount applies when the 
+taxpayer pays within the first quarter of the following year (Section 251); a 2% per 
+month penalty applies for each month of delay past the first-quarter deadline, up to a 
+maximum of 72% (36 months), as prescribed by Section 255. 
+●​ This module must support quarterly installment payment scheduling. The four 
+installment due dates must follow Republic Act No. 7160, Section 250: on or before 
+March 31, June 30, September 30, and December 31 of the tax year. 
+●​ This module must generate a billing statement for each property. The billing statement 
+must show: Owner Name, Property Address, Property Classification, Assessed Value, 
+Basic Real Property Tax due, Special Education Fund levy, applicable discount or 
+penalty, total amount due, and the installment breakdown. 
+●​ This module must record each payment transaction. Each record must capture: the 
+date of payment, the amount paid, the tax year covered, the installment quarter 
+covered, the payment type (full or installment), and the name of the collecting staff 
+member. 
+●​ This module must issue a payment receipt. The receipt must show: the amount paid, 
+the date, the property covered, the tax year, and the receipt number. The receipt must 
+be printable. 
+●​ This module must allow staff to search taxpayer records by Owner Name, Property 
+Index Number, Assessment Roll Number, and Barangay. The module must return 
+results in five seconds or less. 
+●​ This module must generate a Tax Clearance document for a taxpayer whose account 
+has no outstanding balance. The Tax Clearance must state the property covered, the 
+tax year verified as paid, and the date of issuance. 
+SHOULD HAVE 
+●​ This module should flag all delinquent properties automatically. A property is 
+delinquent when the first-quarter payment deadline passes without a recorded 
+payment. The flag must show the number of months past due and the accumulated 
+penalty amount. 
+●​ This module should maintain a complete payment history for each property. The 
+history must show all payment transactions from the earliest recorded tax year 
+available, including back-year payments and adjustments. 
+4 
+●​ This module should generate a delinquency list report. The report must list all 
+properties with outstanding balances, sorted by barangay. Staff must be able to export 
+this report in PDF or CSV format. 
+●​ This module should compute back-year tax dues automatically. When a taxpayer has 
+unpaid taxes from prior years, the module must compute the total due including the 
+principal for each year, the accumulated penalty at 2% per month per year, and any 
+prior Special Education Fund levy arrears. 
+●​ This module should display an alert on the staff dashboard when the December 31 
+advance payment discount period is active and when the March 31 first-quarter 
+deadline is within 30 days. 
+COULD HAVE 
+●​ This module could allow taxpayers to check their billing status online without visiting 
+the office. The taxpayer must enter the Property Index Number or Assessment Roll 
+Number to view the current amount due, payment history, and any outstanding 
+balance. 
+●​ This module could allow barangay treasurers to record payments for properties within 
+their barangay, following the deputization arrangement under Republic Act No. 7160, 
+Section 247. Access must be restricted to the barangay the treasurer covers. 
+●​ This module could generate a monthly collection summary report. The report must 
+show total collections per barangay, per property classification, and per payment type 
+for the selected period. 
+WON'T HAVE  
+●​ This module will not process online payments or connect to payment gateways. The 
+Capstone Professor confirmed this is a future API integration. It is outside the scope of 
+this academic year. 
+●​ This module will not issue electronic fund transfer receipts or connect to any banking 
+system. All payments are recorded as walk-in counter transactions. 
+●​ This module will not manage non-real-property taxes, fees, or other Treasurer's Office 
+collections. This module covers real property tax only. 
+●​ This module will not replace the formal physical signing process at the Provincial 
+Capitol in Pili. That function is the scope of Module 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+4. Non-functional requirements (prioritized) 
+ 
+MUST HAVE 
+Non-Functional Requirement 
+Measurable Target 
+Performance Efficiency: This module must 
+return taxpayer record search results within 
+an acceptable time. This applies to all 
+records, including back-year payment 
+histories. 
+Search response ≤ 5 seconds for any record 
+Functional Suitability : Tax billing 
+computations (Basic Real Property Tax, 
+Special Education Fund levy, discounts, 
+penalties, and installment amounts) must 
+match manual verification results at all times. 
+0% computation error rate versus manual 
+benchmark calculations during evaluation. 
+Security and Data Privacy: This module must 
+restrict access to all stored payment records 
+and taxpayer information. Only authenticated 
+Treasurer's Office staff may access or change 
+payment records. This requirement complies 
+with Republic Act No. 10173 (Data Privacy 
+Act of 2012). 
+Role-Based Access Control enforced for all 
+record access and modification. 
+Usability: Treasurer's Office staff with minimal 
+technical training must complete a standard 
+payment recording and receipt generation 
+without external help. 
+ISO/IEC 25010 Usability score ≥ 4.0 out of 
+5.0 on the user evaluation survey. 
+ 
+SHOULD HAVE 
+Non-Functional Requirement 
+Measurable Target 
+Reliability: This module must handle multiple 
+simultaneous users without data loss or 
+corruption. This applies during peak periods 
+such as the first-quarter payment rush and 
+the December advance payment window. 
+Module remains stable under at least five 
+concurrent users. 
+Maintainability : An authorized administrator 
+must update tax rates and Special Education 
+Fund levy rates without changing the source 
+code. The provincial or national authority may 
+update these rates by ordinance or 
+legislation. 
+Admin panel allows rate updates without 
+developer intervention. 
+Processing Time Reduction: This module 
+must reduce the time to complete a payment 
+Average payment recording and receipt 
+generation time ≤ 10 minutes versus the 
+6 
+transaction and issue a receipt compared to 
+the manual baseline. 
+current manual baseline of 20 to 30 minutes 
+estimated from field interview descriptions. 
+COULD HAVE 
+Non-Functional Requirement 
+Measurable Target 
+Accessibility: The taxpayer-facing billing 
+status page must work on mobile browsers. 
+Responsive design functional on screen 
+widths ≥ 360 pixels. 
+WON'T HAVE  
+This module will not include blockchain validation of payment receipts. The Capstone 
+Professor noted this as a possible future enhancement. It is outside the scope of this 
+academic year. 
+ 
+5. Key use cases or user stories (3–5 high-priority ones) 
+ 
+1.​ Annual Tax Bill Generation from Assessment Roll 
+○​ As a Treasurer's Office staff member, I want to import the Assessment Roll from 
+the Assessor's Office module and have the module automatically compute each 
+property's annual tax bill, so that I can issue billing statements without manually 
+re-entering data or computing the amounts by hand  
+ 
+2.​ Walk-in Payment Recording and Receipt Issuance  
+○​ As a Treasurer's Office collection clerk, I want to record a taxpayer's payment 
+and print a receipt immediately, so that the taxpayer leaves with official proof of 
+payment and the record is stored in the module without a separate manual ledger 
+entry 
+ 
+3.​ Discount and Penalty Computation 
+○​ As a Treasurer's Office staff member, I want the module to automatically show 
+the correct discount or penalty based on the current date, so that I can tell the 
+taxpayer the accurate amount due without computing it manually at the counter.  
+ 
+4.​ Tax Clearance Issuance 
+○​ As a Treasurer's Office staff member, I want to verify that a taxpayer has no 
+outstanding real property tax balance and generate a tax clearance document 
+instantly, so that the taxpayer can proceed with a transfer of ownership or a 
+financial transaction without delay.  
+ 
+5.​ Delinquency List Generation  
+○​ As the Municipal Treasurer, I want to generate a list of all delinquent properties 
+sorted by barangay, so that I can identify and prioritize collection efforts for 
+properties with unpaid real property tax  
+7 
+6. Assumptions, constraints, and open issues 
+ 
+ASSUMPTIONS  
+●​ Module 1 will produce an Assessment Roll export in a format that Module 2 can import 
+without manual reformatting. The Assessment Roll export format must be confirmed 
+between the two module developers before development begins. 
+●​ The Municipal Treasurer and at least one collection clerk will participate in system 
+evaluation during the pilot phase. 
+●​ The team will use mock or masked taxpayer payment data during development and 
+testing to comply with Republic Act No. 10173. The team will use actual payment data 
+only during the supervised field evaluation phase. 
+●​ Internet connectivity at the target Treasurer's Office is adequate for a web-based 
+module. The Canaman office confirmed access to a centralized WiFi network. 
+●​ Tax rates follow Republic Act No. 7160 and any applicable provincial ordinance. The 
+team will confirm the exact tax rate in force for Camarines Sur municipalities before 
+encoding the billing computation rules. 
+●​ This module covers real property tax collection functions only. Other Treasurer's Office 
+collections (business permits, fees, and other local taxes) are outside the scope of this 
+module. 
+●​ The Tax Clearance document generated by this module requires the Municipal 
+Treasurer's physical signature before release during the pilot phase. 
+CONSTRAINTS 
+●​ Policy: Real property tax rates, discount percentages, and penalty rates follow 
+Republic Act No. 7160 (Local Government Code of 1991) and applicable provincial 
+ordinances. 
+●​ Legal: Maximum interest penalty on delinquent real property tax must not exceed 36 
+months (72%) as prescribed by Section 255. 
+●​ Legal and Data Privacy: All payment records and taxpayer information are subject to 
+Republic Act No. 10173 (Data Privacy Act of 2012) via Role-Based Access Control. 
+●​ Time: The academic project timeline runs from July to December 2026 for a working 
+prototype deliverable. 
+●​ Technical: No external payment gateway integration; all transactions are walk-in 
+counter recordings during this phase. 
+●​ Regulatory: Current computations follow the existing tax framework rather than the 
+2028 targets of Republic Act No. 12001. 
+OPEN ISSUES 
+●​ Will the Treasurer's Office provide an exported digital dataset of the historical tax 
+collection records, or must the development team manually encode the outstanding 
+8 
+balances and payment ledgers from the physical record books into the system 
+database? 
+●​ The system must handle payment transactions where the person at the counter is 
+acting on behalf of the property owner. Those cases require a Special Power of 
+Attorney or a written Authorization Letter. The team must confirm the exact verification 
+logic with the Treasurer's Office. 
+●​ A Tax Clearance issuance requires verification of all prior-year tax payments and 
+arrears. The system currently plans to compute back-year dues based on encoded 
+data. Whether any real-time verification of historical physical receipts is feasible within 
+the project timeline is not yet decided. 
+●​ The team and the Treasurer's Office must agree on how long the office will run both 
+the existing manual workflow and the new system at the same time. This comparison 
+period provides data for the Paired t-test evaluation. A duration of two weeks is 
+proposed. 
+●​ The team must confirm the exact Assessment Roll format that the Treasurer's Office 
+expects from Module 1. This ensures that the import function successfully processes 
+the incoming data schema without compatibility errors. 
+ 
+7. Attachment of Data Gathering Evidences 
+ 
+ 
+Interview Questions 
+Office Setup & Staff Roles  
+●​ How many staff members currently work in the Municipal Treasurer's Office, and what 
+are their main roles (such as collection clerks, cashiers, or billing officers)? 
+●​ On average, about how many tax payments or client collections does your office 
+handle in a typical day, and during peak deadline months (such as the first-quarter 
+payment rush)? 
+Daily Workflows & Tax Computation   
+●​ Can you walk us through the step-by-step process from the moment a taxpayer arrives 
+at your window to pay their real property tax until they receive their official receipt or 
+tax clearance? 
+●​ How do you compute real property taxes, basic tax (up to 1%), and the Special 
+Education Fund (SEF) levy from the Assessor's Roll? 
+●​ What exact discounts are given for prompt/advance payments (e.g., December 
+advance payment), and what interest or penalties are charged for late payments (e.g., 
+monthly delay penalties up to the 72% cap)? 
+●​ Where and how are your payment ledgers, tax rolls, and collection records currently 
+stored (physical logbooks, manual ledgers, or a mix of both)? 
+●​ How do personnel search for an existing taxpayer record or billing history when a 
+9 
+client inquires about their balance? 
+Bottlenecks, Delays, & Common Errors  
+●​ On average, how long does it take to complete one full payment transaction from initial 
+look-up to receipt printing? 
+●​ During busy peak seasons, what are the biggest causes of long lines and payment 
+delays at the Treasury counter? 
+●​ How do you handle taxpayers who arrive with multi-year back-taxes or uncollected 
+arrears? 
+●​ How often do clerical or calculation mistakes happen during manual tax/penalty 
+computations, and how are they corrected? 
+●​ Which transactions (like requesting a Tax Clearance for property transfers) require 
+clients to return repeatedly due to outstanding balances or missing payment records? 
+●​ How is data or coordination handled between the Assessor's Office (when they submit 
+the Assessment Roll) and your office? 
+Record Keeping & System Integration  
+●​ Does your office currently use any software, spreadsheets, or electronic database for 
+tracking tax collections, billings, or delinquencies? 
+●​ How do you track and flag delinquent properties that have missed payment deadlines? 
+Taxpayer Experience & Digital Portal Feedback  
+●​ What are the most frequent questions or points of confusion property owners express 
+regarding their tax bills or payment deadlines? 
+●​ Have taxpayers expressed interest in being able to check their billing status or 
+balances online from home before visiting? 
+●​ What concerns or challenges do you foresee if a web-based billing and collection 
+record system is introduced? 
+●​ Would your office be open to testing a prototype system alongside your manual books 
+to check its billing speed and computation accuracy? 
+ 
+10 
+ 
+ 
+Sample Documents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+Documentation (Pictures) 
+CANAMAN 
+PASACAO 
+ 
+ 
+ONLINE CONSULTATION 
+ 
+ 
+12 

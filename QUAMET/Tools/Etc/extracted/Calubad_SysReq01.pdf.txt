@@ -1,0 +1,563 @@
+ 
+1. Project Overview and Stakeholder List 
+ 
+1.1 Full Overview of the Group System 
+Local Government Units (LGUs) across Camarines Sur rely on real property 
+taxation (RPT) as their primary statutory foundation for local fiscal autonomy 
+under Title II of Republic Act No. 7160 (Local Government Code of 1991). 
+However, municipal tax operations are crippled by severe operational frictions: 
+fragmented departmental record-keeping, manual property valuation prone to 
+human calculation errors, decades-old physical archives dating back to 1949, 
+and an entrenched physical dependency on the Provincial Capitol in Pili for 
+mandatory statutory approvals. To solve these systemic bottlenecks, our 
+research group proposes the Real Property Assessment Tracking and Inter-Office 
+Synchronization System (RPAT-IOSS), an integrated 3-tier web platform designed 
+to eliminate inter-office data silos and compress property assessment and 
+ownership transfer turnaround times from over 7–14 days down to less than 24 
+hours. The platform comprises three interlocking subsystems: 
+eRPT Assessment, Valuation & Tax Declaration Engine — Automates statutory base 
+market value appraisal, assessment level formulas, and electronic Tax 
+Declaration (TD), Notice of Assessment (NOA), and Property Appraisal Schedule 
+(PAAS) generation, mitigating calculation errors and multi-day paper 
+preparation. 
+Inter-Office Treasury Synchronization & Ledger Reconciliation Module — 
+Dynamically synchronizes approved municipal assessment rolls with treasury 
+collection databases in real time, computing statutory RPT dues, early-bird 
+discounts (20%/10%), and delinquency penalties (2%/month) while instantly 
+generating electronic tax clearances. 
+(Individual Focus): Provincial Capitol Remote Endorsement & Digital Approval 
+Pipeline — Establishes a secure, authenticated digital review, annotation, and 
+approval bridge connecting component municipal assessors directly with the 
+Provincial Assessor's Office at the Provincial Capitol in Pili, eliminating 
+physical road transit and cutting multi-week provincial approval queues. 
+ 
+ 
+ 
+1.2 Subsystem Focus: Provincial Capitol Remote Endorsement & Digital Approval 
+Pipeline 
+Under RA 7160 and Camarines Sur provincial administration rules, municipal 
+assessors in component municipalities (such as Pasacao, Canaman, Magarao, and 
+San Fernando) hold only recommending approval authority. Final approval and 
+statutory issuance of the Certificate of Inspection and Survey (CIS) and new 
+Tax Declarations rest exclusively with the Provincial Assessor at the 
+Provincial Capitol in Pili. Currently, municipal personnel must physically 
+travel by road to the Capitol once a week to submit paper dossiers and retrieve 
+endorsements from prior weeks. Busier municipalities wait between 2 to 3 weeks 
+ 
+ 
+because the Capitol manually inspects files from 35 component municipalities. 
+This subsystem digitizes this inter-governmental bottleneck: municipal 
+assessors upload certified digital dossiers; provincial examiners inspect and 
+annotate files online; the Provincial Assessor applies cryptographic approval 
+stamps; and finalized endorsements and CIS documents are instantly dispatched 
+back to the LGU in real time. 
+ 
+1.3 Stakeholder List and Primary Interests/Concerns 
+ 
+Stakeholders  
+Roles and Interest  
+Municipal Assessors & Staff 
+(Assessor's Office: Pasacao, Canaman) 
+Issues recommending approvals and 
+manages initial filings. Focuses on 
+instant digital dossier uploads, 
+tracking the Capitol review queue, and 
+eliminating physical road travel to 
+Pili while addressing road hazards, 
+long wait-time visibilities, and 
+citizen complaints.  
+Provincial Assessor & Approvers 
+(Provincial Capitol: Pili) 
+Conducts statutory compliance audits 
+and rapid verification across 35 
+municipalities in Camarines Sur. 
+Focuses on reducing backlog, 
+preventing physical document decay, 
+and eliminating incomplete paper 
+folders that require return.  
+Provincial Review Examiners 
+(Technical Review Unit: Pili) 
+Performs online document inspection, 
+digital annotation of boundary/rate 
+errors, and structured audit 
+checklists. Replaces tedious physical 
+paper cross-referencing, title 
+marking, and slow phone follow-ups. 
+Municipal Treasurers & Cashiers 
+(Municipal Treasury Office) 
+Requires real-time access to approved 
+assessments to compute tax dues, apply 
+discounts, and issue tax clearances, 
+resolving tax collection delays caused 
+by pending provincial approvals.  
+Property Owners & Taxpayers 
+(Citizens, Buyers, Heirs) 
+Submits requests for land transfers 
+and assessments. Needs rapid transfer 
+processing, transparent milestone 
+tracking, and fewer counter visits to 
+avoid idle waiting times and repeated 
+follow-up trips.  
+ 
+ 
+System Administrators & IT Staff 
+(LGU & Provincial IT Units) 
+Evaluates academic rigor, distinct 
+modular contributions per student, and 
+measurable latency reduction under ISO 
+25010 standards, ensuring project 
+uniqueness from adjacent capstone 
+works.  
+ 
+2. Information-Gathering Methods Used and Summary of Findings 
+2.1 Techniques Employed 
+To establish empirical grounding, four complementary information-gathering 
+techniques were executed across target LGUs and academic consultations: 
+Semi-Structured Field Interviews: Conducted structured on-site interviews with 
+key informants: the Municipal Assessor Office Head and 4 staff members at 
+Canaman LGU, Canaman Municipal Treasury personnel, and Tax Mapper I (John 
+Francisco) alongside assessment personnel at Pasacao LGU. Investigated 
+transaction frequencies, documentary requirements, calculation practices, and 
+provincial routing. 
+Field Observation & Workflow Walkthrough: Directly observed citizen intake, 
+counter queue dynamics, spreadsheet lookup methods, physical archive folder 
+retrieval, and the manual bundling of paper dossiers destined for the weekly 
+car run to the Provincial Capitol in Pili. 
+Faculty & Academic Consultations: Participated in technical consultation 
+sessions with research advisers (Sir Chin, Sir Arreb) and CSACIS capstone 
+faculty to establish project boundaries, validate the provincial endorsement 
+bottleneck, and ensure distinct project uniqueness. 
+2.2 Summary of Key Findings 
+The Provincial Courier Bottleneck: Municipal assessors in Camarines Sur do not 
+have final approval authority. Endorsements must be approved by the Provincial 
+Capitol in Pili. Municipal staff courier documents by vehicle once a week 
+(Thursdays/Fridays). While Canaman takes ~1 week due to lower volume, busier 
+municipalities wait 2 to 3 weeks because the Capitol services 35 component 
+municipalities. 
+The Pasacao Computerization Gap: While Pasacao utilizes localized software 
+(eRPT, upgraded 2024) that reduced routine certifications to 5–15 minutes, 
+property transfers still take up to 7 working days. The system remains 
+completely internal to assessor workstations, lacking citizen visibility and 
+dynamic integration with the Provincial Capitol and Municipal Treasury. 
+Departmental Data Silos: Assessor and Treasurer offices operate in complete 
+isolation. Assessors generate assessment rolls on paper/Excel, while the 
+Treasury manually tracks payments. Citizens must physically shuttle receipts 
+between windows to verify tax status and obtain clearances. 
+Archival Search Latency: In manual LGUs like Canaman, active records take 10–30 
+minutes to retrieve, but retrieving historical records dating back to 1949 
+ 
+ 
+takes 2 to 3 full business days in physical archive vaults, with severe risks 
+of document decay. 
+ 
+3. Functional Requirements (Prioritized) 
+ 
+Priority 
+Requirement Title 
+ 
+Detailed Functional 
+Specification 
+Must Have 
+Municipal Endorsement Docket 
+Bundling 
+The system MUST allow 
+authorized Municipal Assessor 
+staff to bundle and upload 
+digital endorsement packets 
+containing appraisal sheets, 
+scanned deeds of conveyance, 
+land survey sketches, and 
+certified ROD titles in 
+encrypted PDF/PNG formats (<= 
+25MB). 
+Must Have 
+Provincial Remote Review 
+Workspace 
+The system MUST provide 
+Provincial Review Examiners 
+with a web interface featuring 
+a dual-pane document inspection 
+viewer, zoom controls, and an 
+interactive statutory 
+compliance checklist to audit 
+submitted municipal dockets. 
+Must Have 
+Digital Approval & 
+Cryptographic Stamping 
+The system MUST enable the 
+Provincial Assessor to execute 
+official approvals online, 
+automatically affixing a 
+cryptographic SHA-256 signature 
+stamp, unique verification 
+token, and digital approval 
+watermark. 
+Must Have 
+Structured Deficiency Flagging 
+& Return 
+The system MUST allow 
+provincial examiners to flag 
+specific documentary or 
+valuation deficiencies (e.g., 
+missing notarization, boundary 
+dispute, rate mismatch) and 
+return the docket with itemized 
+corrective notes and instant 
+municipal notification. 
+Should Have 
+Role-Based Access Control 
+(RBAC) 
+The system SHOULD enforce 
+multi-tier role permissions 
+separating Municipal Assessor 
+Clerks, Municipal Assessor 
+Heads, Provincial Examiners, 
+the Provincial Assessor, and 
+System Auditors. 
+ 
+ 
+Should Have 
+Automated CIS Generation 
+The system SHOULD automatically 
+generate a standardized, 
+printable Certificate of 
+Inspection and Survey (CIS) 
+with an embedded verification 
+QR code immediately upon 
+provincial approval. 
+Should Have 
+Real-Time Bidirectional 
+Dispatch 
+The system SHOULD dispatch 
+approved dockets or revision 
+notices back to municipal 
+assessor and treasury databases 
+in under 1.0 second, updating 
+milestone status across all 
+dashboards. 
+Should Have 
+Immutable Transaction Audit 
+Logging 
+The system SHOULD maintain an 
+append-only audit log recording 
+every docket creation, view, 
+annotation, approval, 
+rejection, user ID, IP address, 
+and timestamp. 
+Could Have 
+Automated SMV Variance Checking The system COULD 
+cross-reference municipal 
+appraisal inputs against the 
+provincial Schedule of Base 
+Market Values table, 
+automatically alerting 
+examiners to discrepancies in 
+land classifications or unit 
+rates. 
+Could Have 
+Batch Endorsement Approval 
+The system COULD permit the 
+Provincial Assessor to select 
+multiple pre-audited dockets 
+and apply digital approvals in 
+a single batch transaction 
+during peak volume cycles. 
+Won't Have 
+Provincial Mainframe Direct 
+Sync 
+The system WON'T execute live 
+queries directly into the 
+Provincial Capitol's internal 
+on-premise mainframe during 
+this release due to provincial 
+cybersecurity and firewall 
+policies. 
+Won't Have 
+Direct Citizen Filing to 
+Capitol 
+The system WON'T permit 
+individual citizens to submit 
+applications directly to the 
+Provincial Capitol; all dockets 
+must strictly originate from 
+and be endorsed by the 
+component Municipal Assessor. 
+ 
+ 
+ 
+4. Non-Functional Requirements (Prioritized & Measurable) 
+Non-functional requirements specify quality attributes and security constraints 
+framed around the ISO/IEC 25010 Software Quality Standard: 
+Quality Dimension 
+ 
+Measurable Specification 
+Target 
+ 
+MoSCoW 
+Security & Privacy 
+All transmissions must enforce 
+TLS 1.3 encryption. All stored 
+property files and personal 
+identifiers must be encrypted 
+using AES-256 at rest. Strict 
+compliance with RA 10173 (Data 
+Privacy Act). Idle user 
+sessions must terminate 
+automatically after 15 minutes. 
+Must Have 
+Performance Efficiency 
+Web dashboard pages must render 
+in under 2.0 seconds over a 10 
+Mbps connection. Upload of 
+dockets up to 25MB must 
+complete within 5.0 seconds. 
+Endorsement status updates must 
+synchronize across municipal 
+and provincial views within 1.0 
+second. 
+Must Have 
+Data Integrity 
+Digital approval stamps must 
+maintain cryptographic hash 
+verification (SHA-256). Any 
+post-approval tampering with a 
+dossier must immediately 
+invalidate its QR token and 
+trigger an administrative 
+security alert. 
+Must Have 
+Usability & Learnability 
+The UI must achieve a System 
+Usability Scale (SUS) score >= 
+80/100 and an ISO/IEC 25010 
+Usability rating >= 4.0/5.0. 
+Municipal and provincial 
+personnel must achieve 
+operational competency with 
+under 30 minutes of 
+orientation. 
+Should Have 
+Reliability & Availability 
+The system must maintain >= 
+99.5% uptime during government 
+operating hours (8:00 AM – 5:00 
+PM, Monday through Friday). 
+Automated incremental database 
+backups must occur every 24 
+hours. 
+Should Have 
+ 
+ 
+Compatibility 
+The application must be fully 
+responsive across desktop, 
+laptop, and tablet displays 
+(resolutions 1024x768 to 
+1920x1080) and support modern 
+web browsers (Chrome, Edge, 
+Firefox, Safari) without 
+proprietary plugins. 
+Should Have 
+Maintainability 
+Backend services must be 
+structured as modular RESTful 
+APIs with OpenAPI/Swagger 
+documentation, enabling future 
+microservice integration with 
+national DICT eGov or eRPTS 
+platforms. 
+Could Have 
+5. Key Use Cases or User Stories (High Priority) 
+The operational workflows of the subsystem are specified through three 
+high-priority use cases and five prioritized user stories: 
+5.1 Use Case 1: Municipal Assessor Bundles and Submits Remote Endorsement (UC-01) 
+Actor: Municipal Assessor / Assessment Appraiser 
+Goal: Package and transmit an evaluated property assessment dossier to the 
+Provincial Capitol digitally without physical road transit. 
+Preconditions: Municipal assessor has completed local appraisal and logged in 
+with valid credentials. 
+Main Steps: 1. Assessor navigates to 'Capitol Endorsement' module. 2. Selects 
+pending transaction (e.g., Transfer of Assessment). 3. Uploads certified 
+digital documents (scanned Deed of Sale, ROD Title, Field Appraisal Form, Lot 
+Sketch <= 25MB). 4. System validates file integrity and generates SHA-256 hash. 
+5. Assessor clicks 'Submit Recommending Endorsement'. 6. System marks status 
+'Under Provincial Review' and queues docket in Capitol inbox. 
+ Postconditions: Endorsement packet is queued in Provincial Capitol inbox with 
+an immutable timestamp, visible on municipal tracking dashboards. 
+5.2 Use Case 2: Provincial Review Examiner Inspects and Annotates Docket (UC-02 
+Actor: Provincial Technical Review Examiner 
+Goal: Perform structured compliance auditing and digital annotation on submitted 
+municipal dockets. 
+Preconditions: Docket is in 'Under Provincial Review' status; examiner has 
+active Capitol reviewer credentials. 
+Main Steps: 1. Examiner selects pending municipal docket from provincial queue. 
+2. System displays split-screen view: digitized PDF dossier viewer on left, 
+statutory compliance checklist on right. 3. Examiner audits property 
+boundaries, land classification, and conveyance deeds. 4. Marks compliance 
+checkboxes. If deficiency is found: examiner highlights error, adds structured 
+corrective remark, and clicks 'Return for Revision' (status changes to 
+ 
+ 
+'Deficiency Flagged' with instant notification). 5. If compliant: examiner 
+clicks 'Endorse for Final Approval'. 
+Postconditions:Docket is approved for signature and forwarded to the Provincial 
+Assessor's final signing queue. 
+5.3 Use Case 3: Provincial Assessor Applies Digital Approval and Issues CIS 
+(UC-03) 
+Actor: Provincial Assessor / Authorized Approving Official 
+Goal: Affix cryptographic digital approval, generate official CIS, and dispatch 
+finalized endorsement to the LGU. 
+Preconditions: Docket has been audited and recommended for approval by the 
+Provincial Review Examiner. 
+Main Steps: 1. Provincial Assessor opens recommended docket and inspects 
+examiner's compliance summary. 2. Clicks 'Authorize & Execute Digital 
+Approval'. 3. System prompts for authentication PIN/2FA signing token. 4. 
+System affixes cryptographic signature, generates verification QR code, and 
+compiles official Certificate of Inspection and Survey (CIS). 5. System updates 
+transaction status to 'Provincially Approved'. 6. System pushes approved 
+digital package back to Municipal Assessor and Treasury databases in real time. 
+Postconditions: Property transaction is officially approved. Municipal Assessor 
+can print the final Tax Declaration, and Treasury can issue real property tax 
+bills. 
+5.4 Prioritized User Stories 
+User Story 1 (High Priority): "As a Municipal Assessor, I want to bundle and 
+transmit assessment dossiers online to the Provincial Capitol so that our staff 
+eliminates weekly car trips to Pili and avoids 2-to-3-week courier delays." 
+User Story 2 (High Priority): "As a Provincial Review Examiner, I want to 
+inspect submitted dockets and annotate discrepancies within a structured web 
+interface so that incomplete files are caught immediately without physical 
+paper damage." 
+User Story 3 (High Priority): "As the Provincial Assessor, I want to execute 
+legally binding cryptographic approvals and generate verified CIS certificates 
+online so that component municipalities receive finalized approvals 
+instantaneously." 
+User Story 4 (High Priority): "As a Municipal Assessment Clerk, I want to 
+monitor live Capitol review milestone statuses online so that I can provide 
+instant, transparent progress updates to taxpayers inquiring at the counter." 
+User Story 5 (Medium Priority): "As a Municipal Treasurer, I want to receive 
+approved assessment records automatically via system synchronization so that 
+accurate tax bills and clearances can be generated without manual delays." 
+6. Assumptions, Constraints, and Open Issues 
+6.1 System Assumptions 
+ 
+ 
+Broadband Connectivity: Municipal Assessor offices (Pasacao, Canaman) and the 
+Provincial Capitol in Pili maintain baseline broadband connections (minimum 10 
+Mbps). 
+Hardware Readiness: Participating offices possess standard desktop PCs running 
+modern web browsers capable of rendering PDF documents and responsive 
+dashboards. 
+Administrative Willingness: Provincial Assessor leadership in Pili will permit 
+designated personnel to participate in controlled pilot trials and evaluation 
+surveys. 
+Legal Recognition: Electronic approvals, cryptographic hashes, and digital 
+stamps produced by the system are recognized as valid administrative acts under 
+the Electronic Commerce Act of 2000 (RA 8792). 
+ 
+6.2 System Constraints 
+Technical Constraints: Direct read/write access to internal mainframe servers of 
+the Provincial Capitol is prohibited by provincial cybersecurity policies. The 
+pipeline must operate as an independent, authenticated web portal. 
+Policy & Statutory Constraints: Under Section 202 of RA 7160, component 
+municipalities cannot grant final assessment approvals. The system must 
+strictly preserve the statutory two-tiered hierarchy (Municipal Recommending -> 
+Provincial Final Approval). 
+Data Privacy Constraints: Must strictly conform to the Data Privacy Act of 2012 
+(RA 10173) regarding land titles, taxpayer identification, property valuations, 
+and financial figures. 
+Budgetary Constraints: Software architecture must utilize open-source frameworks 
+(Python FastAPI/Node.js, React, PostgreSQL) to avoid software licensing burdens 
+for resource-constrained LGUs. 
+Time Constraints: Software development, simulation trials, pilot testing, and 
+thesis manuscript defense must be fully accomplished within the 6-month 
+capstone period (July to December 2026). 
+6.3 Open Issues and Questions 
+PNPKI Integration vs. Platform Tokens: Determining whether the Provincial 
+Assessor will require integration with the DICT Philippine National Public Key 
+Infrastructure (PNPKI) digital certificate authority, or if platform-level 
+SHA-256 tokens and secure QR stamps are sufficient for initial deployment. 
+Physical Document Retention Policy: Establishing whether provincial examiners 
+will require periodic post-audit physical inspections of original notarized 
+deeds of conveyance, even when digital dossiers have been approved online. 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Attachment of Data Gathering Evidences 
+ 
+Target Agency / Location 
+Informants Engaged 
+Key Evidentiary Data 
+Gathered 
+Municipal Assessor's Office, 
+Canaman, Camarines Sur 
+4 Staff Members + 1 Office Head 
+(5 personnel total) 
+Documented manual ledger 
+lookups, 1949 physical archive 
+vaults (2-3 days search time), 
+conveyance requirements, and 
+weekly Thursday/Friday courier 
+runs to Capitol in Pili. 
+Municipal Treasurer's Office, 
+Canaman, Camarines Sur 
+Municipal Treasury Officer & 
+Revenue Staff 
+Confirmed disconnected assessor 
+rolls, real property tax 
+billing workflows, 20% advance 
+discount (Dec), 10% Q1 
+discount, and 2%/month 
+delinquency penalties. 
+Municipal Assessor's Office, 
+Pasacao, Camarines Sur 
+John Francisco (Tax Mapper I) & 
+Assessor Office Staff 
+Benchmarked eRPT software 
+(upgraded 2024), 50–100 daily 
+certification volume, 7-day 
+transfer delays, and complete 
+absence of citizen tracking. 
+UNC CSACIS Faculty Office 
+Sir Chin & Sir Arreb (Research 
+Advisers) 
+Advised on scoping to local 
+municipal workflows, avoiding 
+overlap with adjacent GIS 
+mapping project, and framing 
+the study around an empirical 
+Needs Assessment. 
+UNC CSACIS Capstone Laboratory 
+Capstone Research Professor 
+Analyzed DICT eRPT open-source 
+limitations, municipal server 
+constraints, legacy data 
+migration (1949–2000), and 
+microservice integration 
+architecture. 
+ 
+ 
+7.2 Standardized Interview Questions Administered 
+Question 1: What are the most frequent real property assessment transactions 
+handled daily and monthly in your office? 
+Question 2: What specific documentary requirements are mandatory for a Transfer 
+of Assessment, and how are non-owner representatives validated? 
+Question 3: What is the step-by-step workflow for property appraisal, and how 
+are base market values and assessed values calculated? 
+Question 4: How are property records stored, indexed, and retrieved? How much 
+time is spent retrieving historical records (dating back to 1949)? 
+Question 5: How does your office coordinate with the Municipal Treasurer's 
+Office, and how are assessment rolls and tax payment records reconciled? 
+Question 6: What is the exact process and turnaround time for securing 
+endorsements and approvals from the Provincial Capitol in Pili? 
+Question 7: What software tools (e.g., eRPT, Excel) are currently deployed, what 
+are their main technical limitations, and what features would optimize 
+operations? 
+ 
+ 
+ 
+Forms​
+ 
+ 
