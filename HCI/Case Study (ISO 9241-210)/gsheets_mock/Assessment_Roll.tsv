@@ -1,0 +1,9 @@
+TD No.	PIN	Owner (Masked)	Barangay	Classification	Area (sqm)	Unit Value (PHP/sqm)	Market Value	Assessment Level	Assessed Value	Basic RPT (1%)	SEF (1%)	Total Tax Due	Payment Status	OR No.
+TD-26-0001	041-01-001	Dela Cruz, J.	Balogo	Residential	250	1200	=F2*G2	=IF(E2="Residential",0.2,IF(E2="Agricultural",0.4,0.5))	=H2*I2	=J2*0.01	=J2*0.01	=K2+L2	Paid	7712301
+TD-26-0002	041-02-014	Santos, M.	Caranan	Agricultural	12000	85	=F3*G3	=IF(E3="Residential",0.2,IF(E3="Agricultural",0.4,0.5))	=H3*I3	=J3*0.01	=J3*0.01	=K3+L3	Unpaid	
+TD-26-0003	041-03-007	Reyes, A.	Dalupaon	Commercial	400	2500	=F4*G4	=IF(E4="Residential",0.2,IF(E4="Agricultural",0.4,0.5))	=H4*I4	=J4*0.01	=J4*0.01	=K4+L4	Paid	7712302
+TD-26-0004	041-04-022	Bautista, R.	Odicon	Residential	180	1200	=F5*G5	=IF(E5="Residential",0.2,IF(E5="Agricultural",0.4,0.5))	=H5*I5	=J5*0.01	=J5*0.01	=K5+L5	Paid	7712303
+TD-26-0005	041-05-003	Garcia, L.	Tinalmud	Agricultural	8500	85	=F6*G6	=IF(E6="Residential",0.2,IF(E6="Agricultural",0.4,0.5))	=H6*I6	=J6*0.01	=J6*0.01	=K6+L6	Unpaid	
+TD-26-0006	041-06-011	Mendoza, C.	Macad	Residential	320	1000	=F7*G7	=IF(E7="Residential",0.2,IF(E7="Agricultural",0.4,0.5))	=H7*I7	=J7*0.01	=J7*0.01	=K7+L7	Paid	7712304
+TD-26-0007	041-07-005	Villanueva, P.	Cuco	Commercial	150	2500	=F8*G8	=IF(E8="Residential",0.2,IF(E8="Agricultural",0.4,0.5))	=H8*I8	=J8*0.01	=J8*0.01	=K8+L8	Unpaid	
+TD-26-0008	041-08-019	Ramos, E.	Itulan	Agricultural	15000	85	=F9*G9	=IF(E9="Residential",0.2,IF(E9="Agricultural",0.4,0.5))	=H9*I9	=J9*0.01	=J9*0.01	=K9+L9	Paid	7712305

@@ -3,3 +3,7 @@ package.json
 package-lock.json
 
 # Excluded folders and skills per instructions
+.DS_Store
+*/.DS_Store
+__pycache__/
+*.pyc

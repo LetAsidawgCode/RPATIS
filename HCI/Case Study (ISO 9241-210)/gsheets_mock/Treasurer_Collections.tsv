@@ -1,0 +1,6 @@
+OR No.	Date Paid	TD No.	Amount Paid	Tax Due (from Assessor)	Variance	Remarks
+7712301	2026-01-15	TD-26-0001	1200	=IFERROR(VLOOKUP(C2,Assessment_Roll!A:M,13,FALSE),"NOT FOUND")	=D2-E2	Full payment
+7712302	2026-01-20	TD-26-0003	10000	=IFERROR(VLOOKUP(C3,Assessment_Roll!A:M,13,FALSE),"NOT FOUND")	=D3-E3	Full payment
+7712303	2026-02-03	TD-26-0004	800	=IFERROR(VLOOKUP(C4,Assessment_Roll!A:M,13,FALSE),"NOT FOUND")	=D4-E4	Partial - check with Assessor
+7712304	2026-02-10	TD-26-0006	1280	=IFERROR(VLOOKUP(C5,Assessment_Roll!A:M,13,FALSE),"NOT FOUND")	=D5-E5	Full payment
+7712305	2026-03-02	TD-26-0080	10200	=IFERROR(VLOOKUP(C6,Assessment_Roll!A:M,13,FALSE),"NOT FOUND")	=D6-E6	TD No. typo - manual cross-check
